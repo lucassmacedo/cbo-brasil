@@ -1,0 +1,2471 @@
+<?xml version="1.0" ?>
+<root>
+	<item>
+		<code>0101</code>
+		<name>Oficiais generais das forças armadas</name>
+	</item>
+	<item>
+		<code>0102</code>
+		<name>Oficiais das forças armadas</name>
+	</item>
+	<item>
+		<code>0103</code>
+		<name>Praças das forças armadas</name>
+	</item>
+	<item>
+		<code>0201</code>
+		<name>Oficiais superiores da polícia militar</name>
+	</item>
+	<item>
+		<code>0202</code>
+		<name>Capitães da  polícia militar</name>
+	</item>
+	<item>
+		<code>0203</code>
+		<name>Tenentes da polícia militar</name>
+	</item>
+	<item>
+		<code>0211</code>
+		<name>Subtenentes e sargentos da policia militar</name>
+	</item>
+	<item>
+		<code>0212</code>
+		<name>Cabos e soldados da polícia militar</name>
+	</item>
+	<item>
+		<code>0301</code>
+		<name>Oficiais superiores do corpo de bombeiros militar</name>
+	</item>
+	<item>
+		<code>0302</code>
+		<name>Oficiais intermediários do corpo de bombeiros militar</name>
+	</item>
+	<item>
+		<code>0303</code>
+		<name>Tenentes do corpo de bombeiros militar</name>
+	</item>
+	<item>
+		<code>0311</code>
+		<name>Subtenentes e sargentos do corpo de bombeiros militar</name>
+	</item>
+	<item>
+		<code>0312</code>
+		<name>Cabos e soldados do corpo de bombeiros militar</name>
+	</item>
+	<item>
+		<code>1111</code>
+		<name>Legisladores</name>
+	</item>
+	<item>
+		<code>1112</code>
+		<name>Dirigentes gerais da administração pública</name>
+	</item>
+	<item>
+		<code>1113</code>
+		<name>Magistrados</name>
+	</item>
+	<item>
+		<code>1114</code>
+		<name>Dirigentes do serviço público</name>
+	</item>
+	<item>
+		<code>1115</code>
+		<name>Gestores públicos</name>
+	</item>
+	<item>
+		<code>1130</code>
+		<name>Dirigentes de povos indígenas, de quilombolas e caiçaras</name>
+	</item>
+	<item>
+		<code>1141</code>
+		<name>Dirigentes de partidos políticos</name>
+	</item>
+	<item>
+		<code>1142</code>
+		<name>Dirigentes e administradores de entidades patronais e dos trabalhadores e de outros interesses sócioeconômicos</name>
+	</item>
+	<item>
+		<code>1143</code>
+		<name>Dirigentes e administradores de entidades religiosas</name>
+	</item>
+	<item>
+		<code>1144</code>
+		<name>Dirigentes e administradores de organizações da sociedade civil sem fins lucrativos</name>
+	</item>
+	<item>
+		<code>1210</code>
+		<name>Diretores gerais</name>
+	</item>
+	<item>
+		<code>1221</code>
+		<name>Diretores de produção e operações em empresa agropecuária, pesqueira , aqüícola e florestal</name>
+	</item>
+	<item>
+		<code>1222</code>
+		<name>Diretores de produção e operações em empresa da indústria extrativa, transformação e de serviços de utilidade pública</name>
+	</item>
+	<item>
+		<code>1223</code>
+		<name>Diretores de operações de obras em empresa de construção</name>
+	</item>
+	<item>
+		<code>1224</code>
+		<name>Diretores de operações em empresa do comércio</name>
+	</item>
+	<item>
+		<code>1225</code>
+		<name>Diretores de serviços de turismo, de alojamento e de alimentação</name>
+	</item>
+	<item>
+		<code>1226</code>
+		<name>Diretores de operações de serviços em empresa de armazenamento, de transporte e de telecomunicação</name>
+	</item>
+	<item>
+		<code>1227</code>
+		<name>Diretores de operações de serviços em instituição de intermediação financeira</name>
+	</item>
+	<item>
+		<code>1231</code>
+		<name>Diretores administrativos e financeiros</name>
+	</item>
+	<item>
+		<code>1232</code>
+		<name>Diretores de recursos humanos e relações de trabalho</name>
+	</item>
+	<item>
+		<code>1233</code>
+		<name>Diretores de comercialização e marketing</name>
+	</item>
+	<item>
+		<code>1234</code>
+		<name>Diretores de suprimentos e afins</name>
+	</item>
+	<item>
+		<code>1236</code>
+		<name>Diretores de serviços de informática</name>
+	</item>
+	<item>
+		<code>1237</code>
+		<name>Diretores de pesquisa e desenvolvimento</name>
+	</item>
+	<item>
+		<code>1238</code>
+		<name>Diretores de manutenção</name>
+	</item>
+	<item>
+		<code>1311</code>
+		<name>Diretores e gerentes de operações em empresa de serviços pessoais, sociais e culturais</name>
+	</item>
+	<item>
+		<code>1312</code>
+		<name>Gestores e especialistas de operações em empresas, secretarias e unidades de serviços de saúde</name>
+	</item>
+	<item>
+		<code>1313</code>
+		<name>Diretores e gerentes de instituição de serviços educacionais</name>
+	</item>
+	<item>
+		<code>1411</code>
+		<name>Gerentes de produção e operações em empresa agropecuária, pesqueira, aqüícola e florestal</name>
+	</item>
+	<item>
+		<code>1412</code>
+		<name>Gerentes de produção e operações em empresa da indústria extrativa, de transformação e de serviços de utilidade pública</name>
+	</item>
+	<item>
+		<code>1413</code>
+		<name>Gerentes de obras em empresa de construção</name>
+	</item>
+	<item>
+		<code>1414</code>
+		<name>Gerentes de operações comerciais e de assistência técnica</name>
+	</item>
+	<item>
+		<code>1415</code>
+		<name>Gerentes de operações de serviços em empresa de turismo, de alojamento e alimentação</name>
+	</item>
+	<item>
+		<code>1416</code>
+		<name>Gerentes de operações de serviços em empresa de transporte, de comunicação e de logística (armazenagem e distribuição)</name>
+	</item>
+	<item>
+		<code>1417</code>
+		<name>Gerentes de operações de serviços em instituição de intermediação financeira</name>
+	</item>
+	<item>
+		<code>1421</code>
+		<name>Gerentes administrativos, financeiros, de riscos e afins</name>
+	</item>
+	<item>
+		<code>1422</code>
+		<name>Gerentes de recursos humanos e de relações do trabalho</name>
+	</item>
+	<item>
+		<code>1423</code>
+		<name>Gerentes de comercialização, marketing e comunicação</name>
+	</item>
+	<item>
+		<code>1424</code>
+		<name>Gerentes de suprimentos e afins</name>
+	</item>
+	<item>
+		<code>1425</code>
+		<name>Gerentes de tecnologia da informação</name>
+	</item>
+	<item>
+		<code>1426</code>
+		<name>Gerentes de pesquisa e desenvolvimento e afins</name>
+	</item>
+	<item>
+		<code>1427</code>
+		<name>Gerentes de manutenção e afins</name>
+	</item>
+	<item>
+		<code>2011</code>
+		<name>Profissionais da biotecnologia</name>
+	</item>
+	<item>
+		<code>2012</code>
+		<name>Profissionais da metrologia</name>
+	</item>
+	<item>
+		<code>2021</code>
+		<name>Engenheiros de controle e automação, engenheiros mecatrônicos e afins</name>
+	</item>
+	<item>
+		<code>2030</code>
+		<name>Pesquisadores das ciências biológicas</name>
+	</item>
+	<item>
+		<code>2031</code>
+		<name>Pesquisadores das ciências naturais e exatas</name>
+	</item>
+	<item>
+		<code>2032</code>
+		<name>Pesquisadores de engenharia e tecnologia</name>
+	</item>
+	<item>
+		<code>2033</code>
+		<name>Pesquisadores das ciências da saúde</name>
+	</item>
+	<item>
+		<code>2034</code>
+		<name>Pesquisadores das ciências da agricultura</name>
+	</item>
+	<item>
+		<code>2035</code>
+		<name>Pesquisadores das ciências sociais e humanas</name>
+	</item>
+	<item>
+		<code>2041</code>
+		<name>Peritos criminais</name>
+	</item>
+	<item>
+		<code>2111</code>
+		<name>Profissionais da matemática</name>
+	</item>
+	<item>
+		<code>2112</code>
+		<name>Profissionais de estatística</name>
+	</item>
+	<item>
+		<code>2122</code>
+		<name>Engenheiros em computação</name>
+	</item>
+	<item>
+		<code>2123</code>
+		<name>Administradores de tecnologia da informação</name>
+	</item>
+	<item>
+		<code>2124</code>
+		<name>Analistas de tecnologia da informação</name>
+	</item>
+	<item>
+		<code>2131</code>
+		<name>Físicos</name>
+	</item>
+	<item>
+		<code>2132</code>
+		<name>Químicos</name>
+	</item>
+	<item>
+		<code>2133</code>
+		<name>Profissionais das ciências atmosféricas e espaciais e de astronomia</name>
+	</item>
+	<item>
+		<code>2134</code>
+		<name>Geólogos, oceanógrafos, geofísicos e afins</name>
+	</item>
+	<item>
+		<code>2140</code>
+		<name>Engenheiros ambientais e afins</name>
+	</item>
+	<item>
+		<code>2141</code>
+		<name>Arquitetos e urbanistas</name>
+	</item>
+	<item>
+		<code>2142</code>
+		<name>Engenheiros civis e afins</name>
+	</item>
+	<item>
+		<code>2143</code>
+		<name>Engenheiros eletricistas, eletrônicos e afins</name>
+	</item>
+	<item>
+		<code>2144</code>
+		<name>Engenheiros mecânicos e afins</name>
+	</item>
+	<item>
+		<code>2145</code>
+		<name>Engenheiros químicos e afins</name>
+	</item>
+	<item>
+		<code>2146</code>
+		<name>Engenheiros metalurgistas, de materiais e afins</name>
+	</item>
+	<item>
+		<code>2147</code>
+		<name>Engenheiros de minas e afins</name>
+	</item>
+	<item>
+		<code>2148</code>
+		<name>Engenheiros agrimensores e engenheiros cartógrafos</name>
+	</item>
+	<item>
+		<code>2149</code>
+		<name>Engenheiros de produção, qualidade, segurança e afins</name>
+	</item>
+	<item>
+		<code>2151</code>
+		<name>Oficiais de convés e afins</name>
+	</item>
+	<item>
+		<code>2152</code>
+		<name>Oficiais de máquinas da marinha mercante</name>
+	</item>
+	<item>
+		<code>2153</code>
+		<name>Profissionais da pilotagem aeronáutica</name>
+	</item>
+	<item>
+		<code>2211</code>
+		<name>Biólogos e afins</name>
+	</item>
+	<item>
+		<code>2212</code>
+		<name>Biomédicos</name>
+	</item>
+	<item>
+		<code>2221</code>
+		<name>Engenheiros agrossilvipecuários</name>
+	</item>
+	<item>
+		<code>2222</code>
+		<name>Engenheiros de alimentos e afins</name>
+	</item>
+	<item>
+		<code>2232</code>
+		<name>Cirurgiões-dentistas</name>
+	</item>
+	<item>
+		<code>2233</code>
+		<name>Veterinários e zootecnistas</name>
+	</item>
+	<item>
+		<code>2234</code>
+		<name>Farmacêuticos</name>
+	</item>
+	<item>
+		<code>2235</code>
+		<name>Enfermeiros e afins</name>
+	</item>
+	<item>
+		<code>2236</code>
+		<name>Fisioterapeutas</name>
+	</item>
+	<item>
+		<code>2237</code>
+		<name>Nutricionistas</name>
+	</item>
+	<item>
+		<code>2238</code>
+		<name>Fonoaudiólogos</name>
+	</item>
+	<item>
+		<code>2239</code>
+		<name>Terapeutas ocupacionais e ortoptistas</name>
+	</item>
+	<item>
+		<code>2241</code>
+		<name>Profissionais da educação física</name>
+	</item>
+	<item>
+		<code>2251</code>
+		<name>Médicos clínicos</name>
+	</item>
+	<item>
+		<code>2252</code>
+		<name>Médicos em especialidades cirúrgicas</name>
+	</item>
+	<item>
+		<code>2253</code>
+		<name>Médicos em medicina diagnóstica e terapêutica</name>
+	</item>
+	<item>
+		<code>2261</code>
+		<name>Osteopatas e quiropraxistas</name>
+	</item>
+	<item>
+		<code>2263</code>
+		<name>Profissionais das terapias criativas,equoterápicas e naturológicas</name>
+	</item>
+	<item>
+		<code>2311</code>
+		<name>Professores de nível superior na educação infantil</name>
+	</item>
+	<item>
+		<code>2312</code>
+		<name>Professores de nível superior do ensino fundamental (primeira a quarta séries)</name>
+	</item>
+	<item>
+		<code>2313</code>
+		<name>Professores de nível superior no ensino fundamental de quinta a oitava série</name>
+	</item>
+	<item>
+		<code>2321</code>
+		<name>Professores do ensino médio</name>
+	</item>
+	<item>
+		<code>2331</code>
+		<name>Professores do ensino profissional</name>
+	</item>
+	<item>
+		<code>2332</code>
+		<name>Instrutores de ensino profissional</name>
+	</item>
+	<item>
+		<code>2341</code>
+		<name>Professores de matemática, estatística e informática do ensino superior</name>
+	</item>
+	<item>
+		<code>2342</code>
+		<name>Professores de ciências físicas, químicas e afins do ensino superior</name>
+	</item>
+	<item>
+		<code>2343</code>
+		<name>Professores de arquitetura e urbanismo, engenharia, geofísica e geologia do ensino superior</name>
+	</item>
+	<item>
+		<code>2344</code>
+		<name>Professores de ciências biológicas e da saúde do ensino superior</name>
+	</item>
+	<item>
+		<code>2345</code>
+		<name>Professores na área de formação pedagógica do ensino superior</name>
+	</item>
+	<item>
+		<code>2346</code>
+		<name>Professores nas áreas de língua e literatura do ensino superior</name>
+	</item>
+	<item>
+		<code>2347</code>
+		<name>Professores de ciências humanas do ensino superior</name>
+	</item>
+	<item>
+		<code>2348</code>
+		<name>Professores de ciências econômicas, administrativas e contábeis do ensino superior</name>
+	</item>
+	<item>
+		<code>2349</code>
+		<name>Professores de artes do ensino superior</name>
+	</item>
+	<item>
+		<code>2392</code>
+		<name>Professores de educação especial</name>
+	</item>
+	<item>
+		<code>2394</code>
+		<name>Programadores, avaliadores e orientadores de ensino</name>
+	</item>
+	<item>
+		<code>2410</code>
+		<name>Advogados</name>
+	</item>
+	<item>
+		<code>2412</code>
+		<name>Procuradores e advogados públicos</name>
+	</item>
+	<item>
+		<code>2413</code>
+		<name>Tabeliães e registradores</name>
+	</item>
+	<item>
+		<code>2422</code>
+		<name>Membros do ministério público</name>
+	</item>
+	<item>
+		<code>2423</code>
+		<name>Delegados de polícia</name>
+	</item>
+	<item>
+		<code>2424</code>
+		<name>Defensores públicos e procuradores da assistência judiciária</name>
+	</item>
+	<item>
+		<code>2429</code>
+		<name>Profissionais da inteligência</name>
+	</item>
+	<item>
+		<code>2511</code>
+		<name>Profissionais em pesquisa e análise antropológica sociológica</name>
+	</item>
+	<item>
+		<code>2512</code>
+		<name>Economistas</name>
+	</item>
+	<item>
+		<code>2513</code>
+		<name>Profissionais em pesquisa e análise geográfica</name>
+	</item>
+	<item>
+		<code>2514</code>
+		<name>Filósofos</name>
+	</item>
+	<item>
+		<code>2515</code>
+		<name>Psicólogos e psicanalistas</name>
+	</item>
+	<item>
+		<code>2516</code>
+		<name>Assistentes sociais e economistas domésticos</name>
+	</item>
+	<item>
+		<code>2521</code>
+		<name>Administradores</name>
+	</item>
+	<item>
+		<code>2522</code>
+		<name>Contadores e afins</name>
+	</item>
+	<item>
+		<code>2523</code>
+		<name>Secretárias(os) executivas(os) e afins</name>
+	</item>
+	<item>
+		<code>2524</code>
+		<name>Profissionais de recursos humanos</name>
+	</item>
+	<item>
+		<code>2525</code>
+		<name>Profissionais de administração ecônomico-financeira</name>
+	</item>
+	<item>
+		<code>2526</code>
+		<name>Profissionais da administração dos serviços de segurança</name>
+	</item>
+	<item>
+		<code>2527</code>
+		<name>Profissionais de planejamento, programação e controles logisticos</name>
+	</item>
+	<item>
+		<code>2531</code>
+		<name>Profissionais de publicidade</name>
+	</item>
+	<item>
+		<code>2532</code>
+		<name>Profissionais de comercializacão e consultoria de serviços bancários</name>
+	</item>
+	<item>
+		<code>2533</code>
+		<name>Corretores de valores, ativos financeiros, mercadorias e derivativos</name>
+	</item>
+	<item>
+		<code>2541</code>
+		<name>Auditores fiscais e técnicos da receita federal</name>
+	</item>
+	<item>
+		<code>2542</code>
+		<name>Auditores fiscais da previdência social</name>
+	</item>
+	<item>
+		<code>2543</code>
+		<name>Auditores fiscais do trabalho</name>
+	</item>
+	<item>
+		<code>2544</code>
+		<name>Fiscais de tributos estaduais e municipais</name>
+	</item>
+	<item>
+		<code>2545</code>
+		<name>Profissionais da fiscalização de atividades urbanas</name>
+	</item>
+	<item>
+		<code>2611</code>
+		<name>Profissionais do jornalismo</name>
+	</item>
+	<item>
+		<code>2612</code>
+		<name>Profissionais da informação</name>
+	</item>
+	<item>
+		<code>2613</code>
+		<name>Arquivistas e museólogos</name>
+	</item>
+	<item>
+		<code>2614</code>
+		<name>Filólogos,tradutores ,intérpretes e afins</name>
+	</item>
+	<item>
+		<code>2615</code>
+		<name>Profissionais da escrita</name>
+	</item>
+	<item>
+		<code>2616</code>
+		<name>Editores</name>
+	</item>
+	<item>
+		<code>2617</code>
+		<name>Locutores, comentaristas e repórteres de rádio e televisão</name>
+	</item>
+	<item>
+		<code>2618</code>
+		<name>Fotógrafos profissionais</name>
+	</item>
+	<item>
+		<code>2621</code>
+		<name>Produtores artísticos e culturais</name>
+	</item>
+	<item>
+		<code>2622</code>
+		<name>Diretores de espetáculos e afins</name>
+	</item>
+	<item>
+		<code>2623</code>
+		<name>Cenógrafos</name>
+	</item>
+	<item>
+		<code>2624</code>
+		<name>Artistas visuais,desenhistas industriais e conservadores-restauradores de bens culturais</name>
+	</item>
+	<item>
+		<code>2625</code>
+		<name>Atores</name>
+	</item>
+	<item>
+		<code>2626</code>
+		<name>Músicos compositores, arranjadores, regentes e musicólogos</name>
+	</item>
+	<item>
+		<code>2627</code>
+		<name>Músicos intérpretes</name>
+	</item>
+	<item>
+		<code>2628</code>
+		<name>Artistas da dança (exceto dança tradicional e popular)</name>
+	</item>
+	<item>
+		<code>2629</code>
+		<name>Designer de interiores de nível superior</name>
+	</item>
+	<item>
+		<code>2631</code>
+		<name>Ministros de culto, missionários, teólogos e profissionais assemelhados</name>
+	</item>
+	<item>
+		<code>2711</code>
+		<name>Chefes de cozinha e afins</name>
+	</item>
+	<item>
+		<code>3001</code>
+		<name>Técnicos em mecatrônica</name>
+	</item>
+	<item>
+		<code>3003</code>
+		<name>Técnicos em eletromecânica</name>
+	</item>
+	<item>
+		<code>3011</code>
+		<name>Técnicos de laboratório industrial</name>
+	</item>
+	<item>
+		<code>3012</code>
+		<name>Técnicos de apoio à bioengenharia</name>
+	</item>
+	<item>
+		<code>3111</code>
+		<name>Técnicos químicos</name>
+	</item>
+	<item>
+		<code>3112</code>
+		<name>Técnicos de produção de indústrias químicas, petroquímicas, refino de petróleo, gás e afins</name>
+	</item>
+	<item>
+		<code>3113</code>
+		<name>Técnicos em materiais, produtos cerâmicos e vidros</name>
+	</item>
+	<item>
+		<code>3114</code>
+		<name>Técnicos em fabricação de produtos plásticos e de borracha</name>
+	</item>
+	<item>
+		<code>3115</code>
+		<name>Técnicos em controle ambiental, utilidades e tratamento de efluentes</name>
+	</item>
+	<item>
+		<code>3116</code>
+		<name>Técnicos têxteis</name>
+	</item>
+	<item>
+		<code>3117</code>
+		<name>Coloristas</name>
+	</item>
+	<item>
+		<code>3121</code>
+		<name>Técnicos em construção civil (edificações)</name>
+	</item>
+	<item>
+		<code>3122</code>
+		<name>Técnicos em construção civil (obras de infraestrutura)</name>
+	</item>
+	<item>
+		<code>3123</code>
+		<name>Técnicos em geomática</name>
+	</item>
+	<item>
+		<code>3131</code>
+		<name>Técnicos em eletricidade e eletrotécnica</name>
+	</item>
+	<item>
+		<code>3132</code>
+		<name>Técnicos em eletrônica</name>
+	</item>
+	<item>
+		<code>3133</code>
+		<name>Técnicos em telecomunicações</name>
+	</item>
+	<item>
+		<code>3134</code>
+		<name>Técnicos em calibração e instrumentação</name>
+	</item>
+	<item>
+		<code>3135</code>
+		<name>Técnicos em fotônica</name>
+	</item>
+	<item>
+		<code>3141</code>
+		<name>Técnicos mecânicos na fabricação e montagem de máquinas, sistemas e instrumentos</name>
+	</item>
+	<item>
+		<code>3142</code>
+		<name>Técnicos mecânicos (ferramentas)</name>
+	</item>
+	<item>
+		<code>3143</code>
+		<name>Técnicos em mecânica veicular</name>
+	</item>
+	<item>
+		<code>3144</code>
+		<name>Técnicos mecânicos na manutenção de máquinas, sistemas e instrumentos</name>
+	</item>
+	<item>
+		<code>3146</code>
+		<name>Técnicos em metalurgia (estruturas metálicas)</name>
+	</item>
+	<item>
+		<code>3147</code>
+		<name>Técnicos em siderurgia</name>
+	</item>
+	<item>
+		<code>3161</code>
+		<name>Técnicos em geologia</name>
+	</item>
+	<item>
+		<code>3163</code>
+		<name>Técnicos em mineração</name>
+	</item>
+	<item>
+		<code>3171</code>
+		<name>Técnicos de desenvolvimento de sistemas e aplicações</name>
+	</item>
+	<item>
+		<code>3172</code>
+		<name>Técnicos em operação e monitoração de computadores</name>
+	</item>
+	<item>
+		<code>3180</code>
+		<name>Desenhistas técnicos, em geral</name>
+	</item>
+	<item>
+		<code>3181</code>
+		<name>Desenhistas técnicos da construção civil e arquitetura</name>
+	</item>
+	<item>
+		<code>3182</code>
+		<name>Desenhistas técnicos da mecânica</name>
+	</item>
+	<item>
+		<code>3183</code>
+		<name>Desenhistas técnicos em eletricidade, eletrônica, eletromecânica, calefação, ventilação e refrigeração</name>
+	</item>
+	<item>
+		<code>3184</code>
+		<name>Desenhistas técnicos de produtos e serviços diversos</name>
+	</item>
+	<item>
+		<code>3185</code>
+		<name>Desenhistas projetistas de construção civil e arquitetura</name>
+	</item>
+	<item>
+		<code>3186</code>
+		<name>Desenhistas projetistas da mecânica</name>
+	</item>
+	<item>
+		<code>3187</code>
+		<name>Desenhistas projetistas da eletrônica</name>
+	</item>
+	<item>
+		<code>3188</code>
+		<name>Desenhistas projetistas e modelistas de produtos e serviços diversos</name>
+	</item>
+	<item>
+		<code>3191</code>
+		<name>Técnicos do vestuário</name>
+	</item>
+	<item>
+		<code>3192</code>
+		<name>Técnicos do mobiliário e afins</name>
+	</item>
+	<item>
+		<code>3201</code>
+		<name>Técnicos em biologia</name>
+	</item>
+	<item>
+		<code>3211</code>
+		<name>Técnicos agrícolas</name>
+	</item>
+	<item>
+		<code>3212</code>
+		<name>Técnicos florestais</name>
+	</item>
+	<item>
+		<code>3213</code>
+		<name>Técnicos em aqüicultura</name>
+	</item>
+	<item>
+		<code>3221</code>
+		<name>Tecnólogos e técnicos em terapias complementares e estéticas</name>
+	</item>
+	<item>
+		<code>3222</code>
+		<name>Técnicos e auxiliares de enfermagem</name>
+	</item>
+	<item>
+		<code>3223</code>
+		<name>Técnicos em óptica e optometria</name>
+	</item>
+	<item>
+		<code>3224</code>
+		<name>Técnicos de odontologia</name>
+	</item>
+	<item>
+		<code>3225</code>
+		<name>Técnicos em próteses ortopédicas</name>
+	</item>
+	<item>
+		<code>3226</code>
+		<name>Técnicos de imobilizações ortopédicas</name>
+	</item>
+	<item>
+		<code>3231</code>
+		<name>Técnicos em pecuária</name>
+	</item>
+	<item>
+		<code>3241</code>
+		<name>Tecnólogos e técnicos em métodos de diagnósticos e terapêutica</name>
+	</item>
+	<item>
+		<code>3242</code>
+		<name>Técnicos de laboratórios de saúde e bancos de sangue</name>
+	</item>
+	<item>
+		<code>3250</code>
+		<name>Enólogos, perfumistas e aromistas</name>
+	</item>
+	<item>
+		<code>3251</code>
+		<name>Técnico em farmácia e em manipulação farmacêutica</name>
+	</item>
+	<item>
+		<code>3252</code>
+		<name>Técnicos em produção, conservação  e de qualidade de alimentos</name>
+	</item>
+	<item>
+		<code>3253</code>
+		<name>Técnicos de apoio à biotecnologia</name>
+	</item>
+	<item>
+		<code>3281</code>
+		<name>Técnicos em necrópsia e taxidermistas</name>
+	</item>
+	<item>
+		<code>3311</code>
+		<name>Professores de nível médio na educação infantil</name>
+	</item>
+	<item>
+		<code>3312</code>
+		<name>Professores de nível médio no ensino fundamental</name>
+	</item>
+	<item>
+		<code>3313</code>
+		<name>Professores de nível médio no ensino profissionalizante</name>
+	</item>
+	<item>
+		<code>3321</code>
+		<name>Professores leigos no ensino fundamental</name>
+	</item>
+	<item>
+		<code>3322</code>
+		<name>Professores práticos no ensino profissionalizante</name>
+	</item>
+	<item>
+		<code>3331</code>
+		<name>Instrutores e professores de cursos livres</name>
+	</item>
+	<item>
+		<code>3341</code>
+		<name>Inspetores de alunos e afins</name>
+	</item>
+	<item>
+		<code>3411</code>
+		<name>Pilotos de aviação comercial, mecânicos de vôo e afins</name>
+	</item>
+	<item>
+		<code>3412</code>
+		<name>Técnicos marítimos, fluviários e pescadores de convés</name>
+	</item>
+	<item>
+		<code>3413</code>
+		<name>Técnicos marítimos e fluviários de máquinas</name>
+	</item>
+	<item>
+		<code>3421</code>
+		<name>Especialistas em logística de transportes</name>
+	</item>
+	<item>
+		<code>3422</code>
+		<name>Despachantes aduaneiros</name>
+	</item>
+	<item>
+		<code>3423</code>
+		<name>Técnicos em transportes rodoviários</name>
+	</item>
+	<item>
+		<code>3424</code>
+		<name>Técnicos em transportes metroferroviários</name>
+	</item>
+	<item>
+		<code>3425</code>
+		<name>Técnicos em transportes aéreos</name>
+	</item>
+	<item>
+		<code>3426</code>
+		<name>Técnicos em transportes por vias navegáveis e operações portuárias</name>
+	</item>
+	<item>
+		<code>3511</code>
+		<name>Técnicos em contabilidade</name>
+	</item>
+	<item>
+		<code>3513</code>
+		<name>Técnicos em administração</name>
+	</item>
+	<item>
+		<code>3514</code>
+		<name>Serventuários da justiça e afins</name>
+	</item>
+	<item>
+		<code>3515</code>
+		<name>Técnicos em secretariado, taquígrafos e estenotipistas</name>
+	</item>
+	<item>
+		<code>3516</code>
+		<name>Técnicos em segurança do trabalho</name>
+	</item>
+	<item>
+		<code>3517</code>
+		<name>Técnicos de seguros e afins</name>
+	</item>
+	<item>
+		<code>3518</code>
+		<name>Agentes de investigação e identificação</name>
+	</item>
+	<item>
+		<code>3519</code>
+		<name>Técnicos da inteligência</name>
+	</item>
+	<item>
+		<code>3522</code>
+		<name>Agentes da saúde e do meio ambiente</name>
+	</item>
+	<item>
+		<code>3523</code>
+		<name>Agentes  fiscais metrológicos e de qualidade</name>
+	</item>
+	<item>
+		<code>3524</code>
+		<name>Profissionais de direitos autorais e de avaliacão de produtos dos meios de comunicação</name>
+	</item>
+	<item>
+		<code>3532</code>
+		<name>Técnicos em operações e serviços bancários</name>
+	</item>
+	<item>
+		<code>3541</code>
+		<name>Especialistas em promoção de produtos e vendas</name>
+	</item>
+	<item>
+		<code>3542</code>
+		<name>Compradores</name>
+	</item>
+	<item>
+		<code>3543</code>
+		<name>Analistas de comércio exterior</name>
+	</item>
+	<item>
+		<code>3544</code>
+		<name>Leiloeiros e avaliadores</name>
+	</item>
+	<item>
+		<code>3545</code>
+		<name>Corretores de seguros</name>
+	</item>
+	<item>
+		<code>3546</code>
+		<name>Corretores de imóveis</name>
+	</item>
+	<item>
+		<code>3547</code>
+		<name>Representantes comerciais autônomos</name>
+	</item>
+	<item>
+		<code>3548</code>
+		<name>Técnicos em serviços de turismo e organização de eventos</name>
+	</item>
+	<item>
+		<code>3711</code>
+		<name>Técnicos em biblioteconomia</name>
+	</item>
+	<item>
+		<code>3712</code>
+		<name>Técnicos em museologia e afins</name>
+	</item>
+	<item>
+		<code>3713</code>
+		<name>Técnicos em artes gráficas</name>
+	</item>
+	<item>
+		<code>3714</code>
+		<name>Recreadores</name>
+	</item>
+	<item>
+		<code>3721</code>
+		<name>Captadores de imagens em movimento</name>
+	</item>
+	<item>
+		<code>3722</code>
+		<name>Operadores de rede de teleprocessamento e afins</name>
+	</item>
+	<item>
+		<code>3731</code>
+		<name>Técnicos de operação de emissoras de rádio</name>
+	</item>
+	<item>
+		<code>3732</code>
+		<name>Técnicos em operação de sistemas de televisão e de produtoras de vídeo</name>
+	</item>
+	<item>
+		<code>3741</code>
+		<name>Técnicos em áudio</name>
+	</item>
+	<item>
+		<code>3742</code>
+		<name>Técnicos em cenografia</name>
+	</item>
+	<item>
+		<code>3743</code>
+		<name>Técnicos em operação de aparelhos de projeção</name>
+	</item>
+	<item>
+		<code>3744</code>
+		<name>Técnicos em montagem, edição e finalização de filme e vídeo</name>
+	</item>
+	<item>
+		<code>3751</code>
+		<name>Designers de interiores, de vitrines e visual merchandiser e afins (nível médio)</name>
+	</item>
+	<item>
+		<code>3761</code>
+		<name>Dançarinos tradicionais e populares</name>
+	</item>
+	<item>
+		<code>3762</code>
+		<name>Artistas de circo (circenses)</name>
+	</item>
+	<item>
+		<code>3763</code>
+		<name>Apresentadores de eventos, programas e espetáculos</name>
+	</item>
+	<item>
+		<code>3764</code>
+		<name>Modelos</name>
+	</item>
+	<item>
+		<code>3771</code>
+		<name>Atletas profissionais</name>
+	</item>
+	<item>
+		<code>3772</code>
+		<name>Árbitros desportivos</name>
+	</item>
+	<item>
+		<code>3911</code>
+		<name>Técnicos de planejamento e controle de produção</name>
+	</item>
+	<item>
+		<code>3912</code>
+		<name>Técnicos de controle da produção</name>
+	</item>
+	<item>
+		<code>3951</code>
+		<name>Técnicos de apoio em pesquisa e desenvolvimento</name>
+	</item>
+	<item>
+		<code>4101</code>
+		<name>Supervisores administrativos</name>
+	</item>
+	<item>
+		<code>4102</code>
+		<name>Supervisores de serviços financeiros, de câmbio e de controle</name>
+	</item>
+	<item>
+		<code>4110</code>
+		<name>Agentes, assistentes e auxiliares administrativos</name>
+	</item>
+	<item>
+		<code>4121</code>
+		<name>Operadores de equipamentos de entrada e transmissão de dados</name>
+	</item>
+	<item>
+		<code>4122</code>
+		<name>Contínuos</name>
+	</item>
+	<item>
+		<code>4131</code>
+		<name>Auxiliares de contabilidade</name>
+	</item>
+	<item>
+		<code>4132</code>
+		<name>Escriturários de serviços bancários</name>
+	</item>
+	<item>
+		<code>4141</code>
+		<name>Almoxarifes e armazenistas</name>
+	</item>
+	<item>
+		<code>4142</code>
+		<name>Apontadores e conferentes</name>
+	</item>
+	<item>
+		<code>4151</code>
+		<name>Auxiliares de serviços de documentação, informação e pesquisa</name>
+	</item>
+	<item>
+		<code>4152</code>
+		<name>Trabalhadores nos serviços de classificação e entregas de correspondências, encomendas e publicações</name>
+	</item>
+	<item>
+		<code>4201</code>
+		<name>Supervisores de atendimento ao público e de pesquisa</name>
+	</item>
+	<item>
+		<code>4211</code>
+		<name>Caixas e bilheteiros (exceto caixa de banco)</name>
+	</item>
+	<item>
+		<code>4212</code>
+		<name>Coletadores de apostas e de jogos</name>
+	</item>
+	<item>
+		<code>4213</code>
+		<name>Cobradores e afins</name>
+	</item>
+	<item>
+		<code>4221</code>
+		<name>Recepcionistas</name>
+	</item>
+	<item>
+		<code>4222</code>
+		<name>Operadores de telefonia</name>
+	</item>
+	<item>
+		<code>4223</code>
+		<name>Operadores de telemarketing</name>
+	</item>
+	<item>
+		<code>4231</code>
+		<name>Despachantes documentalistas e afins</name>
+	</item>
+	<item>
+		<code>4241</code>
+		<name>Entrevistadores e recenseadores</name>
+	</item>
+	<item>
+		<code>4242</code>
+		<name>Aplicadores de provas e afins</name>
+	</item>
+	<item>
+		<code>5101</code>
+		<name>Supervisores dos serviços de transporte, turismo, hotelaria e administração de edifícios</name>
+	</item>
+	<item>
+		<code>5102</code>
+		<name>Supervisores de lavanderia</name>
+	</item>
+	<item>
+		<code>5103</code>
+		<name>Supervisores dos serviços de proteção, segurança e outros</name>
+	</item>
+	<item>
+		<code>5111</code>
+		<name>Trabalhadores de segurança e atendimento aos usuários nos transportes</name>
+	</item>
+	<item>
+		<code>5112</code>
+		<name>Fiscais e cobradores dos transportes coletivos</name>
+	</item>
+	<item>
+		<code>5114</code>
+		<name>Guias de turismo</name>
+	</item>
+	<item>
+		<code>5115</code>
+		<name>Condutores de turismo</name>
+	</item>
+	<item>
+		<code>5121</code>
+		<name>Trabalhadores dos serviços domésticos em geral</name>
+	</item>
+	<item>
+		<code>5131</code>
+		<name>Mordomos e governantas</name>
+	</item>
+	<item>
+		<code>5132</code>
+		<name>Cozinheiros</name>
+	</item>
+	<item>
+		<code>5133</code>
+		<name>Camareiros, roupeiros e afins</name>
+	</item>
+	<item>
+		<code>5134</code>
+		<name>Trabalhadores no atendimento em estabelecimentos de serviços de alimentação, bebidas e hotelaria</name>
+	</item>
+	<item>
+		<code>5135</code>
+		<name>Trabalhadores auxiliares nos serviços de alimentação</name>
+	</item>
+	<item>
+		<code>5136</code>
+		<name>Churrasqueiros, pizzaiolos e sushimen</name>
+	</item>
+	<item>
+		<code>5141</code>
+		<name>Trabalhadores nos serviços de administração de edifícios</name>
+	</item>
+	<item>
+		<code>5142</code>
+		<name>Trabalhadores nos serviços de coleta de resíduos, de limpeza e conservação de áreas públicas</name>
+	</item>
+	<item>
+		<code>5143</code>
+		<name>Trabalhadores nos  serviços de manutenção de edificações</name>
+	</item>
+	<item>
+		<code>5151</code>
+		<name>Trabalhadores em serviços de promoção e apoio à saúde</name>
+	</item>
+	<item>
+		<code>5152</code>
+		<name>Auxiliares de laboratório da saúde</name>
+	</item>
+	<item>
+		<code>5153</code>
+		<name>Trabalhadores de atenção, defesa e proteção a pessoas em situação de risco e adolescentes em conflito com a lei</name>
+	</item>
+	<item>
+		<code>5161</code>
+		<name>Trabalhadores nos serviços de embelezamento e higiene</name>
+	</item>
+	<item>
+		<code>5162</code>
+		<name>Cuidadores de crianças, jovens, adultos e idosos</name>
+	</item>
+	<item>
+		<code>5163</code>
+		<name>Tintureiros, lavadeiros e afins, a máquina</name>
+	</item>
+	<item>
+		<code>5164</code>
+		<name>Lavadores e passadores de roupa, a mão</name>
+	</item>
+	<item>
+		<code>5165</code>
+		<name>Trabalhadores dos serviços funerários</name>
+	</item>
+	<item>
+		<code>5166</code>
+		<name>Trabalhadores auxiliares dos serviços funerários</name>
+	</item>
+	<item>
+		<code>5167</code>
+		<name>Astrólogos e numerólogos</name>
+	</item>
+	<item>
+		<code>5168</code>
+		<name>Esotéricos e paranormais</name>
+	</item>
+	<item>
+		<code>5171</code>
+		<name>Bombeiros e salva-vidas</name>
+	</item>
+	<item>
+		<code>5172</code>
+		<name>Policiais, guardas-civis municipais e agentes de trânsito</name>
+	</item>
+	<item>
+		<code>5173</code>
+		<name>Vigilantes e guardas de segurança</name>
+	</item>
+	<item>
+		<code>5174</code>
+		<name>Porteiros, vigias e afins</name>
+	</item>
+	<item>
+		<code>5191</code>
+		<name>Motociclistas e ciclistas de entregas rápidas</name>
+	</item>
+	<item>
+		<code>5192</code>
+		<name>Trabalhadores da coleta e seleção de material reciclável</name>
+	</item>
+	<item>
+		<code>5193</code>
+		<name>Trabalhadores de serviços veterinários, de higiene e estética de animais domésticos</name>
+	</item>
+	<item>
+		<code>5198</code>
+		<name>Profissionais do sexo</name>
+	</item>
+	<item>
+		<code>5199</code>
+		<name>Outros trabalhadores dos serviços</name>
+	</item>
+	<item>
+		<code>5201</code>
+		<name>Supervisores de vendas e de prestação de serviços</name>
+	</item>
+	<item>
+		<code>5211</code>
+		<name>Operadores do comércio em lojas e mercados</name>
+	</item>
+	<item>
+		<code>5231</code>
+		<name>Instaladores de produtos e acessórios</name>
+	</item>
+	<item>
+		<code>5241</code>
+		<name>Vendedores em domicílio</name>
+	</item>
+	<item>
+		<code>5242</code>
+		<name>Vendedores em bancas, quiosques e barracas</name>
+	</item>
+	<item>
+		<code>5243</code>
+		<name>Vendedores ambulantes</name>
+	</item>
+	<item>
+		<code>6110</code>
+		<name>Produtores agropecuários em geral</name>
+	</item>
+	<item>
+		<code>6120</code>
+		<name>Produtores agrícolas polivalentes</name>
+	</item>
+	<item>
+		<code>6121</code>
+		<name>Produtores agrícolas na cultura de gramíneas</name>
+	</item>
+	<item>
+		<code>6122</code>
+		<name>Produtores agrícolas na cultura de plantas fibrosas</name>
+	</item>
+	<item>
+		<code>6123</code>
+		<name>Produtores agrícolas na olericultura</name>
+	</item>
+	<item>
+		<code>6124</code>
+		<name>Produtores agrícolas no cultivo de flores e plantas ornamentais</name>
+	</item>
+	<item>
+		<code>6125</code>
+		<name>Produtores agrícolas na fruticultura</name>
+	</item>
+	<item>
+		<code>6126</code>
+		<name>Produtores agrícolas na cultura de plantas estimulantes</name>
+	</item>
+	<item>
+		<code>6127</code>
+		<name>Produtores agrícolas na cultura de plantas oleaginosas</name>
+	</item>
+	<item>
+		<code>6128</code>
+		<name>Produtores de especiarias e de plantas aromáticas e medicinais</name>
+	</item>
+	<item>
+		<code>6130</code>
+		<name>Produtores em pecuária polivalente</name>
+	</item>
+	<item>
+		<code>6131</code>
+		<name>Produtores em pecuária de animais de grande porte</name>
+	</item>
+	<item>
+		<code>6132</code>
+		<name>Produtores em pecuária de animais de médio porte</name>
+	</item>
+	<item>
+		<code>6133</code>
+		<name>Produtores da avicultura e cunicultura</name>
+	</item>
+	<item>
+		<code>6134</code>
+		<name>Produtores de animais e insetos úteis</name>
+	</item>
+	<item>
+		<code>6201</code>
+		<name>Supervisores na exploração agropecuária</name>
+	</item>
+	<item>
+		<code>6210</code>
+		<name>Trabalhadores agropecuários em geral</name>
+	</item>
+	<item>
+		<code>6220</code>
+		<name>Trabalhadores de apoio à agricultura</name>
+	</item>
+	<item>
+		<code>6221</code>
+		<name>Trabalhadores agrícolas na cultura de gramíneas</name>
+	</item>
+	<item>
+		<code>6222</code>
+		<name>Trabalhadores agrícolas na cultura de plantas fibrosas</name>
+	</item>
+	<item>
+		<code>6223</code>
+		<name>Trabalhadores agrícolas na olericultura</name>
+	</item>
+	<item>
+		<code>6224</code>
+		<name>Trabalhadores agrícolas no cultivo de flores e plantas ornamentais</name>
+	</item>
+	<item>
+		<code>6225</code>
+		<name>Trabalhadores agrícolas na fruticultura</name>
+	</item>
+	<item>
+		<code>6226</code>
+		<name>Trabalhadores agrícolas nas culturas de plantas estimulantes</name>
+	</item>
+	<item>
+		<code>6227</code>
+		<name>Trabalhadores agrícolas na cultura de plantas oleaginosas</name>
+	</item>
+	<item>
+		<code>6228</code>
+		<name>Trabalhadores agrícolas da cultura de especiarias e de plantas aromáticas e medicinais</name>
+	</item>
+	<item>
+		<code>6230</code>
+		<name>Tratadores polivalentes de animais</name>
+	</item>
+	<item>
+		<code>6231</code>
+		<name>Trabalhadores na pecuária de animais de grande porte</name>
+	</item>
+	<item>
+		<code>6232</code>
+		<name>Trabalhadores na pecuária de animais de médio porte</name>
+	</item>
+	<item>
+		<code>6233</code>
+		<name>Trabalhadores na avicultura e cunicultura</name>
+	</item>
+	<item>
+		<code>6234</code>
+		<name>Trabalhadores na criação de insetos e animais úteis</name>
+	</item>
+	<item>
+		<code>6301</code>
+		<name>Supervisores na área florestal e aqüicultura</name>
+	</item>
+	<item>
+		<code>6310</code>
+		<name>Pescadores polivalentes</name>
+	</item>
+	<item>
+		<code>6311</code>
+		<name>Pescadores profissionais artesanais de água doce</name>
+	</item>
+	<item>
+		<code>6312</code>
+		<name>Pescadores de água costeira e alto mar</name>
+	</item>
+	<item>
+		<code>6313</code>
+		<name>Criadores de animais aquáticos</name>
+	</item>
+	<item>
+		<code>6314</code>
+		<name>Trabalhadores de apoio à pesca</name>
+	</item>
+	<item>
+		<code>6320</code>
+		<name>Trabalhadores florestais polivalentes</name>
+	</item>
+	<item>
+		<code>6321</code>
+		<name>Extrativistas e reflorestadores de espécies produtoras de madeira</name>
+	</item>
+	<item>
+		<code>6322</code>
+		<name>Extrativistas florestais de espécies produtoras de gomas e resinas</name>
+	</item>
+	<item>
+		<code>6323</code>
+		<name>Extrativistas florestais de espécies produtoras de fibras, ceras e óleos</name>
+	</item>
+	<item>
+		<code>6324</code>
+		<name>Extrativistas florestais de espécies produtoras de alimentos silvestres</name>
+	</item>
+	<item>
+		<code>6325</code>
+		<name>Extrativistas florestais de espécies produtoras de substâncias aromáticas, medicinais e tóxicas</name>
+	</item>
+	<item>
+		<code>6326</code>
+		<name>Carvoejadores</name>
+	</item>
+	<item>
+		<code>6410</code>
+		<name>Trabalhadores da mecanização agrícola</name>
+	</item>
+	<item>
+		<code>6420</code>
+		<name>Trabalhadores da mecanização florestal</name>
+	</item>
+	<item>
+		<code>6430</code>
+		<name>Trabalhadores da irrigação e drenagem</name>
+	</item>
+	<item>
+		<code>7101</code>
+		<name>Supervisores da extração mineral</name>
+	</item>
+	<item>
+		<code>7102</code>
+		<name>Supervisores da construção civil</name>
+	</item>
+	<item>
+		<code>7111</code>
+		<name>Trabalhadores da extração de minerais sólidos</name>
+	</item>
+	<item>
+		<code>7112</code>
+		<name>Trabalhadores de extração de minerais sólidos (operadores de máquinas)</name>
+	</item>
+	<item>
+		<code>7113</code>
+		<name>Trabalhadores da extração de minerais líquidos e gasosos</name>
+	</item>
+	<item>
+		<code>7114</code>
+		<name>Garimpeiros e operadores de salinas</name>
+	</item>
+	<item>
+		<code>7121</code>
+		<name>Trabalhadores de beneficiamento de minérios</name>
+	</item>
+	<item>
+		<code>7122</code>
+		<name>Trabalhadores de beneficiamento de pedras ornamentais</name>
+	</item>
+	<item>
+		<code>7151</code>
+		<name>Trabalhadores na operação de máquinas de terraplenagem e fundações</name>
+	</item>
+	<item>
+		<code>7152</code>
+		<name>Trabalhadores de estruturas de alvenaria</name>
+	</item>
+	<item>
+		<code>7153</code>
+		<name>Montadores de estruturas de concreto armado</name>
+	</item>
+	<item>
+		<code>7154</code>
+		<name>Trabalhadores na operação de máquinas de concreto usinado</name>
+	</item>
+	<item>
+		<code>7155</code>
+		<name>Trabalhadores de montagem de estruturas de madeira, metal e compósitos em obras civis</name>
+	</item>
+	<item>
+		<code>7156</code>
+		<name>Trabalhadores de instalações elétricas</name>
+	</item>
+	<item>
+		<code>7157</code>
+		<name>Aplicadores de materiais isolantes</name>
+	</item>
+	<item>
+		<code>7161</code>
+		<name>Revestidores de concreto</name>
+	</item>
+	<item>
+		<code>7162</code>
+		<name>Telhadores (revestimentos rígidos)</name>
+	</item>
+	<item>
+		<code>7163</code>
+		<name>Vidraceiros (revestimentos rígidos)</name>
+	</item>
+	<item>
+		<code>7164</code>
+		<name>Gesseiros</name>
+	</item>
+	<item>
+		<code>7165</code>
+		<name>Aplicadores de revestimentos cerâmicos, pastilhas, pedras e madeiras</name>
+	</item>
+	<item>
+		<code>7166</code>
+		<name>Pintores de obras e revestidores de interiores (revestimentos flexíveis)</name>
+	</item>
+	<item>
+		<code>7170</code>
+		<name>Ajudantes de obras civis</name>
+	</item>
+	<item>
+		<code>7201</code>
+		<name>Supervisores de usinagem, conformação e tratamento de metais</name>
+	</item>
+	<item>
+		<code>7202</code>
+		<name>Supervisores da fabricação e montagem metalmecânica</name>
+	</item>
+	<item>
+		<code>7211</code>
+		<name>Ferramenteiros e afins</name>
+	</item>
+	<item>
+		<code>7212</code>
+		<name>Preparadores e operadores de máquinas-ferramenta convencionais</name>
+	</item>
+	<item>
+		<code>7213</code>
+		<name>Afiadores e polidores de metais</name>
+	</item>
+	<item>
+		<code>7214</code>
+		<name>Operadores de máquinas de usinagem cnc</name>
+	</item>
+	<item>
+		<code>7221</code>
+		<name>Trabalhadores de forjamento de metais</name>
+	</item>
+	<item>
+		<code>7222</code>
+		<name>Trabalhadores de fundição de metais puros e de ligas metálicas</name>
+	</item>
+	<item>
+		<code>7223</code>
+		<name>Trabalhadores de moldagem de metais e de ligas metálicas</name>
+	</item>
+	<item>
+		<code>7224</code>
+		<name>Trabalhadores de trefilação e estiramento de metais puros e ligas metálicas</name>
+	</item>
+	<item>
+		<code>7231</code>
+		<name>Trabalhadores de tratamento térmico de metais</name>
+	</item>
+	<item>
+		<code>7232</code>
+		<name>Trabalhadores de tratamento de superfícies de metais e de compósitos (termoquímicos)</name>
+	</item>
+	<item>
+		<code>7233</code>
+		<name>Trabalhadores da pintura de equipamentos, veículos, estruturas metálicas e de compósitos</name>
+	</item>
+	<item>
+		<code>7241</code>
+		<name>Encanadores e instaladores de tubulações</name>
+	</item>
+	<item>
+		<code>7242</code>
+		<name>Trabalhadores de traçagem e montagem de estruturas metálicas e de compósitos</name>
+	</item>
+	<item>
+		<code>7243</code>
+		<name>Trabalhadores de soldagem e corte de ligas metálicas</name>
+	</item>
+	<item>
+		<code>7244</code>
+		<name>Trabalhadores de caldeiraria e serralheria</name>
+	</item>
+	<item>
+		<code>7245</code>
+		<name>Operadores de máquinas de conformação de metais</name>
+	</item>
+	<item>
+		<code>7246</code>
+		<name>Trançadores e laceiros de cabos de aço</name>
+	</item>
+	<item>
+		<code>7250</code>
+		<name>Ajustadores mecânicos polivalentes</name>
+	</item>
+	<item>
+		<code>7251</code>
+		<name>Montadores de máquinas, aparelhos e acessórios em linhas de montagem</name>
+	</item>
+	<item>
+		<code>7252</code>
+		<name>Montadores de máquinas industriais</name>
+	</item>
+	<item>
+		<code>7253</code>
+		<name>Montadores de máquinas pesadas e equipamentos agrícolas</name>
+	</item>
+	<item>
+		<code>7254</code>
+		<name>Mecânicos montadores de motores e turboalimentadores</name>
+	</item>
+	<item>
+		<code>7255</code>
+		<name>Montadores de veículos automotores (linha de montagem)</name>
+	</item>
+	<item>
+		<code>7256</code>
+		<name>Montadores de sistemas e estruturas de aeronaves</name>
+	</item>
+	<item>
+		<code>7257</code>
+		<name>Instaladores de equipamentos de refrigeração e ventilação</name>
+	</item>
+	<item>
+		<code>7301</code>
+		<name>Supervisores de montagens e instalações eletroeletrônicas</name>
+	</item>
+	<item>
+		<code>7311</code>
+		<name>Montadores de equipamentos eletroeletrônicos</name>
+	</item>
+	<item>
+		<code>7312</code>
+		<name>Montadores de aparelhos de telecomunicações</name>
+	</item>
+	<item>
+		<code>7313</code>
+		<name>Instaladores-reparadores de  linhas e equipamentos de telecomunicações</name>
+	</item>
+	<item>
+		<code>7321</code>
+		<name>Instaladores e reparadores de linhas e cabos elétricos, telefônicos e de comunicação de dados</name>
+	</item>
+	<item>
+		<code>7401</code>
+		<name>Supervisores da mecânica de precisão e instrumentos musicais</name>
+	</item>
+	<item>
+		<code>7411</code>
+		<name>Mecânicos de instrumentos de precisão</name>
+	</item>
+	<item>
+		<code>7421</code>
+		<name>Confeccionadores de instrumentos musicais</name>
+	</item>
+	<item>
+		<code>7501</code>
+		<name>Supervisores de joalheria e afins</name>
+	</item>
+	<item>
+		<code>7502</code>
+		<name>Supervisores de vidraria, cerâmica e afins</name>
+	</item>
+	<item>
+		<code>7510</code>
+		<name>Joalheiros e lapidadores de gemas</name>
+	</item>
+	<item>
+		<code>7511</code>
+		<name>Artesãos de metais preciosos e semi-preciosos</name>
+	</item>
+	<item>
+		<code>7521</code>
+		<name>Sopradores, moldadores e modeladores de vidros e afins</name>
+	</item>
+	<item>
+		<code>7522</code>
+		<name>Trabalhadores da transformação de vidros planos</name>
+	</item>
+	<item>
+		<code>7523</code>
+		<name>Ceramistas (preparação e fabricação)</name>
+	</item>
+	<item>
+		<code>7524</code>
+		<name>Vidreiros e ceramistas (arte e decoração)</name>
+	</item>
+	<item>
+		<code>7601</code>
+		<name>Supervisores da indústria têxtil</name>
+	</item>
+	<item>
+		<code>7602</code>
+		<name>Supervisores na indústria do curtimento</name>
+	</item>
+	<item>
+		<code>7603</code>
+		<name>Supervisores na confecção do vestuário</name>
+	</item>
+	<item>
+		<code>7604</code>
+		<name>Supervisores na confecção de calçados</name>
+	</item>
+	<item>
+		<code>7605</code>
+		<name>Supervisores da confecção de artefatos de tecidos, couros e afins</name>
+	</item>
+	<item>
+		<code>7606</code>
+		<name>Supervisores das artes gráficas</name>
+	</item>
+	<item>
+		<code>7610</code>
+		<name>Trabalhadores polivalentes das indústrias têxteis</name>
+	</item>
+	<item>
+		<code>7611</code>
+		<name>Trabalhadores da classificação de fibras têxteis e lavagem de lã</name>
+	</item>
+	<item>
+		<code>7612</code>
+		<name>Operadores da fiação</name>
+	</item>
+	<item>
+		<code>7613</code>
+		<name>Operadores de tear e máquinas similares</name>
+	</item>
+	<item>
+		<code>7614</code>
+		<name>Trabalhadores de acabamento, tingimento e estamparia das indústrias têxteis</name>
+	</item>
+	<item>
+		<code>7618</code>
+		<name>Inspetores e revisores de produção têxtil</name>
+	</item>
+	<item>
+		<code>7620</code>
+		<name>Trabalhadores polivalentes do curtimento de couros e peles</name>
+	</item>
+	<item>
+		<code>7621</code>
+		<name>Trabalhadores da preparação do curtimento de couros e peles</name>
+	</item>
+	<item>
+		<code>7622</code>
+		<name>Trabalhadores do curtimento de couros e peles</name>
+	</item>
+	<item>
+		<code>7623</code>
+		<name>Trabalhadores do acabamento de couros e peles</name>
+	</item>
+	<item>
+		<code>7630</code>
+		<name>Profissionais polivalentes da confecção de roupas</name>
+	</item>
+	<item>
+		<code>7631</code>
+		<name>Trabalhadores da preparação da confecção de roupas</name>
+	</item>
+	<item>
+		<code>7632</code>
+		<name>Operadores de máquinas para costura de peças do vestuário</name>
+	</item>
+	<item>
+		<code>7633</code>
+		<name>Operadores de máquinas para bordado e acabamento de roupas</name>
+	</item>
+	<item>
+		<code>7640</code>
+		<name>Trabalhadores polivalentes da confecção de calçados</name>
+	</item>
+	<item>
+		<code>7641</code>
+		<name>Trabalhadores da preparação da confecção de calçados</name>
+	</item>
+	<item>
+		<code>7642</code>
+		<name>Operadores de máquinas de costurar e montar calçados</name>
+	</item>
+	<item>
+		<code>7643</code>
+		<name>Trabalhadores de acabamento de calçados</name>
+	</item>
+	<item>
+		<code>7650</code>
+		<name>Trabalhadores polivalentes da confecção de artefatos de tecidos e couros</name>
+	</item>
+	<item>
+		<code>7651</code>
+		<name>Trabalhadores da preparação de artefatos de tecidos, couros e tapeçaria</name>
+	</item>
+	<item>
+		<code>7652</code>
+		<name>Trabalhadores da confecção de artefatos de tecidos, couros e sintéticos</name>
+	</item>
+	<item>
+		<code>7653</code>
+		<name>Operadores de máquinas na confecção de artefatos de  couro</name>
+	</item>
+	<item>
+		<code>7654</code>
+		<name>Trabalhadores do acabamento de artefatos de tecidos e couros</name>
+	</item>
+	<item>
+		<code>7661</code>
+		<name>Trabalhadores da pré-impressão gráfica</name>
+	</item>
+	<item>
+		<code>7662</code>
+		<name>Trabalhadores da impressão gráfica</name>
+	</item>
+	<item>
+		<code>7663</code>
+		<name>Trabalhadores do acabamento gráfico</name>
+	</item>
+	<item>
+		<code>7664</code>
+		<name>Trabalhadores de laboratório fotográfico e radiológico</name>
+	</item>
+	<item>
+		<code>7681</code>
+		<name>Trabalhadores de tecelagem manual, tricô, crochê, rendas e afins</name>
+	</item>
+	<item>
+		<code>7682</code>
+		<name>Trabalhadores artesanais da confecção de peças e tecidos</name>
+	</item>
+	<item>
+		<code>7683</code>
+		<name>Trabalhadores artesanais da confecção de calçados e artefatos de couros e peles</name>
+	</item>
+	<item>
+		<code>7686</code>
+		<name>Trabalhadores tipográficos linotipistas e afins</name>
+	</item>
+	<item>
+		<code>7687</code>
+		<name>Encadernadores e recuperadores de livros (pequenos lotes ou a unidade)</name>
+	</item>
+	<item>
+		<code>7701</code>
+		<name>Supervisores em indústria de madeira, mobiliário e da carpintaria veicular</name>
+	</item>
+	<item>
+		<code>7711</code>
+		<name>Marceneiros e afins</name>
+	</item>
+	<item>
+		<code>7721</code>
+		<name>Trabalhadores de tratamento e preparação da madeira</name>
+	</item>
+	<item>
+		<code>7731</code>
+		<name>Operadores de máquinas de desdobramento da madeira</name>
+	</item>
+	<item>
+		<code>7732</code>
+		<name>Operadores de máquinas de aglomeração e prensagem de chapas</name>
+	</item>
+	<item>
+		<code>7733</code>
+		<name>Operadores de usinagem convencional de madeira</name>
+	</item>
+	<item>
+		<code>7734</code>
+		<name>Operadores de máquina de usinar madeira (produção em série)</name>
+	</item>
+	<item>
+		<code>7735</code>
+		<name>Operadores de máquinas de usinagem de madeira cnc</name>
+	</item>
+	<item>
+		<code>7741</code>
+		<name>Montadores de móveis e artefatos de madeira</name>
+	</item>
+	<item>
+		<code>7751</code>
+		<name>Trabalhadores de arte e  do acabamento em madeira do mobiliário</name>
+	</item>
+	<item>
+		<code>7764</code>
+		<name>Confeccionadores de artefatos de madeira, móveis de vime e afins</name>
+	</item>
+	<item>
+		<code>7771</code>
+		<name>Carpinteiros navais</name>
+	</item>
+	<item>
+		<code>7772</code>
+		<name>Carpinteiros de carrocerias e carretas</name>
+	</item>
+	<item>
+		<code>7801</code>
+		<name>Supervisores de trabalhadores de embalagem e etiquetagem</name>
+	</item>
+	<item>
+		<code>7811</code>
+		<name>Condutores de processos robotizados</name>
+	</item>
+	<item>
+		<code>7813</code>
+		<name>Operadores de veículos subaquáticos controlados remotamente</name>
+	</item>
+	<item>
+		<code>7817</code>
+		<name>Trabalhadores subaquáticos</name>
+	</item>
+	<item>
+		<code>7821</code>
+		<name>Operadores de máquinas e equipamentos de elevação</name>
+	</item>
+	<item>
+		<code>7822</code>
+		<name>Operadores de equipamentos de movimentação de cargas</name>
+	</item>
+	<item>
+		<code>7823</code>
+		<name>Motoristas de veículos de pequeno e médio porte</name>
+	</item>
+	<item>
+		<code>7824</code>
+		<name>Motoristas de ônibus urbanos, metropolitanos e rodoviários</name>
+	</item>
+	<item>
+		<code>7825</code>
+		<name>Motoristas de veículos de cargas em geral</name>
+	</item>
+	<item>
+		<code>7826</code>
+		<name>Operadores de veículos sobre trilhos e cabos aéreos</name>
+	</item>
+	<item>
+		<code>7827</code>
+		<name>Trabalhadores aquaviários</name>
+	</item>
+	<item>
+		<code>7828</code>
+		<name>Condutores de animais e de veículos de tração animal e pedais</name>
+	</item>
+	<item>
+		<code>7831</code>
+		<name>Trabalhadores de manobras de transportes sobre trilhos</name>
+	</item>
+	<item>
+		<code>7832</code>
+		<name>Trabalhadores de cargas e descargas de mercadorias</name>
+	</item>
+	<item>
+		<code>7841</code>
+		<name>Trabalhadores de embalagem e de etiquetagem</name>
+	</item>
+	<item>
+		<code>7842</code>
+		<name>Alimentadores de linhas de produção</name>
+	</item>
+	<item>
+		<code>7911</code>
+		<name>Artesãos</name>
+	</item>
+	<item>
+		<code>8101</code>
+		<name>Supervisores de produção em indústrias químicas, petroquímicas e afins</name>
+	</item>
+	<item>
+		<code>8102</code>
+		<name>Supervisores de produção em indústrias de transformação de plásticos e borrachas</name>
+	</item>
+	<item>
+		<code>8103</code>
+		<name>Supervisores de produção em indústrias de produtos farmacêuticos, cosméticos e afins</name>
+	</item>
+	<item>
+		<code>8110</code>
+		<name>Operadores polivalentes de equipamentos em indústrias químicas, petroquímicas e afins</name>
+	</item>
+	<item>
+		<code>8111</code>
+		<name>Operadores de equipamentos de moagem e mistura de materiais (tratamentos químicos e afins)</name>
+	</item>
+	<item>
+		<code>8112</code>
+		<name>Operadores de calcinação e de tratamentos químicos de materiais radioativos</name>
+	</item>
+	<item>
+		<code>8113</code>
+		<name>Operadores de equipamentos de filtragem e separação</name>
+	</item>
+	<item>
+		<code>8114</code>
+		<name>Operadores de equipamentos de destilação, evaporação e reação</name>
+	</item>
+	<item>
+		<code>8115</code>
+		<name>Operadores de equipamentos de produção e refino de petróleo e gás</name>
+	</item>
+	<item>
+		<code>8116</code>
+		<name>Operadores de equipamentos de coqueificação</name>
+	</item>
+	<item>
+		<code>8117</code>
+		<name>Operadores de instalações e máquinas de produtos plásticos, de borracha e moldadores de parafinas</name>
+	</item>
+	<item>
+		<code>8118</code>
+		<name>Operadores de máquinas e instalações de produtos farmacêuticos, cosméticos e afins</name>
+	</item>
+	<item>
+		<code>8121</code>
+		<name>Trabalhadores da fabricação de munição e explosivos químicos</name>
+	</item>
+	<item>
+		<code>8131</code>
+		<name>Operadores de processos das indústrias de transformação de produtos químicos, petroquímicos e afins</name>
+	</item>
+	<item>
+		<code>8181</code>
+		<name>Laboratoristas industriais auxiliares</name>
+	</item>
+	<item>
+		<code>8201</code>
+		<name>Supervisores de produção em indústrias siderúrgicas</name>
+	</item>
+	<item>
+		<code>8202</code>
+		<name>Supervisores na fabricação de materiais para construção (vidros e cerâmicas)</name>
+	</item>
+	<item>
+		<code>8211</code>
+		<name>Operadores de instalações de sinterização</name>
+	</item>
+	<item>
+		<code>8212</code>
+		<name>Operadores de fornos de primeira  fusão e aciaria</name>
+	</item>
+	<item>
+		<code>8213</code>
+		<name>Operadores de equipamentos de laminação</name>
+	</item>
+	<item>
+		<code>8214</code>
+		<name>Operadores de equipamentos de acabamento de chapas e metais</name>
+	</item>
+	<item>
+		<code>8221</code>
+		<name>Forneiros metalúrgicos (segunda fusão e reaquecimento)</name>
+	</item>
+	<item>
+		<code>8231</code>
+		<name>Operadores na preparação de massas para abrasivo, vidro, cerâmica, porcelana e materiais de construção</name>
+	</item>
+	<item>
+		<code>8232</code>
+		<name>Operadores de equipamentos de fabricação  e beneficiamento de cristais, vidros, cerâmicas, porcelanas, fibras de vidro, abrasivos e afins</name>
+	</item>
+	<item>
+		<code>8233</code>
+		<name>Operadores de instalações e equipamentos de fabricação de materiais de construção</name>
+	</item>
+	<item>
+		<code>8281</code>
+		<name>Trabalhadores da fabricação de cerâmica estrutural para construção</name>
+	</item>
+	<item>
+		<code>8301</code>
+		<name>Supervisores da fabricação de celulose e papel</name>
+	</item>
+	<item>
+		<code>8311</code>
+		<name>Preparadores de pasta para fabricação de papel</name>
+	</item>
+	<item>
+		<code>8321</code>
+		<name>Operadores de máquinas de fabricar papel e papelão</name>
+	</item>
+	<item>
+		<code>8331</code>
+		<name>Operadores de máquinas na fabricação de produtos de papel e papelão</name>
+	</item>
+	<item>
+		<code>8332</code>
+		<name>Trabalhadores artesanais de produtos de papel e papelão</name>
+	</item>
+	<item>
+		<code>8401</code>
+		<name>Supervisores da fabricação de alimentos, bebidas e fumo</name>
+	</item>
+	<item>
+		<code>8411</code>
+		<name>Trabalhadores da indústria de beneficiamento de grãos, cereais e afins</name>
+	</item>
+	<item>
+		<code>8412</code>
+		<name>Trabalhadores no beneficiamento do sal</name>
+	</item>
+	<item>
+		<code>8413</code>
+		<name>Trabalhadores na fabricação e refino de açúcar</name>
+	</item>
+	<item>
+		<code>8414</code>
+		<name>Trabalhadores na fabricação e conservação de alimentos</name>
+	</item>
+	<item>
+		<code>8415</code>
+		<name>Trabalhadores na pasteurização do leite e na fabricação de laticínios  e afins</name>
+	</item>
+	<item>
+		<code>8416</code>
+		<name>Trabalhadores na industrialização de café, cacau, mate e de produtos afins</name>
+	</item>
+	<item>
+		<code>8417</code>
+		<name>Trabalhadores na fabricação de cachaça, cerveja, vinhos e outras bebidas</name>
+	</item>
+	<item>
+		<code>8418</code>
+		<name>Operadores de equipamentos na fabricação de pães, massas alimentícias, doces, chocolates e achocolatados</name>
+	</item>
+	<item>
+		<code>8421</code>
+		<name>Cigarreiros e beneficiadores de fumo</name>
+	</item>
+	<item>
+		<code>8422</code>
+		<name>Charuteiros</name>
+	</item>
+	<item>
+		<code>8481</code>
+		<name>Trabalhadores artesanais na conservação de alimentos</name>
+	</item>
+	<item>
+		<code>8482</code>
+		<name>Trabalhadores artesanais na pasteurização do leite e na fabricação de laticínios e afins</name>
+	</item>
+	<item>
+		<code>8483</code>
+		<name>Padeiros, confeiteiros e afins</name>
+	</item>
+	<item>
+		<code>8484</code>
+		<name>Trabalhadores na degustação e classificação de grãos e afins</name>
+	</item>
+	<item>
+		<code>8485</code>
+		<name>Magarefes e afins</name>
+	</item>
+	<item>
+		<code>8486</code>
+		<name>Trabalhadores artesanais na indústria do fumo</name>
+	</item>
+	<item>
+		<code>8601</code>
+		<name>Supervisores da produção de utilidades</name>
+	</item>
+	<item>
+		<code>8611</code>
+		<name>Operadores de instalações de geração e distribuição de energia elétrica, hidráulica, térmica ou nuclear</name>
+	</item>
+	<item>
+		<code>8612</code>
+		<name>Operadores de instalações de distribuição de energia elétrica</name>
+	</item>
+	<item>
+		<code>8621</code>
+		<name>Operadores de máquinas a vapor e utilidades</name>
+	</item>
+	<item>
+		<code>8622</code>
+		<name>Operadores de instalações de captação, tratamento e distribuição de água</name>
+	</item>
+	<item>
+		<code>8623</code>
+		<name>Operadores de instalações de captação e esgotos</name>
+	</item>
+	<item>
+		<code>8624</code>
+		<name>Operadores de instalações de extração, processamento, envasamento e distribuição de gases</name>
+	</item>
+	<item>
+		<code>8625</code>
+		<name>Operadores de instalações de refrigeração e ar-condicionado</name>
+	</item>
+	<item>
+		<code>9101</code>
+		<name>Supervisores em serviços de reparação e manutenção de máquinas e equipamentos industriais, comerciais e residenciais</name>
+	</item>
+	<item>
+		<code>9102</code>
+		<name>Supervisores em serviços de reparação e manutenção veicular</name>
+	</item>
+	<item>
+		<code>9109</code>
+		<name>Supervisores de outros trabalhadores de serviços de reparação, conservação e manutenção</name>
+	</item>
+	<item>
+		<code>9111</code>
+		<name>Mecânicos de manutenção de bombas, motores, compressores e equipamentos de transmissão</name>
+	</item>
+	<item>
+		<code>9112</code>
+		<name>Mecânicos de manutenção e instalação de aparelhos de  climatização e refrigeração</name>
+	</item>
+	<item>
+		<code>9113</code>
+		<name>Mecânicos de manutenção de máquinas industriais</name>
+	</item>
+	<item>
+		<code>9131</code>
+		<name>Mecânicos de manutenção de máquinas pesadas e equipamentos agrícolas</name>
+	</item>
+	<item>
+		<code>9141</code>
+		<name>Mecânicos de manutenção aeronáutica</name>
+	</item>
+	<item>
+		<code>9142</code>
+		<name>Mecânicos de manutenção de motores e equipamentos navais</name>
+	</item>
+	<item>
+		<code>9143</code>
+		<name>Mecânicos de manutenção metroferroviária</name>
+	</item>
+	<item>
+		<code>9144</code>
+		<name>Mecânicos de manutenção de veículos automotores</name>
+	</item>
+	<item>
+		<code>9151</code>
+		<name>Técnicos em manutenção e reparação de instrumentos de medição e precisão</name>
+	</item>
+	<item>
+		<code>9152</code>
+		<name>Restauradores de instrumentos musicais</name>
+	</item>
+	<item>
+		<code>9153</code>
+		<name>Técnicos em manutenção e reparação de equipamentos biomédicos</name>
+	</item>
+	<item>
+		<code>9154</code>
+		<name>Reparadores de equipamentos fotográficos</name>
+	</item>
+	<item>
+		<code>9191</code>
+		<name>Lubrificadores</name>
+	</item>
+	<item>
+		<code>9192</code>
+		<name>Trabalhadores de manutenção de roçadeiras, motoserras e similares</name>
+	</item>
+	<item>
+		<code>9193</code>
+		<name>Mecânicos de manutenção de bicicletas e equipamentos esportivos e de ginástica</name>
+	</item>
+	<item>
+		<code>9501</code>
+		<name>Supervisores de manutenção eletroeletrônica industrial, comercial e predial</name>
+	</item>
+	<item>
+		<code>9502</code>
+		<name>Supervisores de manutenção eletroeletrônica veicular</name>
+	</item>
+	<item>
+		<code>9503</code>
+		<name>Supervisores de manutenção eletromecânica</name>
+	</item>
+	<item>
+		<code>9511</code>
+		<name>Eletricistas de manutenção eletroeletrônica</name>
+	</item>
+	<item>
+		<code>9513</code>
+		<name>Instaladores e mantenedores de sistemas eletroeletrônicos de segurança</name>
+	</item>
+	<item>
+		<code>9531</code>
+		<name>Eletricistas eletrônicos de manutenção veicular (aérea, terrestre e naval)</name>
+	</item>
+	<item>
+		<code>9541</code>
+		<name>Instaladores e mantenedores eletromecânicos de elevadores, escadas e portas automáticas</name>
+	</item>
+	<item>
+		<code>9542</code>
+		<name>Reparadores de aparelhos eletrodomésticos</name>
+	</item>
+	<item>
+		<code>9543</code>
+		<name>Reparadores de equipamentos de escritório</name>
+	</item>
+	<item>
+		<code>9911</code>
+		<name>Conservadores de vias permanentes (trilhos)</name>
+	</item>
+	<item>
+		<code>9912</code>
+		<name>Mantenedores de equipamentos de parques de diversões e similares</name>
+	</item>
+	<item>
+		<code>9913</code>
+		<name>Reparadores de carrocerias de veículos</name>
+	</item>
+	<item>
+		<code>9921</code>
+		<name>Trabalhadores elementares de serviços de manutenção veicular</name>
+	</item>
+	<item>
+		<code>9922</code>
+		<name>Trabalhadores operacionais de conservação de vias permanentes (exceto trilhos)</name>
+	</item>
+</root>

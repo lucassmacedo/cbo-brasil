@@ -1,0 +1,782 @@
+[
+    {
+        "code": "010",
+        "name": "MEMBROS DAS FOR\u00c7AS ARMADAS"
+    },
+    {
+        "code": "020",
+        "name": "OFICIAIS DE POL\u00cdCIA MILITAR"
+    },
+    {
+        "code": "021",
+        "name": "PRA\u00c7AS DE POL\u00cdCIA MILITAR"
+    },
+    {
+        "code": "030",
+        "name": "OFICIAIS DE BOMBEIRO MILITAR"
+    },
+    {
+        "code": "031",
+        "name": "PRA\u00c7AS DE BOMBEIRO MILITAR"
+    },
+    {
+        "code": "111",
+        "name": "MEMBROS SUPERIORES DO PODER LEGISLATIVO, EXECUTIVO E JUDICI\u00c1RIO"
+    },
+    {
+        "code": "113",
+        "name": "CHEFES DE PEQUENAS POPULA\u00c7\u00d5ES"
+    },
+    {
+        "code": "114",
+        "name": "DIRIGENTES E ADMINISTRADORES DE ORGANIZA\u00c7\u00c3O DE INTERESSE P\u00daBLICO"
+    },
+    {
+        "code": "121",
+        "name": "DIRETORES GERAIS"
+    },
+    {
+        "code": "122",
+        "name": "DIRETORES DE PRODU\u00c7\u00c3O E OPERA\u00c7\u00d5ES"
+    },
+    {
+        "code": "123",
+        "name": "DIRETORES DE \u00c1REAS DE APOIO"
+    },
+    {
+        "code": "131",
+        "name": "DIRETORES E GERENTES EM EMPRESA DE SERVI\u00c7OS DE SA\u00daDE, DE EDUCA\u00c7\u00c3O, OU DE SERVI\u00c7OS CULTURAIS, SOCIAIS OU PESSOAIS"
+    },
+    {
+        "code": "141",
+        "name": "GERENTES DE PRODU\u00c7\u00c3O E OPERA\u00c7\u00d5ES"
+    },
+    {
+        "code": "142",
+        "name": "GERENTES DE \u00c1REAS DE APOIO"
+    },
+    {
+        "code": "201",
+        "name": "PROFISSIONAIS DA BIOTECNOLOGIA E METROLOGIA"
+    },
+    {
+        "code": "202",
+        "name": "PROFISSIONAIS DA ELETROMEC\u00c2NICA"
+    },
+    {
+        "code": "203",
+        "name": "PESQUISADORES"
+    },
+    {
+        "code": "204",
+        "name": "PROFISSIONAIS DE INVESTIGA\u00c7\u00c3O CRIMINAL"
+    },
+    {
+        "code": "211",
+        "name": "MATEM\u00c1TICOS, ESTAT\u00cdSTICOS E AFINS"
+    },
+    {
+        "code": "212",
+        "name": "PROFISSIONAIS DA INFORM\u00c1TICA"
+    },
+    {
+        "code": "213",
+        "name": "F\u00cdSICOS, QU\u00cdMICOS E AFINS"
+    },
+    {
+        "code": "214",
+        "name": "ENGENHEIROS, ARQUITETOS E AFINS"
+    },
+    {
+        "code": "215",
+        "name": "PROFISSIONAIS EM NAVEGA\u00c7\u00c3O A\u00c9REA, MAR\u00cdTIMA E FLUVIAL"
+    },
+    {
+        "code": "221",
+        "name": "BI\u00d3LOGOS E AFINS"
+    },
+    {
+        "code": "222",
+        "name": "AGR\u00d4NOMOS E AFINS"
+    },
+    {
+        "code": "223",
+        "name": "PROFISSIONAIS DA MEDICINA, SA\u00daDE E AFINS"
+    },
+    {
+        "code": "224",
+        "name": "PROFISSIONAIS DA EDUCA\u00c7\u00c3O F\u00cdSICA"
+    },
+    {
+        "code": "225",
+        "name": "PROFISSIONAIS DA MEDICINA"
+    },
+    {
+        "code": "226",
+        "name": "PROFISSIONAIS DE SA\u00daDE EM PRATICAS INTEGRATIVAS E COMPLEMENTARES"
+    },
+    {
+        "code": "231",
+        "name": "PROFESSORES DE N\u00cdVEL SUPERIOR NA EDUCA\u00c7\u00c3O INFANTIL E NO ENSINO FUNDAMENTAL"
+    },
+    {
+        "code": "232",
+        "name": "PROFESSORES DO ENSINO M\u00c9DIO"
+    },
+    {
+        "code": "233",
+        "name": "PROFESSORES E INSTRUTORES DO ENSINO PROFISSIONAL"
+    },
+    {
+        "code": "234",
+        "name": "PROFESSORES DO ENSINO SUPERIOR"
+    },
+    {
+        "code": "239",
+        "name": "OUTROS PROFISSIONAIS DO ENSINO N\u00c3O CLASSIFICADOS ANTERIORMENTE"
+    },
+    {
+        "code": "241",
+        "name": "ADVOGADOS, PROCURADORES, TABELI\u00c3ES E AFINS"
+    },
+    {
+        "code": "242",
+        "name": "ADVOGADOS DO PODER JUDICI\u00c1RIO E DA SEGURAN\u00c7A P\u00daBLICA"
+    },
+    {
+        "code": "251",
+        "name": "CIENTISTAS SOCIAIS, PSIC\u00d3LOGOS E AFINS"
+    },
+    {
+        "code": "252",
+        "name": "PROFISSIONAIS DE ORGANIZA\u00c7\u00c3O E ADMINISTRA\u00c7\u00c3O DE EMPRESAS E AFINS"
+    },
+    {
+        "code": "253",
+        "name": "PROFISSIONAIS DE RELA\u00c7\u00d5ES P\u00daBLICAS, PUBLICIDADE, MARKETING E COMERCIALIZA\u00c7\u00c3O"
+    },
+    {
+        "code": "254",
+        "name": "AUDITORES FISCAIS P\u00daBLICOS"
+    },
+    {
+        "code": "261",
+        "name": "PROFISSIONAIS DA COMUNICA\u00c7\u00c3O E DA INFORMA\u00c7\u00c3O"
+    },
+    {
+        "code": "262",
+        "name": "PROFISSIONAIS DE ESPET\u00c1CULOS E DAS ARTES"
+    },
+    {
+        "code": "263",
+        "name": "MEMBROS DE CULTOS RELIGIOSOS E AFINS"
+    },
+    {
+        "code": "271",
+        "name": "PROFISSIONAIS EM GASTRONOMIA E SERVI\u00c7OS DE ALIMENTA\u00c7\u00c3O"
+    },
+    {
+        "code": "300",
+        "name": "T\u00c9CNICOS MECATR\u00d4NICOS E ELETROMEC\u00c2NICOS"
+    },
+    {
+        "code": "301",
+        "name": "T\u00c9CNICOS EM LABORAT\u00d3RIO"
+    },
+    {
+        "code": "311",
+        "name": "T\u00c9CNICO EM CI\u00caNCIAS F\u00cdSICAS E QU\u00cdMICAS"
+    },
+    {
+        "code": "312",
+        "name": "T\u00c9CNICOS EM CONSTRU\u00c7\u00c3O CIVIL, DE EDIFICA\u00c7\u00d5ES E OBRAS DE INFRAESTRUTURA"
+    },
+    {
+        "code": "313",
+        "name": "T\u00c9CNICOS EM ELETROELETR\u00d4NICA E FOT\u00d4NICA"
+    },
+    {
+        "code": "314",
+        "name": "T\u00c9CNICOS EM METALMEC\u00c2NICA"
+    },
+    {
+        "code": "316",
+        "name": "T\u00c9CNICOS EM MINERALOGIA E GEOLOGIA"
+    },
+    {
+        "code": "317",
+        "name": "T\u00c9CNICOS EM INFORM\u00c1TICA"
+    },
+    {
+        "code": "318",
+        "name": "DESENHISTAS T\u00c9CNICOS E MODELISTAS"
+    },
+    {
+        "code": "319",
+        "name": "OUTROS T\u00c9CNICOS DE N\u00cdVEL M\u00c9DIO DAS CI\u00caNCIAS F\u00cdSICAS, QU\u00cdMICAS, ENGENHARIA E AFINS"
+    },
+    {
+        "code": "320",
+        "name": "T\u00c9CNICOS EM BIOLOGIA"
+    },
+    {
+        "code": "321",
+        "name": "T\u00c9CNICOS DA PRODU\u00c7\u00c3O AGROPECU\u00c1RIA"
+    },
+    {
+        "code": "322",
+        "name": "T\u00c9CNICOS DA CI\u00caNCIA DA SA\u00daDE HUMANA"
+    },
+    {
+        "code": "323",
+        "name": "T\u00c9CNICOS DA CI\u00caNCIA DA SA\u00daDE ANIMAL"
+    },
+    {
+        "code": "324",
+        "name": "T\u00c9CNICOS EM OPERA\u00c7\u00c3O DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGN\u00d3STICO"
+    },
+    {
+        "code": "325",
+        "name": "T\u00c9CNICOS DE BIOQU\u00cdMICA E DA BIOTECNOLOGIA"
+    },
+    {
+        "code": "328",
+        "name": "T\u00c9CNICOS EM NECR\u00d3PSIA E TAXIDERMISTAS"
+    },
+    {
+        "code": "331",
+        "name": "PROFESSORES DE N\u00cdVEL M\u00c9DIO NA EDUCA\u00c7\u00c3O INFANTIL, NO ENSINO FUNDAMENTAL E NO PROFISSIONALIZANTE"
+    },
+    {
+        "code": "332",
+        "name": "PROFESSORES LEIGOS NO ENSINO FUNDAMENTAL E NO  PROFISSIONALIZANTE"
+    },
+    {
+        "code": "333",
+        "name": "INSTRUTORES E PROFESSORES DE ESCOLAS LIVRES"
+    },
+    {
+        "code": "334",
+        "name": "INSPETORES DE ALUNOS E AFINS"
+    },
+    {
+        "code": "341",
+        "name": "T\u00c9CNICOS EM NAVEGA\u00c7\u00c3O A\u00c9REA, MAR\u00cdTIMA E FLUVIAL"
+    },
+    {
+        "code": "342",
+        "name": "T\u00c9CNICOS EM TRANSPORTES (LOG\u00cdSTICA)"
+    },
+    {
+        "code": "351",
+        "name": "T\u00c9CNICOS DAS CI\u00caNCIAS ADMINISTRATIVAS"
+    },
+    {
+        "code": "352",
+        "name": "T\u00c9CNICOS DE INSPE\u00c7\u00c3O, FISCALIZA\u00c7\u00c3O E COORDENA\u00c7\u00c3O ADMINISTRATIVA"
+    },
+    {
+        "code": "353",
+        "name": "T\u00c9CNICOS DE N\u00cdVEL M\u00c9DIO EM OPERA\u00c7\u00d5ES FINANCEIRAS"
+    },
+    {
+        "code": "354",
+        "name": "T\u00c9CNICOS DE NIVEL M\u00c9DIO EM OPERA\u00c7\u00d5ES COMERCIAIS"
+    },
+    {
+        "code": "371",
+        "name": "T\u00c9CNICOS DE SERVI\u00c7OS CULTURAIS"
+    },
+    {
+        "code": "372",
+        "name": "T\u00c9CNICOS EM OPERA\u00c7\u00c3O DE C\u00c2MARA FOTOGR\u00c1FICA , CINEMA E DE TELEVIS\u00c3O"
+    },
+    {
+        "code": "373",
+        "name": "T\u00c9CNICOS EM OPERA\u00c7\u00c3O DE EMISSORAS DE R\u00c1DIO, SISTEMAS DE TELEVIS\u00c3O E DE PRODUTORAS DE V\u00cdDEO"
+    },
+    {
+        "code": "374",
+        "name": "T\u00c9CNICOS EM OPERA\u00c7\u00c3O DE APARELHOS DE SONORIZA\u00c7\u00c3O, CENOGRAFIA E PROJE\u00c7\u00c3O"
+    },
+    {
+        "code": "375",
+        "name": "DECORADORES E VITRINISTAS"
+    },
+    {
+        "code": "376",
+        "name": "ARTISTAS DE ARTES POPULARES E MODELOS"
+    },
+    {
+        "code": "377",
+        "name": "ATLETAS, DESPORTISTAS E AFINS"
+    },
+    {
+        "code": "391",
+        "name": "T\u00c9CNICOS DE NIVEL M\u00c9DIO EM OPERA\u00c7\u00d5ES INDUSTRIAIS"
+    },
+    {
+        "code": "395",
+        "name": "T\u00c9CNICOS DE APOIO EM PESQUISA E DESENVOLVIMENTO"
+    },
+    {
+        "code": "410",
+        "name": "SUPERVISORES DE SERVI\u00c7OS ADMINISTRATIVOS (Exceto de atendimento ao p\u00fablico)"
+    },
+    {
+        "code": "411",
+        "name": "ESCRITUR\u00c1RIOS EM GERAL, AGENTES, ASSISTENTES E AUXILIARES ADMINISTRATIVOS"
+    },
+    {
+        "code": "412",
+        "name": "SECRET\u00c1RIOS DE EXPEDIENTE E OPERADORES DE M\u00c1QUINAS DE ESCRIT\u00d3RIOS"
+    },
+    {
+        "code": "413",
+        "name": "ESCRITUR\u00c1RIOS CONT\u00c1BEIS E DE FINAN\u00c7AS"
+    },
+    {
+        "code": "414",
+        "name": "ESCRITUR\u00c1RIOS DE CONTROLE DE MATERIAIS E DE APOIO \u00c0 PRODU\u00c7\u00c3O"
+    },
+    {
+        "code": "415",
+        "name": "AUXILIARES DE SERVI\u00c7OS DE BIBLIOTECA, DOCUMENTA\u00c7\u00c3O E CORREIOS"
+    },
+    {
+        "code": "420",
+        "name": "SUPERVISORES DE ATENDIMENTO AO P\u00daBLICO"
+    },
+    {
+        "code": "421",
+        "name": "CAIXAS, BILHETEIROS E AFINS"
+    },
+    {
+        "code": "422",
+        "name": "TRABALHADORES DE INFORMA\u00c7\u00d5ES AO P\u00daBLICO"
+    },
+    {
+        "code": "423",
+        "name": "DESPACHANTES"
+    },
+    {
+        "code": "424",
+        "name": "ENTREVISTADORES, RECENSEADORES E AFINS"
+    },
+    {
+        "code": "510",
+        "name": "SUPERVISORES DOS SERVI\u00c7OS"
+    },
+    {
+        "code": "511",
+        "name": "TRABALHADORES DOS SERVI\u00c7OS DE TRANSPORTE E TURISMO"
+    },
+    {
+        "code": "512",
+        "name": "TRABALHADORES DOS SERVI\u00c7OS DOM\u00c9STICOS EM GERAL"
+    },
+    {
+        "code": "513",
+        "name": "TRABALHADORES DOS SERVI\u00c7OS DE HOTELARIA E ALIMENTA\u00c7\u00c3O"
+    },
+    {
+        "code": "514",
+        "name": "TRABALHADORES NOS SERVI\u00c7OS DE ADMINISTRA\u00c7\u00c3O, CONSERVA\u00c7\u00c3O E MANUTEN\u00c7\u00c3O DE EDIF\u00cdCIOS E LOGRADOUROS"
+    },
+    {
+        "code": "515",
+        "name": "TRABALHADORES DOS SERVI\u00c7OS DE SA\u00daDE"
+    },
+    {
+        "code": "516",
+        "name": "TRABALHADORES NOS SERVI\u00c7OS DE EMBELEZAMENTO E CUIDADOS PESSOAIS"
+    },
+    {
+        "code": "517",
+        "name": "TRABALHADORES NOS SERVI\u00c7OS DE PROTE\u00c7\u00c3O E SEGURAN\u00c7A"
+    },
+    {
+        "code": "519",
+        "name": "OUTROS TRABALHADORES DE SERVI\u00c7OS DIVERSOS"
+    },
+    {
+        "code": "520",
+        "name": "SUPERVISORES DE VENDAS E DE PRESTA\u00c7\u00c3O DE SERVI\u00c7OS"
+    },
+    {
+        "code": "521",
+        "name": "VENDEDORES E DEMONSTRADORES"
+    },
+    {
+        "code": "522",
+        "name": "REPOSITORES E REMARCADORES DO COM\u00c9RCIO"
+    },
+    {
+        "code": "523",
+        "name": "INSTALADORES DE PRODUTOS E ACESS\u00d3RIOS"
+    },
+    {
+        "code": "524",
+        "name": "VENDEDORES A DOMIC\u00cdLIO, AMBULANTES E EM BANCAS"
+    },
+    {
+        "code": "611",
+        "name": "PRODUTORES AGROPECU\u00c1RIOS EM GERAL"
+    },
+    {
+        "code": "612",
+        "name": "PRODUTORES AGR\u00cdCOLAS"
+    },
+    {
+        "code": "613",
+        "name": "PRODUTORES EM PECU\u00c1RIA"
+    },
+    {
+        "code": "620",
+        "name": "SUPERVISORES NA EXPLORA\u00c7\u00c3O AGROPECU\u00c1RIA"
+    },
+    {
+        "code": "621",
+        "name": "TRABALHADORES NA EXPLORA\u00c7\u00c3O AGROPECU\u00c1RIA EM GERAL"
+    },
+    {
+        "code": "622",
+        "name": "TRABALHADORES AGR\u00cdCOLAS"
+    },
+    {
+        "code": "623",
+        "name": "TRABALHADORES NA PECU\u00c1RIA"
+    },
+    {
+        "code": "630",
+        "name": "SUPERVISORES NA EXPLORA\u00c7\u00c3O FLORESTAL E PESCA"
+    },
+    {
+        "code": "631",
+        "name": "PESCADORES E CA\u00c7ADORES"
+    },
+    {
+        "code": "632",
+        "name": "EXTRATIVISTAS FLORESTAIS"
+    },
+    {
+        "code": "641",
+        "name": "TRABALHADORES DA MECANIZA\u00c7\u00c3O AGROPECU\u00c1RIA"
+    },
+    {
+        "code": "642",
+        "name": "TRABALHADORES DA MECANIZA\u00c7\u00c3O FLORESTAL"
+    },
+    {
+        "code": "643",
+        "name": "TRABALHADORES DA IRRIGA\u00c7\u00c3O E DRENAGEM"
+    },
+    {
+        "code": "710",
+        "name": "SUPERVISORES DA EXTRA\u00c7\u00c3O MINERAL E DA CONSTRU\u00c7\u00c3O CIVIL"
+    },
+    {
+        "code": "711",
+        "name": "TRABALHADORES DA EXTRA\u00c7\u00c3O MINERAL"
+    },
+    {
+        "code": "712",
+        "name": "TRABALHADORES DE BENEFICIAMENTO DE MIN\u00c9RIOS E PEDRAS ORNAMENTAIS"
+    },
+    {
+        "code": "715",
+        "name": "TRABALHADORES DA CONSTRU\u00c7\u00c3O CIVIL E OBRAS P\u00daBLICAS"
+    },
+    {
+        "code": "716",
+        "name": "TRABALHADORES DE ACABAMENTO DE OBRAS"
+    },
+    {
+        "code": "717",
+        "name": "AJUDANTES DE OBRAS"
+    },
+    {
+        "code": "720",
+        "name": "SUPERVISORES DA TRANSFORMA\u00c7\u00c3O DE METAIS E DE COMP\u00d3SITOS"
+    },
+    {
+        "code": "721",
+        "name": "TRABALHADORES DE USINAGEM DE METAIS E DE COMP\u00d3SITOS"
+    },
+    {
+        "code": "722",
+        "name": "TRABALHADORES DE CONFORMA\u00c7\u00c3O DE METAIS E DE COMP\u00d3SITOS"
+    },
+    {
+        "code": "723",
+        "name": "TRABALHADORES DE TRATAMENTO T\u00c9RMICO E DE SUPERF\u00cdCIES DE METAIS E DE COMP\u00d3SITOS"
+    },
+    {
+        "code": "724",
+        "name": "TRABALHADORES DE MONTAGEM DE TUBULA\u00c7\u00d5ES, ESTRUTURAS MET\u00c1LICAS E DE COMP\u00d3SITOS"
+    },
+    {
+        "code": "725",
+        "name": "MONTADORES DE M\u00c1QUINAS E APARELHOS MEC\u00c2NICOS"
+    },
+    {
+        "code": "730",
+        "name": "SUPERVISORES DE MONTAGENS E INSTALA\u00c7\u00d5ES ELETROELETR\u00d4NICAS"
+    },
+    {
+        "code": "731",
+        "name": "MONTADORES E INSTALADORES DE EQUIPAMENTOS ELETROELETR\u00d4NICOS EM GERAL"
+    },
+    {
+        "code": "732",
+        "name": "INSTALADORES E REPARADORES DE LINHAS E CABOS EL\u00c9TRICOS E DE COMUNICA\u00c7\u00d5ES"
+    },
+    {
+        "code": "740",
+        "name": "SUPERVISORES DA MEC\u00c2NICA DE PRECIS\u00c3O E INSTRUMENTOS MUSICAIS"
+    },
+    {
+        "code": "741",
+        "name": "MONTADORES E AJUSTADORES DE INSTRUMENTOS DE PRECIS\u00c3O"
+    },
+    {
+        "code": "742",
+        "name": "MONTADORES E AJUSTADORES DE INSTRUMENTOS MUSICAIS"
+    },
+    {
+        "code": "750",
+        "name": "SUPERVISORES DE JOALHERIA, VIDRARIA, CER\u00c2MICA E AFINS"
+    },
+    {
+        "code": "751",
+        "name": "JOALHEIROS E OURIVES"
+    },
+    {
+        "code": "752",
+        "name": "VIDREIROS, CERAMISTAS E AFINS"
+    },
+    {
+        "code": "760",
+        "name": "SUPERVISORES NAS IND\u00daSTRIAS T\u00caXTIL, DO CURTIMENTO, DO VESTU\u00c1RIO E DAS ARTES GR\u00c1FICAS"
+    },
+    {
+        "code": "761",
+        "name": "TRABALHADORES DAS INDUSTRIAS T\u00caXTEIS"
+    },
+    {
+        "code": "762",
+        "name": "TRABALHADORES DO TRATAMENTO DE COUROS E PELES"
+    },
+    {
+        "code": "763",
+        "name": "TRABALHADORES DA CONFEC\u00c7\u00c3O DE ROUPAS"
+    },
+    {
+        "code": "764",
+        "name": "TRABALHADORES DA CONFEC\u00c7\u00c3O DE CAL\u00c7ADOS"
+    },
+    {
+        "code": "765",
+        "name": "TRABALHADORES DA CONFEC\u00c7\u00c3O DE ARTEFATOS DE TECIDOS E COUROS"
+    },
+    {
+        "code": "766",
+        "name": "TRABALHADORES DA PRODU\u00c7\u00c3O GR\u00c1FICA"
+    },
+    {
+        "code": "768",
+        "name": "TRABALHADORES ARTESANAIS DAS ATIVIDADES T\u00caXTEIS, DO VESTU\u00c1RIO E DAS ARTES GR\u00c1FICAS"
+    },
+    {
+        "code": "770",
+        "name": "SUPERVISORES EM IND\u00daSTRIA DE MADEIRA, MOBILI\u00c1RIO E DA CARPINTARIA VEICULAR"
+    },
+    {
+        "code": "771",
+        "name": "MARCENEIROS E AFINS"
+    },
+    {
+        "code": "772",
+        "name": "TRABALHADORES DA PREPARA\u00c7\u00c3O DA MADEIRA"
+    },
+    {
+        "code": "773",
+        "name": "TRABALHADORES DA TRANSFORMA\u00c7\u00c3O DA MADEIRA E DA FABRICA\u00c7\u00c3O DO MOBILI\u00c1RIO"
+    },
+    {
+        "code": "774",
+        "name": "TRABALHADORES DE MONTAGEM DE M\u00d3VEIS E ARTEFATOS DE MADEIRA"
+    },
+    {
+        "code": "775",
+        "name": "TRABALHADORES EM ACABAMENTO DE MADEIRA E DE MOBILI\u00c1RIO"
+    },
+    {
+        "code": "776",
+        "name": "TRABALHADORES ARTESANAIS DA MADEIRA E DO MOBILI\u00c1RIO"
+    },
+    {
+        "code": "777",
+        "name": "TRABALHADORES DA CARPINTARIA VEICULAR"
+    },
+    {
+        "code": "780",
+        "name": "SUPERVISORES DE TRABALHADORES DE EMBALAGEM E ETIQUETAGEM"
+    },
+    {
+        "code": "781",
+        "name": "OPERADORES DE ROB\u00d4S E EQUIPAMENTOS ESPECIAIS"
+    },
+    {
+        "code": "782",
+        "name": "CONDUTORES DE VE\u00cdCULOS E OPERADORES DE EQUIPAMENTOS DE ELEVA\u00c7\u00c3O E DE MOVIMENTA\u00c7\u00c3O DE CARGAS"
+    },
+    {
+        "code": "783",
+        "name": "TRABALHADORES DE MANOBRAS SOBRE TRILHOS E MOVIMENTA\u00c7\u00c3O E CARGAS"
+    },
+    {
+        "code": "784",
+        "name": "EMBALADORES E ALIMENTADORES DE PRODU\u00c7\u00c3O"
+    },
+    {
+        "code": "791",
+        "name": "TRABALHADORES DO ARTESANATO URBANO E RURAL"
+    },
+    {
+        "code": "810",
+        "name": "SUPERVISORES DE PRODU\u00c7\u00c3O, EM IND\u00daSTRIAS QU\u00cdMICAS, PETROQU\u00cdMICAS E AFINS"
+    },
+    {
+        "code": "811",
+        "name": "OPERADORES DE INSTALA\u00c7\u00d5ES EM IND\u00daSTRIAS QU\u00cdMICAS, PETROQU\u00cdMICAS E AFINS"
+    },
+    {
+        "code": "812",
+        "name": "TRABALHADORES DA FABRICA\u00c7\u00c3O DE MUNI\u00c7\u00c3O E EXPLOSIVOS QU\u00cdMICOS"
+    },
+    {
+        "code": "813",
+        "name": "OPERADORES DE OUTRAS INSTALA\u00c7\u00d5ES QU\u00cdMICAS, PETROQU\u00cdMICAS E AFINS"
+    },
+    {
+        "code": "818",
+        "name": "OPERADORES DE OPERA\u00c7\u00c3O UNIT\u00c1RIA DE LABORAT\u00d3RIO (TRANSVERSAL PARA TODA IND\u00daSTRIA DE PROCESSOS)"
+    },
+    {
+        "code": "820",
+        "name": "SUPERVISORES DE PRODU\u00c7\u00c3O EM IND\u00daSTRIAS SIDER\u00daRGICAS"
+    },
+    {
+        "code": "821",
+        "name": "OPERADORES DE INSTALA\u00c7\u00d5ES E EQUIPAMENTOS DE PRODU\u00c7\u00c3O DE METAIS E LIGAS- PRIMEIRA FUS\u00c3O"
+    },
+    {
+        "code": "822",
+        "name": "OPERADORES DE INSTALA\u00c7\u00d5ES E EQUIPAMENTOS DE PRODU\u00c7\u00c3O DE METAIS E LIGAS- SEGUNDA FUS\u00c3O"
+    },
+    {
+        "code": "823",
+        "name": "TRABALHADORES DE INSTALA\u00c7\u00d5ES E EQUIPAMENTOS DE MATERIAL DE CONSTRU\u00c7\u00c3O, CER\u00c2MICA E VIDRO"
+    },
+    {
+        "code": "828",
+        "name": "TRABALHADORES ARTESANAIS DA SIDERURGIA E DE MATERIAIS DE CONSTRU\u00c7\u00c3O"
+    },
+    {
+        "code": "830",
+        "name": "SUPERVISORES DA FABRICA\u00c7\u00c3O DE CELULOSE E PAPEL"
+    },
+    {
+        "code": "831",
+        "name": "TRABALHADORES DA PREPARA\u00c7\u00c3O DE PASTA DE PAPEL"
+    },
+    {
+        "code": "832",
+        "name": "TRABALHADORES DA FABRICA\u00c7\u00c3O DE PAPEL"
+    },
+    {
+        "code": "833",
+        "name": "CONFECCIONADORES DE PRODUTOS DE PAPEL E PAPEL\u00c3O"
+    },
+    {
+        "code": "840",
+        "name": "SUPERVISORES DA FABRICA\u00c7\u00c3O DE ALIMENTOS, BEBIDAS E FUMO"
+    },
+    {
+        "code": "841",
+        "name": "OPERADORES DE EQUIPAMENTOS NA PREPARA\u00c7\u00c3O DE ALIMENTOS E BEBIDAS"
+    },
+    {
+        "code": "842",
+        "name": "OPERADORES NA PREPARA\u00c7\u00c3O DE FUMO E NA FABRICA\u00c7\u00c3O DE CHARUTOS E CIGARROS"
+    },
+    {
+        "code": "848",
+        "name": "TRABALHADORES ARTESANAIS NA  AGROIND\u00daSTRIA, NA IND\u00daSTRIA DE ALIMENTOS E DO FUMO"
+    },
+    {
+        "code": "860",
+        "name": "SUPERVISORES DA PRODU\u00c7\u00c3O DE UTILIDADES"
+    },
+    {
+        "code": "861",
+        "name": "OPERADORES NA GERA\u00c7\u00c3O E DISTRIBUI\u00c7\u00c3O DE ENERGIA (CENTRAIS HIDREL\u00c9TRICAS, TERMEL\u00c9TRICAS E NUCLEARES)"
+    },
+    {
+        "code": "862",
+        "name": "OPERADORES DE UTILIDADES"
+    },
+    {
+        "code": "871",
+        "name": "OPERADORES DE OUTRAS INSTALA\u00c7\u00d5ES INDUSTRIAIS"
+    },
+    {
+        "code": "910",
+        "name": "SUPERVISORES EM SERVI\u00c7OS DE REPARA\u00c7\u00c3O E MANUTEN\u00c7\u00c3O MEC\u00c2NICA"
+    },
+    {
+        "code": "911",
+        "name": "MEC\u00c2NICOS DE MANUTEN\u00c7\u00c3O DE M\u00c1QUINAS E EQUIPAMENTOS INDUSTRIAIS, COMERCIAIS E RESIDENCIAIS"
+    },
+    {
+        "code": "913",
+        "name": "MEC\u00c2NICOS DE MANUTEN\u00c7\u00c3O DE M\u00c1QUINAS PESADAS E EQUIPAMENTOS AGR\u00cdCOLAS"
+    },
+    {
+        "code": "914",
+        "name": "MEC\u00c2NICOS DE MANUTEN\u00c7\u00c3O VEICULAR"
+    },
+    {
+        "code": "915",
+        "name": "REPARADORES DE INSTRUMENTOS E EQUIPAMENTOS DE PRECIS\u00c3O"
+    },
+    {
+        "code": "919",
+        "name": "OUTROS TRABALHADORES NA REPARA\u00c7\u00c3O E MANUTEN\u00c7\u00c3O DE EQUIPAMENTOS"
+    },
+    {
+        "code": "950",
+        "name": "SUPERVISORES DE MANUTEN\u00c7\u00c3O ELETROELETR\u00d4NICA E ELETROMEC\u00c2NICA"
+    },
+    {
+        "code": "951",
+        "name": "ELETRICISTAS ELETR\u00d4NICOS DE MANUTEN\u00c7\u00c3O INDUSTRIAL, COMERCIAL E RESIDENCIAL"
+    },
+    {
+        "code": "953",
+        "name": "ELETRICISTAS ELETR\u00d4NICOS DE MANUTEN\u00c7\u00c3O VEICULAR"
+    },
+    {
+        "code": "954",
+        "name": "MANTENEDORES ELETROMEC\u00c2NICOS"
+    },
+    {
+        "code": "991",
+        "name": "OUTROS TRABALHADORES DA CONSERVA\u00c7\u00c3O E MANUTEN\u00c7\u00c3O (EXCETO TRABALHADORES ELEMENTARES)"
+    },
+    {
+        "code": "992",
+        "name": "TRABALHADORES ELEMENTARES DA MANUTEN\u00c7\u00c3O"
+    }
+]

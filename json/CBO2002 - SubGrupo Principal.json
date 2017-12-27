@@ -1,0 +1,198 @@
+[
+    {
+        "code": "01",
+        "name": "MEMBROS DAS FOR\u00c7AS ARMADAS"
+    },
+    {
+        "code": "02",
+        "name": "POLICIAIS MILITARES"
+    },
+    {
+        "code": "03",
+        "name": "BOMBEIROS MILITARES"
+    },
+    {
+        "code": "11",
+        "name": "MEMBROS SUPERIORES E DIRIGENTES DO PODER P\u00daBLICO"
+    },
+    {
+        "code": "12",
+        "name": "DIRIGENTES DE EMPRESAS E ORGANIZA\u00c7\u00d5ES (EXCETO DE INTERESSE P\u00daBLICO)"
+    },
+    {
+        "code": "13",
+        "name": "DIRETORES E GERENTES EM EMPRESA DE SERVI\u00c7OS DE SA\u00daDE, DA EDUCA\u00c7\u00c3O, OU DE SERVI\u00c7OS CULTURAIS, SOCIAIS OU PESSOAIS"
+    },
+    {
+        "code": "14",
+        "name": "GERENTES"
+    },
+    {
+        "code": "20",
+        "name": "PESQUISADORES E PROFISSIONAIS POLICIENT\u00cdFICOS"
+    },
+    {
+        "code": "21",
+        "name": "PROFISSIONAIS DAS CI\u00caNCIAS EXATAS, F\u00cdSICAS E DA ENGENHARIA"
+    },
+    {
+        "code": "22",
+        "name": "PROFISSIONAIS DAS CI\u00caNCIAS BIOL\u00d3GICAS, DA SA\u00daDE E AFINS"
+    },
+    {
+        "code": "23",
+        "name": "PROFISSIONAIS DO ENSINO"
+    },
+    {
+        "code": "24",
+        "name": "PROFISSIONAIS DAS CI\u00caNCIAS JUR\u00cdDICAS"
+    },
+    {
+        "code": "25",
+        "name": "PROFISSIONAIS DAS CI\u00caNCIAS SOCIAIS E HUMANAS"
+    },
+    {
+        "code": "26",
+        "name": "COMUNICADORES, ARTISTAS E RELIGIOSOS"
+    },
+    {
+        "code": "27",
+        "name": "PROFISSIONAIS EM GASTRONOMIA"
+    },
+    {
+        "code": "30",
+        "name": "T\u00c9CNICOS POLIVALENTES"
+    },
+    {
+        "code": "31",
+        "name": "T\u00c9CNICOS DE N\u00cdVEL M\u00c9DIO DAS CI\u00caNCIAS F\u00cdSICAS, QU\u00cdMICAS, ENGENHARIA E AFINS"
+    },
+    {
+        "code": "32",
+        "name": "T\u00c9CNICOS DE N\u00cdVEL M\u00c9DIO DAS CI\u00caNCIAS BIOL\u00d3GICAS, BIOQU\u00cdMICAS, DA SA\u00daDE E AFINS"
+    },
+    {
+        "code": "33",
+        "name": "PROFESSORES LEIGOS E DE N\u00cdVEL M\u00c9DIO"
+    },
+    {
+        "code": "34",
+        "name": "T\u00c9CNICOS DE N\u00cdVEL M\u00c9DIO EM SERVI\u00c7OS DE TRANSPORTES"
+    },
+    {
+        "code": "35",
+        "name": "T\u00c9CNICOS DE NIVEL M\u00c9DIO NAS CI\u00caNCIAS ADMINISTRATIVAS"
+    },
+    {
+        "code": "37",
+        "name": "T\u00c9CNICOS EM NIVEL M\u00c9DIO DOS SERVI\u00c7OS CULTURAIS, DAS COMUNICA\u00c7\u00d5ES E DOS DESPORTOS"
+    },
+    {
+        "code": "39",
+        "name": "OUTROS T\u00c9CNICOS DE N\u00cdVEL M\u00c9DIO"
+    },
+    {
+        "code": "41",
+        "name": "ESCRITUR\u00c1RIOS"
+    },
+    {
+        "code": "42",
+        "name": "TRABALHADORES DE ATENDIMENTO AO P\u00daBLICO"
+    },
+    {
+        "code": "51",
+        "name": "TRABALHADORES DOS SERVI\u00c7OS"
+    },
+    {
+        "code": "52",
+        "name": "VENDEDORES E PRESTADORES DE SERVI\u00c7OS DO COM\u00c9RCIO"
+    },
+    {
+        "code": "61",
+        "name": "PRODUTORES NA EXPLORA\u00c7\u00c3O AGROPECU\u00c1RIA"
+    },
+    {
+        "code": "62",
+        "name": "TRABALHADORES NA EXPLORA\u00c7\u00c3O AGROPECU\u00c1RIA"
+    },
+    {
+        "code": "63",
+        "name": "PESCADORES E EXTRATIVISTAS FLORESTAIS"
+    },
+    {
+        "code": "64",
+        "name": "TRABALHADORES DA MECANIZA\u00c7\u00c3O AGROPECU\u00c1RIA E FLORESTAL"
+    },
+    {
+        "code": "71",
+        "name": "TRABALHADORES DA IND\u00daSTRIA EXTRATIVA E DA CONSTRU\u00c7\u00c3O CIVIL"
+    },
+    {
+        "code": "72",
+        "name": "TRABALHADORES DA TRANSFORMA\u00c7\u00c3O DE METAIS E DE COMP\u00d3SITOS"
+    },
+    {
+        "code": "73",
+        "name": "TRABALHADORES DA FABRICA\u00c7\u00c3O E INSTALA\u00c7\u00c3O ELETROELETR\u00d4NICA"
+    },
+    {
+        "code": "74",
+        "name": "MONTADORES DE APARELHOS E INSTRUMENTOS DE PRECIS\u00c3O E MUSICAIS"
+    },
+    {
+        "code": "75",
+        "name": "JOALHEIROS, VIDREIROS, CERAMISTAS E AFINS"
+    },
+    {
+        "code": "76",
+        "name": "TRABALHADORES NAS IND\u00daSTRIAS T\u00caXTIL, DO CURTIMENTO, DO VEST\u00daARIO E DAS ARTES GR\u00c1FICAS"
+    },
+    {
+        "code": "77",
+        "name": "TRABALHADORES DAS IND\u00daSTRIAS DE MADEIRA E DO MOBILI\u00c1RIO"
+    },
+    {
+        "code": "78",
+        "name": "TRABALHADORES DE FUN\u00c7\u00d5ES TRANSVERSAIS"
+    },
+    {
+        "code": "79",
+        "name": "TRABALHADORES DO ARTESANATO"
+    },
+    {
+        "code": "81",
+        "name": "TRABALHADORES EM IND\u00daSTRIAS DE PROCESSOS CONT\u00cdNUOS E OUTRAS IND\u00daSTRIAS"
+    },
+    {
+        "code": "82",
+        "name": "TRABALHADORES DE INSTALA\u00c7\u00d5ES SIDER\u00daRGICAS E DE MATERIAIS DE CONSTRU\u00c7\u00c3O"
+    },
+    {
+        "code": "83",
+        "name": "TRABALHADORES DE INSTALA\u00c7\u00d5ES E M\u00c1QUINAS DE FABRICA\u00c7\u00c3O DE CELULOSE E PAPEL"
+    },
+    {
+        "code": "84",
+        "name": "TRABALHADORES DA FABRICA\u00c7\u00c3O DE ALIMENTOS, BEBIDAS E FUMO"
+    },
+    {
+        "code": "86",
+        "name": "OPERADORES DE PRODU\u00c7\u00c3O, CAPTA\u00c7\u00c3O, TRATAMENTO E DISTRIBUI\u00c7\u00c3O (ENERGIA, \u00c1GUA E UTILIDADES)"
+    },
+    {
+        "code": "87",
+        "name": "OPERADORES DE OUTRAS INSTALA\u00c7\u00d5ES INDUSTRIAIS"
+    },
+    {
+        "code": "91",
+        "name": "TRABALHADORES EM SERVI\u00c7OS DE REPARA\u00c7\u00c3O E MANUTEN\u00c7\u00c3O MEC\u00c2NICA"
+    },
+    {
+        "code": "95",
+        "name": "POLIMANTENEDORES"
+    },
+    {
+        "code": "99",
+        "name": "OUTROS TRABALHADORES DA CONSERVA\u00c7\u00c3O, MANUTEN\u00c7\u00c3O E REPARA\u00c7\u00c3O"
+    }
+]

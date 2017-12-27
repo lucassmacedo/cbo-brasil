@@ -1,0 +1,783 @@
+<?xml version="1.0" ?>
+<root>
+	<item>
+		<code>010</code>
+		<name>MEMBROS DAS FORÇAS ARMADAS</name>
+	</item>
+	<item>
+		<code>020</code>
+		<name>OFICIAIS DE POLÍCIA MILITAR</name>
+	</item>
+	<item>
+		<code>021</code>
+		<name>PRAÇAS DE POLÍCIA MILITAR</name>
+	</item>
+	<item>
+		<code>030</code>
+		<name>OFICIAIS DE BOMBEIRO MILITAR</name>
+	</item>
+	<item>
+		<code>031</code>
+		<name>PRAÇAS DE BOMBEIRO MILITAR</name>
+	</item>
+	<item>
+		<code>111</code>
+		<name>MEMBROS SUPERIORES DO PODER LEGISLATIVO, EXECUTIVO E JUDICIÁRIO</name>
+	</item>
+	<item>
+		<code>113</code>
+		<name>CHEFES DE PEQUENAS POPULAÇÕES</name>
+	</item>
+	<item>
+		<code>114</code>
+		<name>DIRIGENTES E ADMINISTRADORES DE ORGANIZAÇÃO DE INTERESSE PÚBLICO</name>
+	</item>
+	<item>
+		<code>121</code>
+		<name>DIRETORES GERAIS</name>
+	</item>
+	<item>
+		<code>122</code>
+		<name>DIRETORES DE PRODUÇÃO E OPERAÇÕES</name>
+	</item>
+	<item>
+		<code>123</code>
+		<name>DIRETORES DE ÁREAS DE APOIO</name>
+	</item>
+	<item>
+		<code>131</code>
+		<name>DIRETORES E GERENTES EM EMPRESA DE SERVIÇOS DE SAÚDE, DE EDUCAÇÃO, OU DE SERVIÇOS CULTURAIS, SOCIAIS OU PESSOAIS</name>
+	</item>
+	<item>
+		<code>141</code>
+		<name>GERENTES DE PRODUÇÃO E OPERAÇÕES</name>
+	</item>
+	<item>
+		<code>142</code>
+		<name>GERENTES DE ÁREAS DE APOIO</name>
+	</item>
+	<item>
+		<code>201</code>
+		<name>PROFISSIONAIS DA BIOTECNOLOGIA E METROLOGIA</name>
+	</item>
+	<item>
+		<code>202</code>
+		<name>PROFISSIONAIS DA ELETROMECÂNICA</name>
+	</item>
+	<item>
+		<code>203</code>
+		<name>PESQUISADORES</name>
+	</item>
+	<item>
+		<code>204</code>
+		<name>PROFISSIONAIS DE INVESTIGAÇÃO CRIMINAL</name>
+	</item>
+	<item>
+		<code>211</code>
+		<name>MATEMÁTICOS, ESTATÍSTICOS E AFINS</name>
+	</item>
+	<item>
+		<code>212</code>
+		<name>PROFISSIONAIS DA INFORMÁTICA</name>
+	</item>
+	<item>
+		<code>213</code>
+		<name>FÍSICOS, QUÍMICOS E AFINS</name>
+	</item>
+	<item>
+		<code>214</code>
+		<name>ENGENHEIROS, ARQUITETOS E AFINS</name>
+	</item>
+	<item>
+		<code>215</code>
+		<name>PROFISSIONAIS EM NAVEGAÇÃO AÉREA, MARÍTIMA E FLUVIAL</name>
+	</item>
+	<item>
+		<code>221</code>
+		<name>BIÓLOGOS E AFINS</name>
+	</item>
+	<item>
+		<code>222</code>
+		<name>AGRÔNOMOS E AFINS</name>
+	</item>
+	<item>
+		<code>223</code>
+		<name>PROFISSIONAIS DA MEDICINA, SAÚDE E AFINS</name>
+	</item>
+	<item>
+		<code>224</code>
+		<name>PROFISSIONAIS DA EDUCAÇÃO FÍSICA</name>
+	</item>
+	<item>
+		<code>225</code>
+		<name>PROFISSIONAIS DA MEDICINA</name>
+	</item>
+	<item>
+		<code>226</code>
+		<name>PROFISSIONAIS DE SAÚDE EM PRATICAS INTEGRATIVAS E COMPLEMENTARES</name>
+	</item>
+	<item>
+		<code>231</code>
+		<name>PROFESSORES DE NÍVEL SUPERIOR NA EDUCAÇÃO INFANTIL E NO ENSINO FUNDAMENTAL</name>
+	</item>
+	<item>
+		<code>232</code>
+		<name>PROFESSORES DO ENSINO MÉDIO</name>
+	</item>
+	<item>
+		<code>233</code>
+		<name>PROFESSORES E INSTRUTORES DO ENSINO PROFISSIONAL</name>
+	</item>
+	<item>
+		<code>234</code>
+		<name>PROFESSORES DO ENSINO SUPERIOR</name>
+	</item>
+	<item>
+		<code>239</code>
+		<name>OUTROS PROFISSIONAIS DO ENSINO NÃO CLASSIFICADOS ANTERIORMENTE</name>
+	</item>
+	<item>
+		<code>241</code>
+		<name>ADVOGADOS, PROCURADORES, TABELIÃES E AFINS</name>
+	</item>
+	<item>
+		<code>242</code>
+		<name>ADVOGADOS DO PODER JUDICIÁRIO E DA SEGURANÇA PÚBLICA</name>
+	</item>
+	<item>
+		<code>251</code>
+		<name>CIENTISTAS SOCIAIS, PSICÓLOGOS E AFINS</name>
+	</item>
+	<item>
+		<code>252</code>
+		<name>PROFISSIONAIS DE ORGANIZAÇÃO E ADMINISTRAÇÃO DE EMPRESAS E AFINS</name>
+	</item>
+	<item>
+		<code>253</code>
+		<name>PROFISSIONAIS DE RELAÇÕES PÚBLICAS, PUBLICIDADE, MARKETING E COMERCIALIZAÇÃO</name>
+	</item>
+	<item>
+		<code>254</code>
+		<name>AUDITORES FISCAIS PÚBLICOS</name>
+	</item>
+	<item>
+		<code>261</code>
+		<name>PROFISSIONAIS DA COMUNICAÇÃO E DA INFORMAÇÃO</name>
+	</item>
+	<item>
+		<code>262</code>
+		<name>PROFISSIONAIS DE ESPETÁCULOS E DAS ARTES</name>
+	</item>
+	<item>
+		<code>263</code>
+		<name>MEMBROS DE CULTOS RELIGIOSOS E AFINS</name>
+	</item>
+	<item>
+		<code>271</code>
+		<name>PROFISSIONAIS EM GASTRONOMIA E SERVIÇOS DE ALIMENTAÇÃO</name>
+	</item>
+	<item>
+		<code>300</code>
+		<name>TÉCNICOS MECATRÔNICOS E ELETROMECÂNICOS</name>
+	</item>
+	<item>
+		<code>301</code>
+		<name>TÉCNICOS EM LABORATÓRIO</name>
+	</item>
+	<item>
+		<code>311</code>
+		<name>TÉCNICO EM CIÊNCIAS FÍSICAS E QUÍMICAS</name>
+	</item>
+	<item>
+		<code>312</code>
+		<name>TÉCNICOS EM CONSTRUÇÃO CIVIL, DE EDIFICAÇÕES E OBRAS DE INFRAESTRUTURA</name>
+	</item>
+	<item>
+		<code>313</code>
+		<name>TÉCNICOS EM ELETROELETRÔNICA E FOTÔNICA</name>
+	</item>
+	<item>
+		<code>314</code>
+		<name>TÉCNICOS EM METALMECÂNICA</name>
+	</item>
+	<item>
+		<code>316</code>
+		<name>TÉCNICOS EM MINERALOGIA E GEOLOGIA</name>
+	</item>
+	<item>
+		<code>317</code>
+		<name>TÉCNICOS EM INFORMÁTICA</name>
+	</item>
+	<item>
+		<code>318</code>
+		<name>DESENHISTAS TÉCNICOS E MODELISTAS</name>
+	</item>
+	<item>
+		<code>319</code>
+		<name>OUTROS TÉCNICOS DE NÍVEL MÉDIO DAS CIÊNCIAS FÍSICAS, QUÍMICAS, ENGENHARIA E AFINS</name>
+	</item>
+	<item>
+		<code>320</code>
+		<name>TÉCNICOS EM BIOLOGIA</name>
+	</item>
+	<item>
+		<code>321</code>
+		<name>TÉCNICOS DA PRODUÇÃO AGROPECUÁRIA</name>
+	</item>
+	<item>
+		<code>322</code>
+		<name>TÉCNICOS DA CIÊNCIA DA SAÚDE HUMANA</name>
+	</item>
+	<item>
+		<code>323</code>
+		<name>TÉCNICOS DA CIÊNCIA DA SAÚDE ANIMAL</name>
+	</item>
+	<item>
+		<code>324</code>
+		<name>TÉCNICOS EM OPERAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGNÓSTICO</name>
+	</item>
+	<item>
+		<code>325</code>
+		<name>TÉCNICOS DE BIOQUÍMICA E DA BIOTECNOLOGIA</name>
+	</item>
+	<item>
+		<code>328</code>
+		<name>TÉCNICOS EM NECRÓPSIA E TAXIDERMISTAS</name>
+	</item>
+	<item>
+		<code>331</code>
+		<name>PROFESSORES DE NÍVEL MÉDIO NA EDUCAÇÃO INFANTIL, NO ENSINO FUNDAMENTAL E NO PROFISSIONALIZANTE</name>
+	</item>
+	<item>
+		<code>332</code>
+		<name>PROFESSORES LEIGOS NO ENSINO FUNDAMENTAL E NO  PROFISSIONALIZANTE</name>
+	</item>
+	<item>
+		<code>333</code>
+		<name>INSTRUTORES E PROFESSORES DE ESCOLAS LIVRES</name>
+	</item>
+	<item>
+		<code>334</code>
+		<name>INSPETORES DE ALUNOS E AFINS</name>
+	</item>
+	<item>
+		<code>341</code>
+		<name>TÉCNICOS EM NAVEGAÇÃO AÉREA, MARÍTIMA E FLUVIAL</name>
+	</item>
+	<item>
+		<code>342</code>
+		<name>TÉCNICOS EM TRANSPORTES (LOGÍSTICA)</name>
+	</item>
+	<item>
+		<code>351</code>
+		<name>TÉCNICOS DAS CIÊNCIAS ADMINISTRATIVAS</name>
+	</item>
+	<item>
+		<code>352</code>
+		<name>TÉCNICOS DE INSPEÇÃO, FISCALIZAÇÃO E COORDENAÇÃO ADMINISTRATIVA</name>
+	</item>
+	<item>
+		<code>353</code>
+		<name>TÉCNICOS DE NÍVEL MÉDIO EM OPERAÇÕES FINANCEIRAS</name>
+	</item>
+	<item>
+		<code>354</code>
+		<name>TÉCNICOS DE NIVEL MÉDIO EM OPERAÇÕES COMERCIAIS</name>
+	</item>
+	<item>
+		<code>371</code>
+		<name>TÉCNICOS DE SERVIÇOS CULTURAIS</name>
+	</item>
+	<item>
+		<code>372</code>
+		<name>TÉCNICOS EM OPERAÇÃO DE CÂMARA FOTOGRÁFICA , CINEMA E DE TELEVISÃO</name>
+	</item>
+	<item>
+		<code>373</code>
+		<name>TÉCNICOS EM OPERAÇÃO DE EMISSORAS DE RÁDIO, SISTEMAS DE TELEVISÃO E DE PRODUTORAS DE VÍDEO</name>
+	</item>
+	<item>
+		<code>374</code>
+		<name>TÉCNICOS EM OPERAÇÃO DE APARELHOS DE SONORIZAÇÃO, CENOGRAFIA E PROJEÇÃO</name>
+	</item>
+	<item>
+		<code>375</code>
+		<name>DECORADORES E VITRINISTAS</name>
+	</item>
+	<item>
+		<code>376</code>
+		<name>ARTISTAS DE ARTES POPULARES E MODELOS</name>
+	</item>
+	<item>
+		<code>377</code>
+		<name>ATLETAS, DESPORTISTAS E AFINS</name>
+	</item>
+	<item>
+		<code>391</code>
+		<name>TÉCNICOS DE NIVEL MÉDIO EM OPERAÇÕES INDUSTRIAIS</name>
+	</item>
+	<item>
+		<code>395</code>
+		<name>TÉCNICOS DE APOIO EM PESQUISA E DESENVOLVIMENTO</name>
+	</item>
+	<item>
+		<code>410</code>
+		<name>SUPERVISORES DE SERVIÇOS ADMINISTRATIVOS (Exceto de atendimento ao público)</name>
+	</item>
+	<item>
+		<code>411</code>
+		<name>ESCRITURÁRIOS EM GERAL, AGENTES, ASSISTENTES E AUXILIARES ADMINISTRATIVOS</name>
+	</item>
+	<item>
+		<code>412</code>
+		<name>SECRETÁRIOS DE EXPEDIENTE E OPERADORES DE MÁQUINAS DE ESCRITÓRIOS</name>
+	</item>
+	<item>
+		<code>413</code>
+		<name>ESCRITURÁRIOS CONTÁBEIS E DE FINANÇAS</name>
+	</item>
+	<item>
+		<code>414</code>
+		<name>ESCRITURÁRIOS DE CONTROLE DE MATERIAIS E DE APOIO À PRODUÇÃO</name>
+	</item>
+	<item>
+		<code>415</code>
+		<name>AUXILIARES DE SERVIÇOS DE BIBLIOTECA, DOCUMENTAÇÃO E CORREIOS</name>
+	</item>
+	<item>
+		<code>420</code>
+		<name>SUPERVISORES DE ATENDIMENTO AO PÚBLICO</name>
+	</item>
+	<item>
+		<code>421</code>
+		<name>CAIXAS, BILHETEIROS E AFINS</name>
+	</item>
+	<item>
+		<code>422</code>
+		<name>TRABALHADORES DE INFORMAÇÕES AO PÚBLICO</name>
+	</item>
+	<item>
+		<code>423</code>
+		<name>DESPACHANTES</name>
+	</item>
+	<item>
+		<code>424</code>
+		<name>ENTREVISTADORES, RECENSEADORES E AFINS</name>
+	</item>
+	<item>
+		<code>510</code>
+		<name>SUPERVISORES DOS SERVIÇOS</name>
+	</item>
+	<item>
+		<code>511</code>
+		<name>TRABALHADORES DOS SERVIÇOS DE TRANSPORTE E TURISMO</name>
+	</item>
+	<item>
+		<code>512</code>
+		<name>TRABALHADORES DOS SERVIÇOS DOMÉSTICOS EM GERAL</name>
+	</item>
+	<item>
+		<code>513</code>
+		<name>TRABALHADORES DOS SERVIÇOS DE HOTELARIA E ALIMENTAÇÃO</name>
+	</item>
+	<item>
+		<code>514</code>
+		<name>TRABALHADORES NOS SERVIÇOS DE ADMINISTRAÇÃO, CONSERVAÇÃO E MANUTENÇÃO DE EDIFÍCIOS E LOGRADOUROS</name>
+	</item>
+	<item>
+		<code>515</code>
+		<name>TRABALHADORES DOS SERVIÇOS DE SAÚDE</name>
+	</item>
+	<item>
+		<code>516</code>
+		<name>TRABALHADORES NOS SERVIÇOS DE EMBELEZAMENTO E CUIDADOS PESSOAIS</name>
+	</item>
+	<item>
+		<code>517</code>
+		<name>TRABALHADORES NOS SERVIÇOS DE PROTEÇÃO E SEGURANÇA</name>
+	</item>
+	<item>
+		<code>519</code>
+		<name>OUTROS TRABALHADORES DE SERVIÇOS DIVERSOS</name>
+	</item>
+	<item>
+		<code>520</code>
+		<name>SUPERVISORES DE VENDAS E DE PRESTAÇÃO DE SERVIÇOS</name>
+	</item>
+	<item>
+		<code>521</code>
+		<name>VENDEDORES E DEMONSTRADORES</name>
+	</item>
+	<item>
+		<code>522</code>
+		<name>REPOSITORES E REMARCADORES DO COMÉRCIO</name>
+	</item>
+	<item>
+		<code>523</code>
+		<name>INSTALADORES DE PRODUTOS E ACESSÓRIOS</name>
+	</item>
+	<item>
+		<code>524</code>
+		<name>VENDEDORES A DOMICÍLIO, AMBULANTES E EM BANCAS</name>
+	</item>
+	<item>
+		<code>611</code>
+		<name>PRODUTORES AGROPECUÁRIOS EM GERAL</name>
+	</item>
+	<item>
+		<code>612</code>
+		<name>PRODUTORES AGRÍCOLAS</name>
+	</item>
+	<item>
+		<code>613</code>
+		<name>PRODUTORES EM PECUÁRIA</name>
+	</item>
+	<item>
+		<code>620</code>
+		<name>SUPERVISORES NA EXPLORAÇÃO AGROPECUÁRIA</name>
+	</item>
+	<item>
+		<code>621</code>
+		<name>TRABALHADORES NA EXPLORAÇÃO AGROPECUÁRIA EM GERAL</name>
+	</item>
+	<item>
+		<code>622</code>
+		<name>TRABALHADORES AGRÍCOLAS</name>
+	</item>
+	<item>
+		<code>623</code>
+		<name>TRABALHADORES NA PECUÁRIA</name>
+	</item>
+	<item>
+		<code>630</code>
+		<name>SUPERVISORES NA EXPLORAÇÃO FLORESTAL E PESCA</name>
+	</item>
+	<item>
+		<code>631</code>
+		<name>PESCADORES E CAÇADORES</name>
+	</item>
+	<item>
+		<code>632</code>
+		<name>EXTRATIVISTAS FLORESTAIS</name>
+	</item>
+	<item>
+		<code>641</code>
+		<name>TRABALHADORES DA MECANIZAÇÃO AGROPECUÁRIA</name>
+	</item>
+	<item>
+		<code>642</code>
+		<name>TRABALHADORES DA MECANIZAÇÃO FLORESTAL</name>
+	</item>
+	<item>
+		<code>643</code>
+		<name>TRABALHADORES DA IRRIGAÇÃO E DRENAGEM</name>
+	</item>
+	<item>
+		<code>710</code>
+		<name>SUPERVISORES DA EXTRAÇÃO MINERAL E DA CONSTRUÇÃO CIVIL</name>
+	</item>
+	<item>
+		<code>711</code>
+		<name>TRABALHADORES DA EXTRAÇÃO MINERAL</name>
+	</item>
+	<item>
+		<code>712</code>
+		<name>TRABALHADORES DE BENEFICIAMENTO DE MINÉRIOS E PEDRAS ORNAMENTAIS</name>
+	</item>
+	<item>
+		<code>715</code>
+		<name>TRABALHADORES DA CONSTRUÇÃO CIVIL E OBRAS PÚBLICAS</name>
+	</item>
+	<item>
+		<code>716</code>
+		<name>TRABALHADORES DE ACABAMENTO DE OBRAS</name>
+	</item>
+	<item>
+		<code>717</code>
+		<name>AJUDANTES DE OBRAS</name>
+	</item>
+	<item>
+		<code>720</code>
+		<name>SUPERVISORES DA TRANSFORMAÇÃO DE METAIS E DE COMPÓSITOS</name>
+	</item>
+	<item>
+		<code>721</code>
+		<name>TRABALHADORES DE USINAGEM DE METAIS E DE COMPÓSITOS</name>
+	</item>
+	<item>
+		<code>722</code>
+		<name>TRABALHADORES DE CONFORMAÇÃO DE METAIS E DE COMPÓSITOS</name>
+	</item>
+	<item>
+		<code>723</code>
+		<name>TRABALHADORES DE TRATAMENTO TÉRMICO E DE SUPERFÍCIES DE METAIS E DE COMPÓSITOS</name>
+	</item>
+	<item>
+		<code>724</code>
+		<name>TRABALHADORES DE MONTAGEM DE TUBULAÇÕES, ESTRUTURAS METÁLICAS E DE COMPÓSITOS</name>
+	</item>
+	<item>
+		<code>725</code>
+		<name>MONTADORES DE MÁQUINAS E APARELHOS MECÂNICOS</name>
+	</item>
+	<item>
+		<code>730</code>
+		<name>SUPERVISORES DE MONTAGENS E INSTALAÇÕES ELETROELETRÔNICAS</name>
+	</item>
+	<item>
+		<code>731</code>
+		<name>MONTADORES E INSTALADORES DE EQUIPAMENTOS ELETROELETRÔNICOS EM GERAL</name>
+	</item>
+	<item>
+		<code>732</code>
+		<name>INSTALADORES E REPARADORES DE LINHAS E CABOS ELÉTRICOS E DE COMUNICAÇÕES</name>
+	</item>
+	<item>
+		<code>740</code>
+		<name>SUPERVISORES DA MECÂNICA DE PRECISÃO E INSTRUMENTOS MUSICAIS</name>
+	</item>
+	<item>
+		<code>741</code>
+		<name>MONTADORES E AJUSTADORES DE INSTRUMENTOS DE PRECISÃO</name>
+	</item>
+	<item>
+		<code>742</code>
+		<name>MONTADORES E AJUSTADORES DE INSTRUMENTOS MUSICAIS</name>
+	</item>
+	<item>
+		<code>750</code>
+		<name>SUPERVISORES DE JOALHERIA, VIDRARIA, CERÂMICA E AFINS</name>
+	</item>
+	<item>
+		<code>751</code>
+		<name>JOALHEIROS E OURIVES</name>
+	</item>
+	<item>
+		<code>752</code>
+		<name>VIDREIROS, CERAMISTAS E AFINS</name>
+	</item>
+	<item>
+		<code>760</code>
+		<name>SUPERVISORES NAS INDÚSTRIAS TÊXTIL, DO CURTIMENTO, DO VESTUÁRIO E DAS ARTES GRÁFICAS</name>
+	</item>
+	<item>
+		<code>761</code>
+		<name>TRABALHADORES DAS INDUSTRIAS TÊXTEIS</name>
+	</item>
+	<item>
+		<code>762</code>
+		<name>TRABALHADORES DO TRATAMENTO DE COUROS E PELES</name>
+	</item>
+	<item>
+		<code>763</code>
+		<name>TRABALHADORES DA CONFECÇÃO DE ROUPAS</name>
+	</item>
+	<item>
+		<code>764</code>
+		<name>TRABALHADORES DA CONFECÇÃO DE CALÇADOS</name>
+	</item>
+	<item>
+		<code>765</code>
+		<name>TRABALHADORES DA CONFECÇÃO DE ARTEFATOS DE TECIDOS E COUROS</name>
+	</item>
+	<item>
+		<code>766</code>
+		<name>TRABALHADORES DA PRODUÇÃO GRÁFICA</name>
+	</item>
+	<item>
+		<code>768</code>
+		<name>TRABALHADORES ARTESANAIS DAS ATIVIDADES TÊXTEIS, DO VESTUÁRIO E DAS ARTES GRÁFICAS</name>
+	</item>
+	<item>
+		<code>770</code>
+		<name>SUPERVISORES EM INDÚSTRIA DE MADEIRA, MOBILIÁRIO E DA CARPINTARIA VEICULAR</name>
+	</item>
+	<item>
+		<code>771</code>
+		<name>MARCENEIROS E AFINS</name>
+	</item>
+	<item>
+		<code>772</code>
+		<name>TRABALHADORES DA PREPARAÇÃO DA MADEIRA</name>
+	</item>
+	<item>
+		<code>773</code>
+		<name>TRABALHADORES DA TRANSFORMAÇÃO DA MADEIRA E DA FABRICAÇÃO DO MOBILIÁRIO</name>
+	</item>
+	<item>
+		<code>774</code>
+		<name>TRABALHADORES DE MONTAGEM DE MÓVEIS E ARTEFATOS DE MADEIRA</name>
+	</item>
+	<item>
+		<code>775</code>
+		<name>TRABALHADORES EM ACABAMENTO DE MADEIRA E DE MOBILIÁRIO</name>
+	</item>
+	<item>
+		<code>776</code>
+		<name>TRABALHADORES ARTESANAIS DA MADEIRA E DO MOBILIÁRIO</name>
+	</item>
+	<item>
+		<code>777</code>
+		<name>TRABALHADORES DA CARPINTARIA VEICULAR</name>
+	</item>
+	<item>
+		<code>780</code>
+		<name>SUPERVISORES DE TRABALHADORES DE EMBALAGEM E ETIQUETAGEM</name>
+	</item>
+	<item>
+		<code>781</code>
+		<name>OPERADORES DE ROBÔS E EQUIPAMENTOS ESPECIAIS</name>
+	</item>
+	<item>
+		<code>782</code>
+		<name>CONDUTORES DE VEÍCULOS E OPERADORES DE EQUIPAMENTOS DE ELEVAÇÃO E DE MOVIMENTAÇÃO DE CARGAS</name>
+	</item>
+	<item>
+		<code>783</code>
+		<name>TRABALHADORES DE MANOBRAS SOBRE TRILHOS E MOVIMENTAÇÃO E CARGAS</name>
+	</item>
+	<item>
+		<code>784</code>
+		<name>EMBALADORES E ALIMENTADORES DE PRODUÇÃO</name>
+	</item>
+	<item>
+		<code>791</code>
+		<name>TRABALHADORES DO ARTESANATO URBANO E RURAL</name>
+	</item>
+	<item>
+		<code>810</code>
+		<name>SUPERVISORES DE PRODUÇÃO, EM INDÚSTRIAS QUÍMICAS, PETROQUÍMICAS E AFINS</name>
+	</item>
+	<item>
+		<code>811</code>
+		<name>OPERADORES DE INSTALAÇÕES EM INDÚSTRIAS QUÍMICAS, PETROQUÍMICAS E AFINS</name>
+	</item>
+	<item>
+		<code>812</code>
+		<name>TRABALHADORES DA FABRICAÇÃO DE MUNIÇÃO E EXPLOSIVOS QUÍMICOS</name>
+	</item>
+	<item>
+		<code>813</code>
+		<name>OPERADORES DE OUTRAS INSTALAÇÕES QUÍMICAS, PETROQUÍMICAS E AFINS</name>
+	</item>
+	<item>
+		<code>818</code>
+		<name>OPERADORES DE OPERAÇÃO UNITÁRIA DE LABORATÓRIO (TRANSVERSAL PARA TODA INDÚSTRIA DE PROCESSOS)</name>
+	</item>
+	<item>
+		<code>820</code>
+		<name>SUPERVISORES DE PRODUÇÃO EM INDÚSTRIAS SIDERÚRGICAS</name>
+	</item>
+	<item>
+		<code>821</code>
+		<name>OPERADORES DE INSTALAÇÕES E EQUIPAMENTOS DE PRODUÇÃO DE METAIS E LIGAS- PRIMEIRA FUSÃO</name>
+	</item>
+	<item>
+		<code>822</code>
+		<name>OPERADORES DE INSTALAÇÕES E EQUIPAMENTOS DE PRODUÇÃO DE METAIS E LIGAS- SEGUNDA FUSÃO</name>
+	</item>
+	<item>
+		<code>823</code>
+		<name>TRABALHADORES DE INSTALAÇÕES E EQUIPAMENTOS DE MATERIAL DE CONSTRUÇÃO, CERÂMICA E VIDRO</name>
+	</item>
+	<item>
+		<code>828</code>
+		<name>TRABALHADORES ARTESANAIS DA SIDERURGIA E DE MATERIAIS DE CONSTRUÇÃO</name>
+	</item>
+	<item>
+		<code>830</code>
+		<name>SUPERVISORES DA FABRICAÇÃO DE CELULOSE E PAPEL</name>
+	</item>
+	<item>
+		<code>831</code>
+		<name>TRABALHADORES DA PREPARAÇÃO DE PASTA DE PAPEL</name>
+	</item>
+	<item>
+		<code>832</code>
+		<name>TRABALHADORES DA FABRICAÇÃO DE PAPEL</name>
+	</item>
+	<item>
+		<code>833</code>
+		<name>CONFECCIONADORES DE PRODUTOS DE PAPEL E PAPELÃO</name>
+	</item>
+	<item>
+		<code>840</code>
+		<name>SUPERVISORES DA FABRICAÇÃO DE ALIMENTOS, BEBIDAS E FUMO</name>
+	</item>
+	<item>
+		<code>841</code>
+		<name>OPERADORES DE EQUIPAMENTOS NA PREPARAÇÃO DE ALIMENTOS E BEBIDAS</name>
+	</item>
+	<item>
+		<code>842</code>
+		<name>OPERADORES NA PREPARAÇÃO DE FUMO E NA FABRICAÇÃO DE CHARUTOS E CIGARROS</name>
+	</item>
+	<item>
+		<code>848</code>
+		<name>TRABALHADORES ARTESANAIS NA  AGROINDÚSTRIA, NA INDÚSTRIA DE ALIMENTOS E DO FUMO</name>
+	</item>
+	<item>
+		<code>860</code>
+		<name>SUPERVISORES DA PRODUÇÃO DE UTILIDADES</name>
+	</item>
+	<item>
+		<code>861</code>
+		<name>OPERADORES NA GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA (CENTRAIS HIDRELÉTRICAS, TERMELÉTRICAS E NUCLEARES)</name>
+	</item>
+	<item>
+		<code>862</code>
+		<name>OPERADORES DE UTILIDADES</name>
+	</item>
+	<item>
+		<code>871</code>
+		<name>OPERADORES DE OUTRAS INSTALAÇÕES INDUSTRIAIS</name>
+	</item>
+	<item>
+		<code>910</code>
+		<name>SUPERVISORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO MECÂNICA</name>
+	</item>
+	<item>
+		<code>911</code>
+		<name>MECÂNICOS DE MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS, COMERCIAIS E RESIDENCIAIS</name>
+	</item>
+	<item>
+		<code>913</code>
+		<name>MECÂNICOS DE MANUTENÇÃO DE MÁQUINAS PESADAS E EQUIPAMENTOS AGRÍCOLAS</name>
+	</item>
+	<item>
+		<code>914</code>
+		<name>MECÂNICOS DE MANUTENÇÃO VEICULAR</name>
+	</item>
+	<item>
+		<code>915</code>
+		<name>REPARADORES DE INSTRUMENTOS E EQUIPAMENTOS DE PRECISÃO</name>
+	</item>
+	<item>
+		<code>919</code>
+		<name>OUTROS TRABALHADORES NA REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS</name>
+	</item>
+	<item>
+		<code>950</code>
+		<name>SUPERVISORES DE MANUTENÇÃO ELETROELETRÔNICA E ELETROMECÂNICA</name>
+	</item>
+	<item>
+		<code>951</code>
+		<name>ELETRICISTAS ELETRÔNICOS DE MANUTENÇÃO INDUSTRIAL, COMERCIAL E RESIDENCIAL</name>
+	</item>
+	<item>
+		<code>953</code>
+		<name>ELETRICISTAS ELETRÔNICOS DE MANUTENÇÃO VEICULAR</name>
+	</item>
+	<item>
+		<code>954</code>
+		<name>MANTENEDORES ELETROMECÂNICOS</name>
+	</item>
+	<item>
+		<code>991</code>
+		<name>OUTROS TRABALHADORES DA CONSERVAÇÃO E MANUTENÇÃO (EXCETO TRABALHADORES ELEMENTARES)</name>
+	</item>
+	<item>
+		<code>992</code>
+		<name>TRABALHADORES ELEMENTARES DA MANUTENÇÃO</name>
+	</item>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<root>
+	<item>
+		<code>0</code>
+		<name>MEMBROS DAS FORÇAS ARMADAS, POLICIAIS E BOMBEIROS MILITARES</name>
+	</item>
+	<item>
+		<code>1</code>
+		<name>MEMBROS SUPERIORES DO PODER PÚBLICO, DIRIGENTES DE ORGANIZAÇÕES DE INTERESSE PÚBLICO E DE EMPRESAS, GERENTES</name>
+	</item>
+	<item>
+		<code>2</code>
+		<name>PROFISSIONAIS DAS CIÊNCIAS E DAS ARTES</name>
+	</item>
+	<item>
+		<code>3</code>
+		<name>TÉCNICOS DE NIVEL MÉDIO</name>
+	</item>
+	<item>
+		<code>4</code>
+		<name>TRABALHADORES DE SERVIÇOS ADMINISTRATIVOS</name>
+	</item>
+	<item>
+		<code>5</code>
+		<name>TRABALHADORES DOS SERVIÇOS, VENDEDORES DO COMÉRCIO EM LOJAS E MERCADOS</name>
+	</item>
+	<item>
+		<code>6</code>
+		<name>TRABALHADORES AGROPECUÁRIOS, FLORESTAIS E DA PESCA</name>
+	</item>
+	<item>
+		<code>7</code>
+		<name>TRABALHADORES DA PRODUÇÃO DE BENS E SERVIÇOS INDUSTRIAIS</name>
+	</item>
+	<item>
+		<code>8</code>
+		<name>TRABALHADORES DA PRODUÇÃO DE BENS E SERVIÇOS INDUSTRIAIS</name>
+	</item>
+	<item>
+		<code>9</code>
+		<name>TRABALHADORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO</name>
+	</item>
+</root>

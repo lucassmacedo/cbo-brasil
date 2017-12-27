@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<root>
+	<item>
+		<code>01</code>
+		<name>MEMBROS DAS FORÇAS ARMADAS</name>
+	</item>
+	<item>
+		<code>02</code>
+		<name>POLICIAIS MILITARES</name>
+	</item>
+	<item>
+		<code>03</code>
+		<name>BOMBEIROS MILITARES</name>
+	</item>
+	<item>
+		<code>11</code>
+		<name>MEMBROS SUPERIORES E DIRIGENTES DO PODER PÚBLICO</name>
+	</item>
+	<item>
+		<code>12</code>
+		<name>DIRIGENTES DE EMPRESAS E ORGANIZAÇÕES (EXCETO DE INTERESSE PÚBLICO)</name>
+	</item>
+	<item>
+		<code>13</code>
+		<name>DIRETORES E GERENTES EM EMPRESA DE SERVIÇOS DE SAÚDE, DA EDUCAÇÃO, OU DE SERVIÇOS CULTURAIS, SOCIAIS OU PESSOAIS</name>
+	</item>
+	<item>
+		<code>14</code>
+		<name>GERENTES</name>
+	</item>
+	<item>
+		<code>20</code>
+		<name>PESQUISADORES E PROFISSIONAIS POLICIENTÍFICOS</name>
+	</item>
+	<item>
+		<code>21</code>
+		<name>PROFISSIONAIS DAS CIÊNCIAS EXATAS, FÍSICAS E DA ENGENHARIA</name>
+	</item>
+	<item>
+		<code>22</code>
+		<name>PROFISSIONAIS DAS CIÊNCIAS BIOLÓGICAS, DA SAÚDE E AFINS</name>
+	</item>
+	<item>
+		<code>23</code>
+		<name>PROFISSIONAIS DO ENSINO</name>
+	</item>
+	<item>
+		<code>24</code>
+		<name>PROFISSIONAIS DAS CIÊNCIAS JURÍDICAS</name>
+	</item>
+	<item>
+		<code>25</code>
+		<name>PROFISSIONAIS DAS CIÊNCIAS SOCIAIS E HUMANAS</name>
+	</item>
+	<item>
+		<code>26</code>
+		<name>COMUNICADORES, ARTISTAS E RELIGIOSOS</name>
+	</item>
+	<item>
+		<code>27</code>
+		<name>PROFISSIONAIS EM GASTRONOMIA</name>
+	</item>
+	<item>
+		<code>30</code>
+		<name>TÉCNICOS POLIVALENTES</name>
+	</item>
+	<item>
+		<code>31</code>
+		<name>TÉCNICOS DE NÍVEL MÉDIO DAS CIÊNCIAS FÍSICAS, QUÍMICAS, ENGENHARIA E AFINS</name>
+	</item>
+	<item>
+		<code>32</code>
+		<name>TÉCNICOS DE NÍVEL MÉDIO DAS CIÊNCIAS BIOLÓGICAS, BIOQUÍMICAS, DA SAÚDE E AFINS</name>
+	</item>
+	<item>
+		<code>33</code>
+		<name>PROFESSORES LEIGOS E DE NÍVEL MÉDIO</name>
+	</item>
+	<item>
+		<code>34</code>
+		<name>TÉCNICOS DE NÍVEL MÉDIO EM SERVIÇOS DE TRANSPORTES</name>
+	</item>
+	<item>
+		<code>35</code>
+		<name>TÉCNICOS DE NIVEL MÉDIO NAS CIÊNCIAS ADMINISTRATIVAS</name>
+	</item>
+	<item>
+		<code>37</code>
+		<name>TÉCNICOS EM NIVEL MÉDIO DOS SERVIÇOS CULTURAIS, DAS COMUNICAÇÕES E DOS DESPORTOS</name>
+	</item>
+	<item>
+		<code>39</code>
+		<name>OUTROS TÉCNICOS DE NÍVEL MÉDIO</name>
+	</item>
+	<item>
+		<code>41</code>
+		<name>ESCRITURÁRIOS</name>
+	</item>
+	<item>
+		<code>42</code>
+		<name>TRABALHADORES DE ATENDIMENTO AO PÚBLICO</name>
+	</item>
+	<item>
+		<code>51</code>
+		<name>TRABALHADORES DOS SERVIÇOS</name>
+	</item>
+	<item>
+		<code>52</code>
+		<name>VENDEDORES E PRESTADORES DE SERVIÇOS DO COMÉRCIO</name>
+	</item>
+	<item>
+		<code>61</code>
+		<name>PRODUTORES NA EXPLORAÇÃO AGROPECUÁRIA</name>
+	</item>
+	<item>
+		<code>62</code>
+		<name>TRABALHADORES NA EXPLORAÇÃO AGROPECUÁRIA</name>
+	</item>
+	<item>
+		<code>63</code>
+		<name>PESCADORES E EXTRATIVISTAS FLORESTAIS</name>
+	</item>
+	<item>
+		<code>64</code>
+		<name>TRABALHADORES DA MECANIZAÇÃO AGROPECUÁRIA E FLORESTAL</name>
+	</item>
+	<item>
+		<code>71</code>
+		<name>TRABALHADORES DA INDÚSTRIA EXTRATIVA E DA CONSTRUÇÃO CIVIL</name>
+	</item>
+	<item>
+		<code>72</code>
+		<name>TRABALHADORES DA TRANSFORMAÇÃO DE METAIS E DE COMPÓSITOS</name>
+	</item>
+	<item>
+		<code>73</code>
+		<name>TRABALHADORES DA FABRICAÇÃO E INSTALAÇÃO ELETROELETRÔNICA</name>
+	</item>
+	<item>
+		<code>74</code>
+		<name>MONTADORES DE APARELHOS E INSTRUMENTOS DE PRECISÃO E MUSICAIS</name>
+	</item>
+	<item>
+		<code>75</code>
+		<name>JOALHEIROS, VIDREIROS, CERAMISTAS E AFINS</name>
+	</item>
+	<item>
+		<code>76</code>
+		<name>TRABALHADORES NAS INDÚSTRIAS TÊXTIL, DO CURTIMENTO, DO VESTÚARIO E DAS ARTES GRÁFICAS</name>
+	</item>
+	<item>
+		<code>77</code>
+		<name>TRABALHADORES DAS INDÚSTRIAS DE MADEIRA E DO MOBILIÁRIO</name>
+	</item>
+	<item>
+		<code>78</code>
+		<name>TRABALHADORES DE FUNÇÕES TRANSVERSAIS</name>
+	</item>
+	<item>
+		<code>79</code>
+		<name>TRABALHADORES DO ARTESANATO</name>
+	</item>
+	<item>
+		<code>81</code>
+		<name>TRABALHADORES EM INDÚSTRIAS DE PROCESSOS CONTÍNUOS E OUTRAS INDÚSTRIAS</name>
+	</item>
+	<item>
+		<code>82</code>
+		<name>TRABALHADORES DE INSTALAÇÕES SIDERÚRGICAS E DE MATERIAIS DE CONSTRUÇÃO</name>
+	</item>
+	<item>
+		<code>83</code>
+		<name>TRABALHADORES DE INSTALAÇÕES E MÁQUINAS DE FABRICAÇÃO DE CELULOSE E PAPEL</name>
+	</item>
+	<item>
+		<code>84</code>
+		<name>TRABALHADORES DA FABRICAÇÃO DE ALIMENTOS, BEBIDAS E FUMO</name>
+	</item>
+	<item>
+		<code>86</code>
+		<name>OPERADORES DE PRODUÇÃO, CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO (ENERGIA, ÁGUA E UTILIDADES)</name>
+	</item>
+	<item>
+		<code>87</code>
+		<name>OPERADORES DE OUTRAS INSTALAÇÕES INDUSTRIAIS</name>
+	</item>
+	<item>
+		<code>91</code>
+		<name>TRABALHADORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO MECÂNICA</name>
+	</item>
+	<item>
+		<code>95</code>
+		<name>POLIMANTENEDORES</name>
+	</item>
+	<item>
+		<code>99</code>
+		<name>OUTROS TRABALHADORES DA CONSERVAÇÃO, MANUTENÇÃO E REPARAÇÃO</name>
+	</item>
+</root>
