@@ -1,196 +1,196 @@
 code;name
-010;MEMBROS DAS FOR«AS ARMADAS                                                                                                        
-020;OFICIAIS DE POLÕCIA MILITAR                                                                                                       
-021;PRA«AS DE POLÕCIA MILITAR                                                                                                         
-030;OFICIAIS DE BOMBEIRO MILITAR                                                                                                      
-031;PRA«AS DE BOMBEIRO MILITAR                                                                                                        
-111;MEMBROS SUPERIORES DO PODER LEGISLATIVO, EXECUTIVO E JUDICI¡RIO                                                                   
-113;CHEFES DE PEQUENAS POPULA«’ES                                                                                                     
-114;DIRIGENTES E ADMINISTRADORES DE ORGANIZA«√O DE INTERESSE P⁄BLICO                                                                  
-121;DIRETORES GERAIS                                                                                                                  
-122;DIRETORES DE PRODU«√O E OPERA«’ES                                                                                                 
-123;DIRETORES DE ¡REAS DE APOIO                                                                                                       
-131;DIRETORES E GERENTES EM EMPRESA DE SERVI«OS DE SA⁄DE, DE EDUCA«√O, OU DE SERVI«OS CULTURAIS, SOCIAIS OU PESSOAIS                  
-141;GERENTES DE PRODU«√O E OPERA«’ES                                                                                                  
-142;GERENTES DE ¡REAS DE APOIO                                                                                                        
-201;PROFISSIONAIS DA BIOTECNOLOGIA E METROLOGIA                                                                                       
-202;PROFISSIONAIS DA ELETROMEC¬NICA                                                                                                   
-203;PESQUISADORES                                                                                                                     
-204;PROFISSIONAIS DE INVESTIGA«√O CRIMINAL                                                                                            
-211;MATEM¡TICOS, ESTATÕSTICOS E AFINS                                                                                                 
-212;PROFISSIONAIS DA INFORM¡TICA                                                                                                      
-213;FÕSICOS, QUÕMICOS E AFINS                                                                                                         
-214;ENGENHEIROS, ARQUITETOS E AFINS                                                                                                   
-215;PROFISSIONAIS EM NAVEGA«√O A…REA, MARÕTIMA E FLUVIAL                                                                              
-221;BI”LOGOS E AFINS                                                                                                                  
-222;AGR‘NOMOS E AFINS                                                                                                                 
-223;PROFISSIONAIS DA MEDICINA, SA⁄DE E AFINS                                                                                          
-224;PROFISSIONAIS DA EDUCA«√O FÕSICA                                                                                                  
+010;MEMBROS DAS FOR√áAS ARMADAS
+020;OFICIAIS DE POL√çCIA MILITAR
+021;PRA√áAS DE POL√çCIA MILITAR
+030;OFICIAIS DE BOMBEIRO MILITAR
+031;PRA√áAS DE BOMBEIRO MILITAR
+111;MEMBROS SUPERIORES DO PODER LEGISLATIVO, EXECUTIVO E JUDICI√ÅRIO
+113;CHEFES DE PEQUENAS POPULA√á√ïES
+114;DIRIGENTES E ADMINISTRADORES DE ORGANIZA√á√ÉO DE INTERESSE P√öBLICO
+121;DIRETORES GERAIS
+122;DIRETORES DE PRODU√á√ÉO E OPERA√á√ïES
+123;DIRETORES DE √ÅREAS DE APOIO
+131;DIRETORES E GERENTES EM EMPRESA DE SERVI√áOS DE SA√öDE, DE EDUCA√á√ÉO, OU DE SERVI√áOS CULTURAIS, SOCIAIS OU PESSOAIS
+141;GERENTES DE PRODU√á√ÉO E OPERA√á√ïES
+142;GERENTES DE √ÅREAS DE APOIO
+201;PROFISSIONAIS DA BIOTECNOLOGIA E METROLOGIA
+202;PROFISSIONAIS DA ELETROMEC√ÇNICA
+203;PESQUISADORES
+204;PROFISSIONAIS DE INVESTIGA√á√ÉO CRIMINAL
+211;MATEM√ÅTICOS, ESTAT√çSTICOS E AFINS
+212;PROFISSIONAIS DA INFORM√ÅTICA
+213;F√çSICOS, QU√çMICOS E AFINS
+214;ENGENHEIROS, ARQUITETOS E AFINS
+215;PROFISSIONAIS EM NAVEGA√á√ÉO A√âREA, MAR√çTIMA E FLUVIAL
+221;BI√ìLOGOS E AFINS
+222;AGR√îNOMOS E AFINS
+223;PROFISSIONAIS DA MEDICINA, SA√öDE E AFINS
+224;PROFISSIONAIS DA EDUCA√á√ÉO F√çSICA
 225;PROFISSIONAIS DA MEDICINA
-226;PROFISSIONAIS DE SA⁄DE EM PRATICAS INTEGRATIVAS E COMPLEMENTARES
-231;PROFESSORES DE NÕVEL SUPERIOR NA EDUCA«√O INFANTIL E NO ENSINO FUNDAMENTAL                                                        
-232;PROFESSORES DO ENSINO M…DIO                                                                                                       
-233;PROFESSORES E INSTRUTORES DO ENSINO PROFISSIONAL                                                                                  
-234;PROFESSORES DO ENSINO SUPERIOR                                                                                                    
-239;OUTROS PROFISSIONAIS DO ENSINO N√O CLASSIFICADOS ANTERIORMENTE                                                                    
-241;ADVOGADOS, PROCURADORES, TABELI√ES E AFINS                                                                                        
-242;ADVOGADOS DO PODER JUDICI¡RIO E DA SEGURAN«A P⁄BLICA                                                                              
-251;CIENTISTAS SOCIAIS, PSIC”LOGOS E AFINS                                                                                            
-252;PROFISSIONAIS DE ORGANIZA«√O E ADMINISTRA«√O DE EMPRESAS E AFINS                                                                  
-253;PROFISSIONAIS DE RELA«’ES P⁄BLICAS, PUBLICIDADE, MARKETING E COMERCIALIZA«√O                                                      
-254;AUDITORES FISCAIS P⁄BLICOS                                                                                                        
-261;PROFISSIONAIS DA COMUNICA«√O E DA INFORMA«√O                                                                                      
-262;PROFISSIONAIS DE ESPET¡CULOS E DAS ARTES                                                                                          
-263;MEMBROS DE CULTOS RELIGIOSOS E AFINS                                                                                              
-271;PROFISSIONAIS EM GASTRONOMIA E SERVI«OS DE ALIMENTA«√O
-300;T…CNICOS MECATR‘NICOS E ELETROMEC¬NICOS                                                                                           
-301;T…CNICOS EM LABORAT”RIO                                                                                                           
-311;T…CNICO EM CI NCIAS FÕSICAS E QUÕMICAS                                                                                            
-312;T…CNICOS EM CONSTRU«√O CIVIL, DE EDIFICA«’ES E OBRAS DE INFRAESTRUTURA                                                            
-313;T…CNICOS EM ELETROELETR‘NICA E FOT‘NICA                                                                                           
-314;T…CNICOS EM METALMEC¬NICA                                                                                                         
-316;T…CNICOS EM MINERALOGIA E GEOLOGIA                                                                                                
-317;T…CNICOS EM INFORM¡TICA                                                                                                           
-318;DESENHISTAS T…CNICOS E MODELISTAS                                                                                                 
-319;OUTROS T…CNICOS DE NÕVEL M…DIO DAS CI NCIAS FÕSICAS, QUÕMICAS, ENGENHARIA E AFINS                                                 
-320;T…CNICOS EM BIOLOGIA                                                                                                              
-321;T…CNICOS DA PRODU«√O AGROPECU¡RIA                                                                                                 
-322;T…CNICOS DA CI NCIA DA SA⁄DE HUMANA                                                                                               
-323;T…CNICOS DA CI NCIA DA SA⁄DE ANIMAL                                                                                               
-324;T…CNICOS EM OPERA«√O DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGN”STICO                                                                
-325;T…CNICOS DE BIOQUÕMICA E DA BIOTECNOLOGIA                                                                                         
-328;T…CNICOS EM NECR”PSIA E TAXIDERMISTAS                                                                                             
-331;PROFESSORES DE NÕVEL M…DIO NA EDUCA«√O INFANTIL, NO ENSINO FUNDAMENTAL E NO PROFISSIONALIZANTE                                    
-332;PROFESSORES LEIGOS NO ENSINO FUNDAMENTAL E NO  PROFISSIONALIZANTE                                                                 
-333;INSTRUTORES E PROFESSORES DE ESCOLAS LIVRES                                                                                       
-334;INSPETORES DE ALUNOS E AFINS                                                                                                      
-341;T…CNICOS EM NAVEGA«√O A…REA, MARÕTIMA E FLUVIAL                                                                                   
-342;T…CNICOS EM TRANSPORTES (LOGÕSTICA)                                                                                               
-351;T…CNICOS DAS CI NCIAS ADMINISTRATIVAS                                                                                             
-352;T…CNICOS DE INSPE«√O, FISCALIZA«√O E COORDENA«√O ADMINISTRATIVA                                                                   
-353;T…CNICOS DE NÕVEL M…DIO EM OPERA«’ES FINANCEIRAS                                                                                  
-354;T…CNICOS DE NIVEL M…DIO EM OPERA«’ES COMERCIAIS                                                                                   
-371;T…CNICOS DE SERVI«OS CULTURAIS                                                                                                    
-372;T…CNICOS EM OPERA«√O DE C¬MARA FOTOGR¡FICA , CINEMA E DE TELEVIS√O                                                                
-373;T…CNICOS EM OPERA«√O DE EMISSORAS DE R¡DIO, SISTEMAS DE TELEVIS√O E DE PRODUTORAS DE VÕDEO                                        
-374;T…CNICOS EM OPERA«√O DE APARELHOS DE SONORIZA«√O, CENOGRAFIA E PROJE«√O                                                           
-375;DECORADORES E VITRINISTAS                                                                                                         
-376;ARTISTAS DE ARTES POPULARES E MODELOS                                                                                             
-377;ATLETAS, DESPORTISTAS E AFINS                                                                                                     
-391;T…CNICOS DE NIVEL M…DIO EM OPERA«’ES INDUSTRIAIS                                                                                  
-395;T…CNICOS DE APOIO EM PESQUISA E DESENVOLVIMENTO                                                                                   
-410;SUPERVISORES DE SERVI«OS ADMINISTRATIVOS (Exceto de atendimento ao p˙blico)                                                       
-411;ESCRITUR¡RIOS EM GERAL, AGENTES, ASSISTENTES E AUXILIARES ADMINISTRATIVOS                                                         
-412;SECRET¡RIOS DE EXPEDIENTE E OPERADORES DE M¡QUINAS DE ESCRIT”RIOS                                                                 
-413;ESCRITUR¡RIOS CONT¡BEIS E DE FINAN«AS                                                                                             
-414;ESCRITUR¡RIOS DE CONTROLE DE MATERIAIS E DE APOIO ¿ PRODU«√O                                                                      
-415;AUXILIARES DE SERVI«OS DE BIBLIOTECA, DOCUMENTA«√O E CORREIOS                                                                     
-420;SUPERVISORES DE ATENDIMENTO AO P⁄BLICO                                                                                            
-421;CAIXAS, BILHETEIROS E AFINS                                                                                                       
-422;TRABALHADORES DE INFORMA«’ES AO P⁄BLICO                                                                                           
-423;DESPACHANTES                                                                                                                      
-424;ENTREVISTADORES, RECENSEADORES E AFINS                                                                                            
-510;SUPERVISORES DOS SERVI«OS                                                                                                         
-511;TRABALHADORES DOS SERVI«OS DE TRANSPORTE E TURISMO                                                                                
-512;TRABALHADORES DOS SERVI«OS DOM…STICOS EM GERAL                                                                                    
-513;TRABALHADORES DOS SERVI«OS DE HOTELARIA E ALIMENTA«√O                                                                             
-514;TRABALHADORES NOS SERVI«OS DE ADMINISTRA«√O, CONSERVA«√O E MANUTEN«√O DE EDIFÕCIOS E LOGRADOUROS                                  
-515;TRABALHADORES DOS SERVI«OS DE SA⁄DE                                                                                               
-516;TRABALHADORES NOS SERVI«OS DE EMBELEZAMENTO E CUIDADOS PESSOAIS                                                                   
-517;TRABALHADORES NOS SERVI«OS DE PROTE«√O E SEGURAN«A                                                                                
-519;OUTROS TRABALHADORES DE SERVI«OS DIVERSOS                                                                                         
-520;SUPERVISORES DE VENDAS E DE PRESTA«√O DE SERVI«OS                                                                                 
-521;VENDEDORES E DEMONSTRADORES                                                                                                       
-522;REPOSITORES E REMARCADORES DO COM…RCIO                                                                                            
-523;INSTALADORES DE PRODUTOS E ACESS”RIOS                                                                                             
-524;VENDEDORES A DOMICÕLIO, AMBULANTES E EM BANCAS                                                                                    
-611;PRODUTORES AGROPECU¡RIOS EM GERAL                                                                                                 
-612;PRODUTORES AGRÕCOLAS                                                                                                              
-613;PRODUTORES EM PECU¡RIA                                                                                                            
-620;SUPERVISORES NA EXPLORA«√O AGROPECU¡RIA                                                                                           
-621;TRABALHADORES NA EXPLORA«√O AGROPECU¡RIA EM GERAL                                                                                 
-622;TRABALHADORES AGRÕCOLAS                                                                                                           
-623;TRABALHADORES NA PECU¡RIA                                                                                                         
-630;SUPERVISORES NA EXPLORA«√O FLORESTAL E PESCA                                                                                      
-631;PESCADORES E CA«ADORES                                                                                                            
-632;EXTRATIVISTAS FLORESTAIS                                                                                                          
-641;TRABALHADORES DA MECANIZA«√O AGROPECU¡RIA                                                                                         
-642;TRABALHADORES DA MECANIZA«√O FLORESTAL                                                                                            
-643;TRABALHADORES DA IRRIGA«√O E DRENAGEM                                                                                             
-710;SUPERVISORES DA EXTRA«√O MINERAL E DA CONSTRU«√O CIVIL                                                                            
-711;TRABALHADORES DA EXTRA«√O MINERAL                                                                                                 
-712;TRABALHADORES DE BENEFICIAMENTO DE MIN…RIOS E PEDRAS ORNAMENTAIS                                                                  
-715;TRABALHADORES DA CONSTRU«√O CIVIL E OBRAS P⁄BLICAS                                                                                
-716;TRABALHADORES DE ACABAMENTO DE OBRAS                                                                                              
-717;AJUDANTES DE OBRAS                                                                                                                
-720;SUPERVISORES DA TRANSFORMA«√O DE METAIS E DE COMP”SITOS                                                                           
-721;TRABALHADORES DE USINAGEM DE METAIS E DE COMP”SITOS                                                                               
-722;TRABALHADORES DE CONFORMA«√O DE METAIS E DE COMP”SITOS                                                                            
-723;TRABALHADORES DE TRATAMENTO T…RMICO E DE SUPERFÕCIES DE METAIS E DE COMP”SITOS                                                    
-724;TRABALHADORES DE MONTAGEM DE TUBULA«’ES, ESTRUTURAS MET¡LICAS E DE COMP”SITOS                                                     
-725;MONTADORES DE M¡QUINAS E APARELHOS MEC¬NICOS                                                                                      
-730;SUPERVISORES DE MONTAGENS E INSTALA«’ES ELETROELETR‘NICAS                                                                         
-731;MONTADORES E INSTALADORES DE EQUIPAMENTOS ELETROELETR‘NICOS EM GERAL                                                              
-732;INSTALADORES E REPARADORES DE LINHAS E CABOS EL…TRICOS E DE COMUNICA«’ES                                                          
-740;SUPERVISORES DA MEC¬NICA DE PRECIS√O E INSTRUMENTOS MUSICAIS                                                                      
-741;MONTADORES E AJUSTADORES DE INSTRUMENTOS DE PRECIS√O                                                                              
-742;MONTADORES E AJUSTADORES DE INSTRUMENTOS MUSICAIS                                                                                 
-750;SUPERVISORES DE JOALHERIA, VIDRARIA, CER¬MICA E AFINS                                                                             
-751;JOALHEIROS E OURIVES                                                                                                              
-752;VIDREIROS, CERAMISTAS E AFINS                                                                                                     
-760;SUPERVISORES NAS IND⁄STRIAS T XTIL, DO CURTIMENTO, DO VESTU¡RIO E DAS ARTES GR¡FICAS                                              
-761;TRABALHADORES DAS INDUSTRIAS T XTEIS                                                                                              
-762;TRABALHADORES DO TRATAMENTO DE COUROS E PELES                                                                                     
-763;TRABALHADORES DA CONFEC«√O DE ROUPAS                                                                                              
-764;TRABALHADORES DA CONFEC«√O DE CAL«ADOS                                                                                            
-765;TRABALHADORES DA CONFEC«√O DE ARTEFATOS DE TECIDOS E COUROS                                                                       
-766;TRABALHADORES DA PRODU«√O GR¡FICA                                                                                                 
-768;TRABALHADORES ARTESANAIS DAS ATIVIDADES T XTEIS, DO VESTU¡RIO E DAS ARTES GR¡FICAS                                                
-770;SUPERVISORES EM IND⁄STRIA DE MADEIRA, MOBILI¡RIO E DA CARPINTARIA VEICULAR                                                        
-771;MARCENEIROS E AFINS                                                                                                               
-772;TRABALHADORES DA PREPARA«√O DA MADEIRA                                                                                            
-773;TRABALHADORES DA TRANSFORMA«√O DA MADEIRA E DA FABRICA«√O DO MOBILI¡RIO                                                           
-774;TRABALHADORES DE MONTAGEM DE M”VEIS E ARTEFATOS DE MADEIRA                                                                        
-775;TRABALHADORES EM ACABAMENTO DE MADEIRA E DE MOBILI¡RIO                                                                            
-776;TRABALHADORES ARTESANAIS DA MADEIRA E DO MOBILI¡RIO                                                                               
-777;TRABALHADORES DA CARPINTARIA VEICULAR                                                                                             
-780;SUPERVISORES DE TRABALHADORES DE EMBALAGEM E ETIQUETAGEM                                                                          
-781;OPERADORES DE ROB‘S E EQUIPAMENTOS ESPECIAIS                                                                                      
-782;CONDUTORES DE VEÕCULOS E OPERADORES DE EQUIPAMENTOS DE ELEVA«√O E DE MOVIMENTA«√O DE CARGAS                                       
-783;TRABALHADORES DE MANOBRAS SOBRE TRILHOS E MOVIMENTA«√O E CARGAS                                                                   
-784;EMBALADORES E ALIMENTADORES DE PRODU«√O                                                                                           
+226;PROFISSIONAIS DE SA√öDE EM PRATICAS INTEGRATIVAS E COMPLEMENTARES
+231;PROFESSORES DE N√çVEL SUPERIOR NA EDUCA√á√ÉO INFANTIL E NO ENSINO FUNDAMENTAL
+232;PROFESSORES DO ENSINO M√âDIO
+233;PROFESSORES E INSTRUTORES DO ENSINO PROFISSIONAL
+234;PROFESSORES DO ENSINO SUPERIOR
+239;OUTROS PROFISSIONAIS DO ENSINO N√ÉO CLASSIFICADOS ANTERIORMENTE
+241;ADVOGADOS, PROCURADORES, TABELI√ÉES E AFINS
+242;ADVOGADOS DO PODER JUDICI√ÅRIO E DA SEGURAN√áA P√öBLICA
+251;CIENTISTAS SOCIAIS, PSIC√ìLOGOS E AFINS
+252;PROFISSIONAIS DE ORGANIZA√á√ÉO E ADMINISTRA√á√ÉO DE EMPRESAS E AFINS
+253;PROFISSIONAIS DE RELA√á√ïES P√öBLICAS, PUBLICIDADE, MARKETING E COMERCIALIZA√á√ÉO
+254;AUDITORES FISCAIS P√öBLICOS
+261;PROFISSIONAIS DA COMUNICA√á√ÉO E DA INFORMA√á√ÉO
+262;PROFISSIONAIS DE ESPET√ÅCULOS E DAS ARTES
+263;MEMBROS DE CULTOS RELIGIOSOS E AFINS
+271;PROFISSIONAIS EM GASTRONOMIA E SERVI√áOS DE ALIMENTA√á√ÉO
+300;T√âCNICOS MECATR√îNICOS E ELETROMEC√ÇNICOS
+301;T√âCNICOS EM LABORAT√ìRIO
+311;T√âCNICO EM CI√äNCIAS F√çSICAS E QU√çMICAS
+312;T√âCNICOS EM CONSTRU√á√ÉO CIVIL, DE EDIFICA√á√ïES E OBRAS DE INFRAESTRUTURA
+313;T√âCNICOS EM ELETROELETR√îNICA E FOT√îNICA
+314;T√âCNICOS EM METALMEC√ÇNICA
+316;T√âCNICOS EM MINERALOGIA E GEOLOGIA
+317;T√âCNICOS EM INFORM√ÅTICA
+318;DESENHISTAS T√âCNICOS E MODELISTAS
+319;OUTROS T√âCNICOS DE N√çVEL M√âDIO DAS CI√äNCIAS F√çSICAS, QU√çMICAS, ENGENHARIA E AFINS
+320;T√âCNICOS EM BIOLOGIA
+321;T√âCNICOS DA PRODU√á√ÉO AGROPECU√ÅRIA
+322;T√âCNICOS DA CI√äNCIA DA SA√öDE HUMANA
+323;T√âCNICOS DA CI√äNCIA DA SA√öDE ANIMAL
+324;T√âCNICOS EM OPERA√á√ÉO DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGN√ìSTICO
+325;T√âCNICOS DE BIOQU√çMICA E DA BIOTECNOLOGIA
+328;T√âCNICOS EM NECR√ìPSIA E TAXIDERMISTAS
+331;PROFESSORES DE N√çVEL M√âDIO NA EDUCA√á√ÉO INFANTIL, NO ENSINO FUNDAMENTAL E NO PROFISSIONALIZANTE
+332;PROFESSORES LEIGOS NO ENSINO FUNDAMENTAL E NO  PROFISSIONALIZANTE
+333;INSTRUTORES E PROFESSORES DE ESCOLAS LIVRES
+334;INSPETORES DE ALUNOS E AFINS
+341;T√âCNICOS EM NAVEGA√á√ÉO A√âREA, MAR√çTIMA E FLUVIAL
+342;T√âCNICOS EM TRANSPORTES (LOG√çSTICA)
+351;T√âCNICOS DAS CI√äNCIAS ADMINISTRATIVAS
+352;T√âCNICOS DE INSPE√á√ÉO, FISCALIZA√á√ÉO E COORDENA√á√ÉO ADMINISTRATIVA
+353;T√âCNICOS DE N√çVEL M√âDIO EM OPERA√á√ïES FINANCEIRAS
+354;T√âCNICOS DE NIVEL M√âDIO EM OPERA√á√ïES COMERCIAIS
+371;T√âCNICOS DE SERVI√áOS CULTURAIS
+372;T√âCNICOS EM OPERA√á√ÉO DE C√ÇMARA FOTOGR√ÅFICA , CINEMA E DE TELEVIS√ÉO
+373;T√âCNICOS EM OPERA√á√ÉO DE EMISSORAS DE R√ÅDIO, SISTEMAS DE TELEVIS√ÉO E DE PRODUTORAS DE V√çDEO
+374;T√âCNICOS EM OPERA√á√ÉO DE APARELHOS DE SONORIZA√á√ÉO, CENOGRAFIA E PROJE√á√ÉO
+375;DECORADORES E VITRINISTAS
+376;ARTISTAS DE ARTES POPULARES E MODELOS
+377;ATLETAS, DESPORTISTAS E AFINS
+391;T√âCNICOS DE NIVEL M√âDIO EM OPERA√á√ïES INDUSTRIAIS
+395;T√âCNICOS DE APOIO EM PESQUISA E DESENVOLVIMENTO
+410;SUPERVISORES DE SERVI√áOS ADMINISTRATIVOS (Exceto de atendimento ao p√∫blico)
+411;ESCRITUR√ÅRIOS EM GERAL, AGENTES, ASSISTENTES E AUXILIARES ADMINISTRATIVOS
+412;SECRET√ÅRIOS DE EXPEDIENTE E OPERADORES DE M√ÅQUINAS DE ESCRIT√ìRIOS
+413;ESCRITUR√ÅRIOS CONT√ÅBEIS E DE FINAN√áAS
+414;ESCRITUR√ÅRIOS DE CONTROLE DE MATERIAIS E DE APOIO √Ä PRODU√á√ÉO
+415;AUXILIARES DE SERVI√áOS DE BIBLIOTECA, DOCUMENTA√á√ÉO E CORREIOS
+420;SUPERVISORES DE ATENDIMENTO AO P√öBLICO
+421;CAIXAS, BILHETEIROS E AFINS
+422;TRABALHADORES DE INFORMA√á√ïES AO P√öBLICO
+423;DESPACHANTES
+424;ENTREVISTADORES, RECENSEADORES E AFINS
+510;SUPERVISORES DOS SERVI√áOS
+511;TRABALHADORES DOS SERVI√áOS DE TRANSPORTE E TURISMO
+512;TRABALHADORES DOS SERVI√áOS DOM√âSTICOS EM GERAL
+513;TRABALHADORES DOS SERVI√áOS DE HOTELARIA E ALIMENTA√á√ÉO
+514;TRABALHADORES NOS SERVI√áOS DE ADMINISTRA√á√ÉO, CONSERVA√á√ÉO E MANUTEN√á√ÉO DE EDIF√çCIOS E LOGRADOUROS
+515;TRABALHADORES DOS SERVI√áOS DE SA√öDE
+516;TRABALHADORES NOS SERVI√áOS DE EMBELEZAMENTO E CUIDADOS PESSOAIS
+517;TRABALHADORES NOS SERVI√áOS DE PROTE√á√ÉO E SEGURAN√áA
+519;OUTROS TRABALHADORES DE SERVI√áOS DIVERSOS
+520;SUPERVISORES DE VENDAS E DE PRESTA√á√ÉO DE SERVI√áOS
+521;VENDEDORES E DEMONSTRADORES
+522;REPOSITORES E REMARCADORES DO COM√âRCIO
+523;INSTALADORES DE PRODUTOS E ACESS√ìRIOS
+524;VENDEDORES A DOMIC√çLIO, AMBULANTES E EM BANCAS
+611;PRODUTORES AGROPECU√ÅRIOS EM GERAL
+612;PRODUTORES AGR√çCOLAS
+613;PRODUTORES EM PECU√ÅRIA
+620;SUPERVISORES NA EXPLORA√á√ÉO AGROPECU√ÅRIA
+621;TRABALHADORES NA EXPLORA√á√ÉO AGROPECU√ÅRIA EM GERAL
+622;TRABALHADORES AGR√çCOLAS
+623;TRABALHADORES NA PECU√ÅRIA
+630;SUPERVISORES NA EXPLORA√á√ÉO FLORESTAL E PESCA
+631;PESCADORES E CA√áADORES
+632;EXTRATIVISTAS FLORESTAIS
+641;TRABALHADORES DA MECANIZA√á√ÉO AGROPECU√ÅRIA
+642;TRABALHADORES DA MECANIZA√á√ÉO FLORESTAL
+643;TRABALHADORES DA IRRIGA√á√ÉO E DRENAGEM
+710;SUPERVISORES DA EXTRA√á√ÉO MINERAL E DA CONSTRU√á√ÉO CIVIL
+711;TRABALHADORES DA EXTRA√á√ÉO MINERAL
+712;TRABALHADORES DE BENEFICIAMENTO DE MIN√âRIOS E PEDRAS ORNAMENTAIS
+715;TRABALHADORES DA CONSTRU√á√ÉO CIVIL E OBRAS P√öBLICAS
+716;TRABALHADORES DE ACABAMENTO DE OBRAS
+717;AJUDANTES DE OBRAS
+720;SUPERVISORES DA TRANSFORMA√á√ÉO DE METAIS E DE COMP√ìSITOS
+721;TRABALHADORES DE USINAGEM DE METAIS E DE COMP√ìSITOS
+722;TRABALHADORES DE CONFORMA√á√ÉO DE METAIS E DE COMP√ìSITOS
+723;TRABALHADORES DE TRATAMENTO T√âRMICO E DE SUPERF√çCIES DE METAIS E DE COMP√ìSITOS
+724;TRABALHADORES DE MONTAGEM DE TUBULA√á√ïES, ESTRUTURAS MET√ÅLICAS E DE COMP√ìSITOS
+725;MONTADORES DE M√ÅQUINAS E APARELHOS MEC√ÇNICOS
+730;SUPERVISORES DE MONTAGENS E INSTALA√á√ïES ELETROELETR√îNICAS
+731;MONTADORES E INSTALADORES DE EQUIPAMENTOS ELETROELETR√îNICOS EM GERAL
+732;INSTALADORES E REPARADORES DE LINHAS E CABOS EL√âTRICOS E DE COMUNICA√á√ïES
+740;SUPERVISORES DA MEC√ÇNICA DE PRECIS√ÉO E INSTRUMENTOS MUSICAIS
+741;MONTADORES E AJUSTADORES DE INSTRUMENTOS DE PRECIS√ÉO
+742;MONTADORES E AJUSTADORES DE INSTRUMENTOS MUSICAIS
+750;SUPERVISORES DE JOALHERIA, VIDRARIA, CER√ÇMICA E AFINS
+751;JOALHEIROS E OURIVES
+752;VIDREIROS, CERAMISTAS E AFINS
+760;SUPERVISORES NAS IND√öSTRIAS T√äXTIL, DO CURTIMENTO, DO VESTU√ÅRIO E DAS ARTES GR√ÅFICAS
+761;TRABALHADORES DAS INDUSTRIAS T√äXTEIS
+762;TRABALHADORES DO TRATAMENTO DE COUROS E PELES
+763;TRABALHADORES DA CONFEC√á√ÉO DE ROUPAS
+764;TRABALHADORES DA CONFEC√á√ÉO DE CAL√áADOS
+765;TRABALHADORES DA CONFEC√á√ÉO DE ARTEFATOS DE TECIDOS E COUROS
+766;TRABALHADORES DA PRODU√á√ÉO GR√ÅFICA
+768;TRABALHADORES ARTESANAIS DAS ATIVIDADES T√äXTEIS, DO VESTU√ÅRIO E DAS ARTES GR√ÅFICAS
+770;SUPERVISORES EM IND√öSTRIA DE MADEIRA, MOBILI√ÅRIO E DA CARPINTARIA VEICULAR
+771;MARCENEIROS E AFINS
+772;TRABALHADORES DA PREPARA√á√ÉO DA MADEIRA
+773;TRABALHADORES DA TRANSFORMA√á√ÉO DA MADEIRA E DA FABRICA√á√ÉO DO MOBILI√ÅRIO
+774;TRABALHADORES DE MONTAGEM DE M√ìVEIS E ARTEFATOS DE MADEIRA
+775;TRABALHADORES EM ACABAMENTO DE MADEIRA E DE MOBILI√ÅRIO
+776;TRABALHADORES ARTESANAIS DA MADEIRA E DO MOBILI√ÅRIO
+777;TRABALHADORES DA CARPINTARIA VEICULAR
+780;SUPERVISORES DE TRABALHADORES DE EMBALAGEM E ETIQUETAGEM
+781;OPERADORES DE ROB√îS E EQUIPAMENTOS ESPECIAIS
+782;CONDUTORES DE VE√çCULOS E OPERADORES DE EQUIPAMENTOS DE ELEVA√á√ÉO E DE MOVIMENTA√á√ÉO DE CARGAS
+783;TRABALHADORES DE MANOBRAS SOBRE TRILHOS E MOVIMENTA√á√ÉO E CARGAS
+784;EMBALADORES E ALIMENTADORES DE PRODU√á√ÉO
 791;TRABALHADORES DO ARTESANATO URBANO E RURAL
-810;SUPERVISORES DE PRODU«√O, EM IND⁄STRIAS QUÕMICAS, PETROQUÕMICAS E AFINS                                                           
-811;OPERADORES DE INSTALA«’ES EM IND⁄STRIAS QUÕMICAS, PETROQUÕMICAS E AFINS                                                           
-812;TRABALHADORES DA FABRICA«√O DE MUNI«√O E EXPLOSIVOS QUÕMICOS                                                                      
-813;OPERADORES DE OUTRAS INSTALA«’ES QUÕMICAS, PETROQUÕMICAS E AFINS                                                                  
-818;OPERADORES DE OPERA«√O UNIT¡RIA DE LABORAT”RIO (TRANSVERSAL PARA TODA IND⁄STRIA DE PROCESSOS)                                     
-820;SUPERVISORES DE PRODU«√O EM IND⁄STRIAS SIDER⁄RGICAS                                                                               
-821;OPERADORES DE INSTALA«’ES E EQUIPAMENTOS DE PRODU«√O DE METAIS E LIGAS- PRIMEIRA FUS√O                                            
-822;OPERADORES DE INSTALA«’ES E EQUIPAMENTOS DE PRODU«√O DE METAIS E LIGAS- SEGUNDA FUS√O                                             
-823;TRABALHADORES DE INSTALA«’ES E EQUIPAMENTOS DE MATERIAL DE CONSTRU«√O, CER¬MICA E VIDRO                                           
-828;TRABALHADORES ARTESANAIS DA SIDERURGIA E DE MATERIAIS DE CONSTRU«√O                                                               
-830;SUPERVISORES DA FABRICA«√O DE CELULOSE E PAPEL                                                                                    
-831;TRABALHADORES DA PREPARA«√O DE PASTA DE PAPEL                                                                                     
-832;TRABALHADORES DA FABRICA«√O DE PAPEL                                                                                              
-833;CONFECCIONADORES DE PRODUTOS DE PAPEL E PAPEL√O                                                                                   
-840;SUPERVISORES DA FABRICA«√O DE ALIMENTOS, BEBIDAS E FUMO                                                                           
-841;OPERADORES DE EQUIPAMENTOS NA PREPARA«√O DE ALIMENTOS E BEBIDAS                                                                   
-842;OPERADORES NA PREPARA«√O DE FUMO E NA FABRICA«√O DE CHARUTOS E CIGARROS                                                           
-848;TRABALHADORES ARTESANAIS NA  AGROIND⁄STRIA, NA IND⁄STRIA DE ALIMENTOS E DO FUMO                                                   
-860;SUPERVISORES DA PRODU«√O DE UTILIDADES                                                                                            
-861;OPERADORES NA GERA«√O E DISTRIBUI«√O DE ENERGIA (CENTRAIS HIDREL…TRICAS, TERMEL…TRICAS E NUCLEARES)                               
-862;OPERADORES DE UTILIDADES                                                                                                          
-871;OPERADORES DE OUTRAS INSTALA«’ES INDUSTRIAIS                                                                                      
-910;SUPERVISORES EM SERVI«OS DE REPARA«√O E MANUTEN«√O MEC¬NICA                                                                       
-911;MEC¬NICOS DE MANUTEN«√O DE M¡QUINAS E EQUIPAMENTOS INDUSTRIAIS, COMERCIAIS E RESIDENCIAIS                                         
-913;MEC¬NICOS DE MANUTEN«√O DE M¡QUINAS PESADAS E EQUIPAMENTOS AGRÕCOLAS                                                              
-914;MEC¬NICOS DE MANUTEN«√O VEICULAR                                                                                                  
-915;REPARADORES DE INSTRUMENTOS E EQUIPAMENTOS DE PRECIS√O                                                                            
-919;OUTROS TRABALHADORES NA REPARA«√O E MANUTEN«√O DE EQUIPAMENTOS                                                                    
-950;SUPERVISORES DE MANUTEN«√O ELETROELETR‘NICA E ELETROMEC¬NICA                                                                      
-951;ELETRICISTAS ELETR‘NICOS DE MANUTEN«√O INDUSTRIAL, COMERCIAL E RESIDENCIAL                                                        
-953;ELETRICISTAS ELETR‘NICOS DE MANUTEN«√O VEICULAR                                                                                   
-954;MANTENEDORES ELETROMEC¬NICOS                                                                                                      
-991;OUTROS TRABALHADORES DA CONSERVA«√O E MANUTEN«√O (EXCETO TRABALHADORES ELEMENTARES)                                               
-992;TRABALHADORES ELEMENTARES DA MANUTEN«√O                                                                                           
+810;SUPERVISORES DE PRODU√á√ÉO, EM IND√öSTRIAS QU√çMICAS, PETROQU√çMICAS E AFINS
+811;OPERADORES DE INSTALA√á√ïES EM IND√öSTRIAS QU√çMICAS, PETROQU√çMICAS E AFINS
+812;TRABALHADORES DA FABRICA√á√ÉO DE MUNI√á√ÉO E EXPLOSIVOS QU√çMICOS
+813;OPERADORES DE OUTRAS INSTALA√á√ïES QU√çMICAS, PETROQU√çMICAS E AFINS
+818;OPERADORES DE OPERA√á√ÉO UNIT√ÅRIA DE LABORAT√ìRIO (TRANSVERSAL PARA TODA IND√öSTRIA DE PROCESSOS)
+820;SUPERVISORES DE PRODU√á√ÉO EM IND√öSTRIAS SIDER√öRGICAS
+821;OPERADORES DE INSTALA√á√ïES E EQUIPAMENTOS DE PRODU√á√ÉO DE METAIS E LIGAS- PRIMEIRA FUS√ÉO
+822;OPERADORES DE INSTALA√á√ïES E EQUIPAMENTOS DE PRODU√á√ÉO DE METAIS E LIGAS- SEGUNDA FUS√ÉO
+823;TRABALHADORES DE INSTALA√á√ïES E EQUIPAMENTOS DE MATERIAL DE CONSTRU√á√ÉO, CER√ÇMICA E VIDRO
+828;TRABALHADORES ARTESANAIS DA SIDERURGIA E DE MATERIAIS DE CONSTRU√á√ÉO
+830;SUPERVISORES DA FABRICA√á√ÉO DE CELULOSE E PAPEL
+831;TRABALHADORES DA PREPARA√á√ÉO DE PASTA DE PAPEL
+832;TRABALHADORES DA FABRICA√á√ÉO DE PAPEL
+833;CONFECCIONADORES DE PRODUTOS DE PAPEL E PAPEL√ÉO
+840;SUPERVISORES DA FABRICA√á√ÉO DE ALIMENTOS, BEBIDAS E FUMO
+841;OPERADORES DE EQUIPAMENTOS NA PREPARA√á√ÉO DE ALIMENTOS E BEBIDAS
+842;OPERADORES NA PREPARA√á√ÉO DE FUMO E NA FABRICA√á√ÉO DE CHARUTOS E CIGARROS
+848;TRABALHADORES ARTESANAIS NA  AGROIND√öSTRIA, NA IND√öSTRIA DE ALIMENTOS E DO FUMO
+860;SUPERVISORES DA PRODU√á√ÉO DE UTILIDADES
+861;OPERADORES NA GERA√á√ÉO E DISTRIBUI√á√ÉO DE ENERGIA (CENTRAIS HIDREL√âTRICAS, TERMEL√âTRICAS E NUCLEARES)
+862;OPERADORES DE UTILIDADES
+871;OPERADORES DE OUTRAS INSTALA√á√ïES INDUSTRIAIS
+910;SUPERVISORES EM SERVI√áOS DE REPARA√á√ÉO E MANUTEN√á√ÉO MEC√ÇNICA
+911;MEC√ÇNICOS DE MANUTEN√á√ÉO DE M√ÅQUINAS E EQUIPAMENTOS INDUSTRIAIS, COMERCIAIS E RESIDENCIAIS
+913;MEC√ÇNICOS DE MANUTEN√á√ÉO DE M√ÅQUINAS PESADAS E EQUIPAMENTOS AGR√çCOLAS
+914;MEC√ÇNICOS DE MANUTEN√á√ÉO VEICULAR
+915;REPARADORES DE INSTRUMENTOS E EQUIPAMENTOS DE PRECIS√ÉO
+919;OUTROS TRABALHADORES NA REPARA√á√ÉO E MANUTEN√á√ÉO DE EQUIPAMENTOS
+950;SUPERVISORES DE MANUTEN√á√ÉO ELETROELETR√îNICA E ELETROMEC√ÇNICA
+951;ELETRICISTAS ELETR√îNICOS DE MANUTEN√á√ÉO INDUSTRIAL, COMERCIAL E RESIDENCIAL
+953;ELETRICISTAS ELETR√îNICOS DE MANUTEN√á√ÉO VEICULAR
+954;MANTENEDORES ELETROMEC√ÇNICOS
+991;OUTROS TRABALHADORES DA CONSERVA√á√ÉO E MANUTEN√á√ÉO (EXCETO TRABALHADORES ELEMENTARES)
+992;TRABALHADORES ELEMENTARES DA MANUTEN√á√ÉO

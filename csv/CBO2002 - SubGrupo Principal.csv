@@ -1,50 +1,50 @@
 code;name
-01;MEMBROS DAS FOR«AS ARMADAS                                                                                                        
-02;POLICIAIS MILITARES                                                                                                               
-03;BOMBEIROS MILITARES                                                                                                               
-11;MEMBROS SUPERIORES E DIRIGENTES DO PODER P⁄BLICO                                                                                  
-12;DIRIGENTES DE EMPRESAS E ORGANIZA«’ES (EXCETO DE INTERESSE P⁄BLICO)                                                               
-13;DIRETORES E GERENTES EM EMPRESA DE SERVI«OS DE SA⁄DE, DA EDUCA«√O, OU DE SERVI«OS CULTURAIS, SOCIAIS OU PESSOAIS                  
-14;GERENTES                                                                                                                          
-20;PESQUISADORES E PROFISSIONAIS POLICIENTÕFICOS                                                                                     
-21;PROFISSIONAIS DAS CI NCIAS EXATAS, FÕSICAS E DA ENGENHARIA                                                                        
-22;PROFISSIONAIS DAS CI NCIAS BIOL”GICAS, DA SA⁄DE E AFINS                                                                           
-23;PROFISSIONAIS DO ENSINO                                                                                                           
-24;PROFISSIONAIS DAS CI NCIAS JURÕDICAS                                                                                              
-25;PROFISSIONAIS DAS CI NCIAS SOCIAIS E HUMANAS                                                                                      
-26;COMUNICADORES, ARTISTAS E RELIGIOSOS                                                                                              
+01;MEMBROS DAS FOR√áAS ARMADAS
+02;POLICIAIS MILITARES
+03;BOMBEIROS MILITARES
+11;MEMBROS SUPERIORES E DIRIGENTES DO PODER P√öBLICO
+12;DIRIGENTES DE EMPRESAS E ORGANIZA√á√ïES (EXCETO DE INTERESSE P√öBLICO)
+13;DIRETORES E GERENTES EM EMPRESA DE SERVI√áOS DE SA√öDE, DA EDUCA√á√ÉO, OU DE SERVI√áOS CULTURAIS, SOCIAIS OU PESSOAIS
+14;GERENTES
+20;PESQUISADORES E PROFISSIONAIS POLICIENT√çFICOS
+21;PROFISSIONAIS DAS CI√äNCIAS EXATAS, F√çSICAS E DA ENGENHARIA
+22;PROFISSIONAIS DAS CI√äNCIAS BIOL√ìGICAS, DA SA√öDE E AFINS
+23;PROFISSIONAIS DO ENSINO
+24;PROFISSIONAIS DAS CI√äNCIAS JUR√çDICAS
+25;PROFISSIONAIS DAS CI√äNCIAS SOCIAIS E HUMANAS
+26;COMUNICADORES, ARTISTAS E RELIGIOSOS
 27;PROFISSIONAIS EM GASTRONOMIA
-30;T…CNICOS POLIVALENTES                                                                                                             
-31;T…CNICOS DE NÕVEL M…DIO DAS CI NCIAS FÕSICAS, QUÕMICAS, ENGENHARIA E AFINS                                                        
-32;T…CNICOS DE NÕVEL M…DIO DAS CI NCIAS BIOL”GICAS, BIOQUÕMICAS, DA SA⁄DE E AFINS                                                    
-33;PROFESSORES LEIGOS E DE NÕVEL M…DIO                                                                                               
-34;T…CNICOS DE NÕVEL M…DIO EM SERVI«OS DE TRANSPORTES                                                                                
-35;T…CNICOS DE NIVEL M…DIO NAS CI NCIAS ADMINISTRATIVAS                                                                              
-37;T…CNICOS EM NIVEL M…DIO DOS SERVI«OS CULTURAIS, DAS COMUNICA«’ES E DOS DESPORTOS                                                  
-39;OUTROS T…CNICOS DE NÕVEL M…DIO                                                                                                    
-41;ESCRITUR¡RIOS                                                                                                                     
-42;TRABALHADORES DE ATENDIMENTO AO P⁄BLICO                                                                                           
-51;TRABALHADORES DOS SERVI«OS                                                                                                        
-52;VENDEDORES E PRESTADORES DE SERVI«OS DO COM…RCIO                                                                                  
-61;PRODUTORES NA EXPLORA«√O AGROPECU¡RIA                                                                                             
-62;TRABALHADORES NA EXPLORA«√O AGROPECU¡RIA                                                                                          
-63;PESCADORES E EXTRATIVISTAS FLORESTAIS                                                                                             
-64;TRABALHADORES DA MECANIZA«√O AGROPECU¡RIA E FLORESTAL                                                                             
-71;TRABALHADORES DA IND⁄STRIA EXTRATIVA E DA CONSTRU«√O CIVIL                                                                        
-72;TRABALHADORES DA TRANSFORMA«√O DE METAIS E DE COMP”SITOS                                                                          
-73;TRABALHADORES DA FABRICA«√O E INSTALA«√O ELETROELETR‘NICA                                                                         
-74;MONTADORES DE APARELHOS E INSTRUMENTOS DE PRECIS√O E MUSICAIS                                                                     
-75;JOALHEIROS, VIDREIROS, CERAMISTAS E AFINS                                                                                         
-76;TRABALHADORES NAS IND⁄STRIAS T XTIL, DO CURTIMENTO, DO VEST⁄ARIO E DAS ARTES GR¡FICAS                                             
-77;TRABALHADORES DAS IND⁄STRIAS DE MADEIRA E DO MOBILI¡RIO                                                                           
-78;TRABALHADORES DE FUN«’ES TRANSVERSAIS                                                                                             
+30;T√âCNICOS POLIVALENTES
+31;T√âCNICOS DE N√çVEL M√âDIO DAS CI√äNCIAS F√çSICAS, QU√çMICAS, ENGENHARIA E AFINS
+32;T√âCNICOS DE N√çVEL M√âDIO DAS CI√äNCIAS BIOL√ìGICAS, BIOQU√çMICAS, DA SA√öDE E AFINS
+33;PROFESSORES LEIGOS E DE N√çVEL M√âDIO
+34;T√âCNICOS DE N√çVEL M√âDIO EM SERVI√áOS DE TRANSPORTES
+35;T√âCNICOS DE NIVEL M√âDIO NAS CI√äNCIAS ADMINISTRATIVAS
+37;T√âCNICOS EM NIVEL M√âDIO DOS SERVI√áOS CULTURAIS, DAS COMUNICA√á√ïES E DOS DESPORTOS
+39;OUTROS T√âCNICOS DE N√çVEL M√âDIO
+41;ESCRITUR√ÅRIOS
+42;TRABALHADORES DE ATENDIMENTO AO P√öBLICO
+51;TRABALHADORES DOS SERVI√áOS
+52;VENDEDORES E PRESTADORES DE SERVI√áOS DO COM√âRCIO
+61;PRODUTORES NA EXPLORA√á√ÉO AGROPECU√ÅRIA
+62;TRABALHADORES NA EXPLORA√á√ÉO AGROPECU√ÅRIA
+63;PESCADORES E EXTRATIVISTAS FLORESTAIS
+64;TRABALHADORES DA MECANIZA√á√ÉO AGROPECU√ÅRIA E FLORESTAL
+71;TRABALHADORES DA IND√öSTRIA EXTRATIVA E DA CONSTRU√á√ÉO CIVIL
+72;TRABALHADORES DA TRANSFORMA√á√ÉO DE METAIS E DE COMP√ìSITOS
+73;TRABALHADORES DA FABRICA√á√ÉO E INSTALA√á√ÉO ELETROELETR√îNICA
+74;MONTADORES DE APARELHOS E INSTRUMENTOS DE PRECIS√ÉO E MUSICAIS
+75;JOALHEIROS, VIDREIROS, CERAMISTAS E AFINS
+76;TRABALHADORES NAS IND√öSTRIAS T√äXTIL, DO CURTIMENTO, DO VEST√öARIO E DAS ARTES GR√ÅFICAS
+77;TRABALHADORES DAS IND√öSTRIAS DE MADEIRA E DO MOBILI√ÅRIO
+78;TRABALHADORES DE FUN√á√ïES TRANSVERSAIS
 79;TRABALHADORES DO ARTESANATO
-81;TRABALHADORES EM IND⁄STRIAS DE PROCESSOS CONTÕNUOS E OUTRAS IND⁄STRIAS                                                            
-82;TRABALHADORES DE INSTALA«’ES SIDER⁄RGICAS E DE MATERIAIS DE CONSTRU«√O                                                            
-83;TRABALHADORES DE INSTALA«’ES E M¡QUINAS DE FABRICA«√O DE CELULOSE E PAPEL                                                         
-84;TRABALHADORES DA FABRICA«√O DE ALIMENTOS, BEBIDAS E FUMO                                                                          
-86;OPERADORES DE PRODU«√O, CAPTA«√O, TRATAMENTO E DISTRIBUI«√O (ENERGIA, ¡GUA E UTILIDADES)                                          
-87;OPERADORES DE OUTRAS INSTALA«’ES INDUSTRIAIS                                                                                      
-91;TRABALHADORES EM SERVI«OS DE REPARA«√O E MANUTEN«√O MEC¬NICA                                                                      
-95;POLIMANTENEDORES                                                                                                                  
-99;OUTROS TRABALHADORES DA CONSERVA«√O, MANUTEN«√O E REPARA«√O                                                                       
+81;TRABALHADORES EM IND√öSTRIAS DE PROCESSOS CONT√çNUOS E OUTRAS IND√öSTRIAS
+82;TRABALHADORES DE INSTALA√á√ïES SIDER√öRGICAS E DE MATERIAIS DE CONSTRU√á√ÉO
+83;TRABALHADORES DE INSTALA√á√ïES E M√ÅQUINAS DE FABRICA√á√ÉO DE CELULOSE E PAPEL
+84;TRABALHADORES DA FABRICA√á√ÉO DE ALIMENTOS, BEBIDAS E FUMO
+86;OPERADORES DE PRODU√á√ÉO, CAPTA√á√ÉO, TRATAMENTO E DISTRIBUI√á√ÉO (ENERGIA, √ÅGUA E UTILIDADES)
+87;OPERADORES DE OUTRAS INSTALA√á√ïES INDUSTRIAIS
+91;TRABALHADORES EM SERVI√áOS DE REPARA√á√ÉO E MANUTEN√á√ÉO MEC√ÇNICA
+95;POLIMANTENEDORES
+99;OUTROS TRABALHADORES DA CONSERVA√á√ÉO, MANUTEN√á√ÉO E REPARA√á√ÉO
