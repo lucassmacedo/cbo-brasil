@@ -11,4 +11,4 @@ TXT, CSV e JSON.
 ## Contribuidores
 - [Lucas Macedo ](https://github.com/lucassmacedo)
 # Referências
-* http://www.mtecbo.gov.br/cbosite/pages/downloads.jsf
+* [CBO - Ministério do Trabalho](http://www.mtecbo.gov.br/cbosite/pages/downloads.jsf)
